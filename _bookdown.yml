@@ -1,0 +1,22 @@
+book_filename: comprehensive_crap_contemporary_ga
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+# dput(list.files(".", pattern = ".*-(body)_.*"))
+rmd_files:
+  html: []
+  latex: ["index.Rmd",
+  "01-body_governance.Rmd",
+  "02-body_constitution_nepal.Rmd",
+  "03-body_major_acts_rights.Rmd",
+  "04-body_plans_policies_strategies_general.Rmd",
+  "05-body_budgeting_finance.Rmd",
+  "06-body_development_planning_cooperation.Rmd",
+  "07-body_technology_energy_communication_health.Rmd",
+  "08-body_geography_lifestyle_society_environment.Rmd",
+  "09-body_civil_service_public_service_delivery.Rmd",
+  "10-body_public_administration_management.Rmd",
+  "31.1-body_essays_opinions.Rmd"
+]
+  epub: []

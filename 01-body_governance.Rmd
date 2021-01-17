@@ -1,0 +1,1072 @@
+# Governance
+
+## Political history of Nepal
+
+(Discuss in brief the political history of Nepal.)
+
+\begin{solution}
+Records mention the Gopalas and Mahishapalas believed to have been the earliest rulers with their capital at Matatirtha, the south-west corner of the Kathmandu Valley. From the 7th or 8th Century B.C. the Kirantis are said to have ruled the valley. Their famous King Yalumber is even mentioned in the epic, 'Mahabharat'. Around 300 A.D. the Lichhavis arrived from northern India and overthrew the Kirantis. One of the legacies of the Lichhavis is the Changu Narayan Temple near Bhaktapur, a UNESCO World Heritage Site (Culture), which dates back to the 5th Century. In the early 7th Century, Amshuvarma, the first Thakuri king took over the throne from his father-in-law who was a Lichhavi. He married off his daughter Bhrikuti to the famous Tibetan King Tsong Tsen Gampo thus establishing good relations with Tibet. The Lichhavis brought art and architecture to the valley but the golden age of creativity arrived in 1200 A.D with the Mallas.
+
+During their 550 year rule, the Mallas built numerous temples and splendid palaces with picturesque squares. It was also during their rule that society and the cities became well organized; religious festivals were introduced and literature, music and art were encouraged. After the death of Yaksha Malla, the valley was divided into three kingdoms: Kathmandu (Kantipur), Bhaktapur (Bhadgaon) and Patan (Lalitpur). Around this time, the Nepal as we know it today was divided into about 46 independent principalities. One among these was the kingdom of Gorkha with a Shah ruler. Much of Kathmandu Valley's history around this time was recorded by Capuchin friars who lived in the valley on their way in and out of Tibet.
+
+An ambitious Gorkha King named Prithvi Narayan Shah embarked on a conquering mission that led to the defeat of all the kingdoms in the valley (including Kirtipur which was an independent state) by 1769. Instead of annexing the newly acquired states to his kingdom of Gorkha, Prithvi Narayan decided to move his capital to Kathmandu establishing the Shah dynasty which ruled unified Nepal from 1769 to 2008.
+
+The history of the Gorkha state goes back to 1559 when Dravya Shah established a kingdom in an area chiefly inhabited by Magars. During the 17th and early 18thcenturies, Gorkha continued a slow expansion, conquering various states while forging alliances with others. Prithvi Narayan dedicated himself at an early age to the conquest of the Kathmandu Valley. Recognizing the threat of the British Raj in India, he dismissed European missionaries from the country and for more than a century, Nepal remained in isolation.
+
+During the mid-19th Century Jung Bahadur Rana became Nepal's first prime minister to wield absolute power relegating the Shah king to mere figureheads. He started a hereditary reign of the Rana Prime Ministers that lasted for 104 years. The Ranas were overthrown in a democracy movement of the early 1950s with support from the-then monarch of Nepal, King Tribhuvan. Soon after the overthrow of the Ranas, King Tribhuvan was reinstated as the Head of the State. In early 1959, Tribhuvan's son King Mahendra issued a new constitution, and the first democratic elections for a national assembly were held. The Nepali Congress Party was victorious and their leader, Bishweshwar Prasad Koirala formed a government and served as prime minister. But by 1960, King Mahendra had changed his mind and dissolved Parliament, dismissing the first democratic government.
+
+After many years of struggle when the political parties were banned, they finally mustered enough courage to start a People's Movement in 1990. Paving way for democracy, the then-King Birendra accepted constitutional reforms and established a multiparty parliament with King as the Head of State and an executive Prime Minister. In May 1991, Nepal held its first parliamentary elections. In February 1996, the Maoist parties declared People's War against monarchy and the elected government.
+
+Then on 1st June 2001, a horrific tragedy wiped out the entire royal family including King Birendra and Queen Aishwarya with many of their closest relatives. With only King Birendra's brother, Gyanendra and his family surviving, he was crowned the king. King Gyanendra abided by the elected government for some time and then dismissed the elected Parliament to wield absolute power. In April 2006, another People's Movement was launched jointly by the democratic parties focusing most energy in Kathmandu which led to a 19-day curfew. Eventually, King Gyanendra relinquished his power and reinstated the Parliament. On November 21, 2006, Prime Minister Girija Prasad Koirala and Maoist chairman Prachanda signed the Comprehensive Peace Agreement (CPA) 2006, committing to democracy and peace for the progress of the country and people. A Constituent Assembly election was held on April 10, 2008. On May 28, 2008, the newly elected Constituent Assembly declared Nepal a Federal Democratic Republic, abolishing the 240 year-old monarchy. Nepal today has a President as Head of State and a Prime Minister heading the Government.
+
+The Constituent Assembly made significant progress to accomplish the mandate of writing a new democratic constitution of Nepal during its first 4 years term. The country also had an extensive democratic exercise in that direction including collection of public inputs on the contents of the new constitution and intense deliberations in the Assembly. However, due to political disagreements on some of the contentious issues like federal provinces and form of government, the first CA could not accomplish the historic task and there was natural termination of its mandate in 2012. The election of CA II was held in November 2013 and in its first meeting, leaders of political parties set the timeline of 1 year to complete the task of writing the new constitution.
+
+Devastating earthquake of 7.8 magnitude hit Nepal in April 2015 followed by several powerful aftershocks causing loss of life, infrastructure and property in an unimaginable scale. Most mid hill districts of Nepal including Kathmandu valley saw massive devastation. This terrible experience created a sense of urgency among political parties to expedite the constitution writing so that a political process would come to a meaningful conclusion and country can divert all its focus on post disaster reconstruction.
+
+After weeks of zeroing in on most contentious issues, political parties sorted them out paving the way to finalize the constitution. The new constitution of Nepal was promulgated through an overwhelming majority of the votes of CA members on September 20, 2015. With this historic achievement, the decades-long dream of Nepali people to have a constitution made through an elected representative body has now been realized. As per the provisions of the new constitution, elections of the new President, Prime Ministers and some other State positions have been successfully held.
+
+source: \url{https://mofa.gov.np/about-nepal/history-of-nepal/}
+\end{solution}
+
+## Public policy: Introduction
+
+Public policy is the process by which governments translate their political vision into programmes and actions to deliver outcomes.
+
+In his book 'Advanced Introduction to Public Policy', B. Guy Peters defines public policy as "the set of activities that governments engage in for the purpose of changing their economy and society", effectively saying that public policy is legislation brought in with the aim of benefiting or impacting the electorate in some way.
+
+Author B. Dente in his book 'Understanding Policy Decisions' explains public policy as "a set of actions that affect the solution of a policy problem, i.e. a dissatisfaction regarding a certain need, demand or opportunity for public intervention. Its quality is measured by the capacity to create public value."
+
+Democracy itself is a public philosophy driven by rule-governed leaders desiring to fulfil public needs and rights. Leaders acting solely for private gain devoid of public concern lose legitimacy. Effective leaders concert actions by crafting policies and mobilising human and material resources to achieve public goals whether it is managing public security, reducing poverty, supplying foods, health, education, drinking water, energy, unsettled accounts, or control epidemics. Public policy focuses on the decisions that create the outputs of a political system, such as transport policies, the management of a public health service, the administration of a system schooling and the organization of a defence force. The public problems that influence public policy making can be of economic, social, or political nature.
+
+Rational choice theory, or now more frequently known as evidence-based policy, argues that focusing on scientific evidence, instead of history and culture, should guide our public policy making.
+
+Public policy making can be characterized as a dynamic, complex, and interactive system through which public problems are identified and resolved by creating new public policy or by reforming existing public policy.
+
+Public policy making is an exhausting and time-consuming 'policy cycle'. The basic stages of policy cycle are as follows;
+
+- a problem is identified, 
+- a policy response is formulated, 
+- the preferred solution is then selected and implemented, and 
+- finally the policy is evaluated. 
+
+However, the evaluation stage takes an in depth look into what can be learnt from the process as a whole, whether the original problem has been solved, and if not, what is recommended as an alternative course of action. Thus, returning policy makers to the very first step; the identification. 
+
+In public policy making, numerous individuals, corporations, non-profit organizations and interest groups compete and collaborate to influence policymakers to act in a particular way. The large set of actors in the public policy process, such as politicians, civil servants, lobbyists, domain experts, and industry or sector representatives, use a variety of tactics and tools to advance their aims.
+
+Public policies come from all governmental entities and at all levels: legislatures, courts, bureaucratic agencies, and executive offices at national, local and state levels. Many actors can be important in the public policy process, but government officials ultimately choose public policy in response to the public issue or problem at hand. In doing so, government officials are expected to meet public sector ethics and take the needs of all project stakeholders into account. It is however worth noting that what public policy is put forward can be influenced by the political stance of the party in power.
+
+Since societies have changed in the past decades, the public policy making system changed too. In the 2010s, public policy making is increasingly goal-oriented, aiming for measurable results and goals, and decision-centric, focusing on decisions that must be taken immediately. Furthermore, mass communications and technological changes such as the widespread availability of the Internet have caused the public policy system to become more complex and interconnected.
+
+**Framework for public policy formulation in Nepal**
+
+- Constitution of Nepal is the major source which provides guidance to define the frame of public policy formualtion in Nepal.
+- The provisions of preamable which are not subject to changes;
+- Provision of constitutional commissions;
+- Theory of separation of power; and
+- Guiding principles of the state have provided the government with a framework for policy formulation.
+
+**Factors influencing public policy formulation in Nepal**
+
+- Policy guidance as visualized and framed in the constitution
+- Political vision reflected in the election manifesto of political parties
+- Philosophical/ideological ground setting the political culture of the political parties
+- Public agencies and bureaucracy
+- Development partners' interests
+- Economic actors: market, private sectors and agencies of globalization
+- Key economic/fiscal (Ministry of Finance) and development planning (National Planning Commission) agencies
+- Pressure groups and minorities' stakeholders
+- Elites and community leaders
+- Voters, the common people
+- Professional institutions
+- Resources
+
+**Gaps in policy making**
+
+A set of inter-related issues that limit the effective policy process in Nepal are:
+
+- Defining policy problem properly is undermined to existing practice of individual decision making.
+- Limited professional capacity, knowledge, skill and integrity in policy making
+- Various pressure groups, I/NGOs and elites dominate over the public interest
+- Policy making based on personal perception and lack of institutional homework and preparation.
+- In many other instances, undue political influences also affect the policy process.
+- Practice of imitating policy substances from the other countries without realizing the different domestic needs and context.
+- Influenced by international agencies which may not reflect the welfare of the country.
+- Substantially influenced by the policy changes in India owing to the deepened political, economic, cultural relationship and open border.
+- Coordination and management of the stakeholders and neutral buereaucracy which are critical for the effective policy process are poor.
+- Inadequate communication of the policy provisions, ineffective monitoring and evaluation mechanisms limit effective policy management practice in Nepal.
+
+The failure of each public policy in Nepal to achieve the goals can be credited to policy makers’ skill on means, not ends, to link technical knowledge to desirable collective action. The uncanny challenges faced by Nepal at multi-level governance follow the same legacy breeding unequal effects on various spaces. Administrative blockage, political factionalism and social movements continue to strain the state’s outreach and exercise authority in society vital to the art of governance. Without a pluralistic policy consensus, improving the lives of Nepalis lingers.
+
+The ability of Nepali state to attain autonomous capacity to formulate public policy rests on social learning aptitude of policy makers and skill in cleaning the imported policies and ideologies so that they fit people’s knowledge, needs and legitimate institutions, such as community, local governance and parliament to musters their ownership and stake. So far Nepali policy makers have diagnosed the nation’s problem of progress by disciplinary angle of single-cause determinant - traditional society, landlocked position, dependency, intellectual marginalisation, centralisation of power, gender inequality, social hegemony, fatalism, population growth, migration of youth, economic liberalisation, aid conditionality, etc. and prescribed corresponding solution. Latest fads of number-crunching growth, structural adjustment and SDGs as shorthand for progress in no way provide guarantee for maximising welfare gains given dismal growth of labour market. Worse still, each policy discipline contests the knowledge of the other rather than engages in mutual learning to situate the policy in the Nepali context and duly reform it through social feedbacks.
+
+Public policy has now moved beyond 'rational choice' to impact assessment at various spheres—ecology, politics, society and security. It has offered judicious roles for Nepali state in infrastructure, public goods, justice and regulatory regime in which it can determine and enforce the rule of law and equip leaders to endorse binding measures of public policy on what works. Since majority of Nepalis stands between the capital and the labour, policy response for progress must capture the middle ground by accepting the power of global market to spur innovation, efficiency, competition, investment and productivity growth in a framework of welfare state.
+
+Obviously, progress can be achieved only if contribution of each actor fists into the polity, makes everyone connected through social inclusion which also minimises the losers. The stability of democratic polity rests on the supply of public goods. Nepal’s commitment to human rights, humanitarian laws and constitution prompt the leaders to formulate and coordinate policies, allow elected bodies to mediate them and balance the public, private and cooperative sectors based on their relative gain. The pursuit of justice of Nepalis spurs an intrinsic right to human dignity. An economy cannot grow without social support and ecological sustainability. Coping with change entails Nepalis lifelong learning of problems and formulation and execution of correct public policy. As their lives have become increasingly complex, only a free discourse of diverse options can help evolve a systemic view on public policy.
+
+## Good governance
+
+\begin{questions}
+
+\question What is good governance ?
+
+\begin{solution}
+
+There are various definitions of the term \textit{good governance}. These definitions are based on normative assumptions about how decisions should be made within organizations and the functioning of formal and informal structures for implementing such decisions. The UN Commission on Human Rights identifies transparency, responsibility, accountability, participation, and responsiveness as key attributes of good governance. By linking good governance specifically to human rights and sustainable development, the UN explicitly recognizes that governance issues are global in nature and consequently require more nuanced and integrated approach. 
+
+Good governance is a process of executing a coherent governing plan for the nation based on the interests and priorities of the people. It purports to create a just society based on the principles of inclusiveness, liberty, equality and cooperation. Those in office, especially the elected ones, must represent the concerns, values and needs of the people and empower them through the realization of their basic rights, including the right to development and self-determination, by developing their access to markets, assets, goods and services and institutions. In the post-modern society, citizens' ability to articulate their needs to those in power lies in a transparent communication process. This process needs to provide them proper access to the institutions of governance, the media and expert policy dialogues that affect their lives. This is the way sovereign citizens can make the governing power transparent and accountable. Good governance equally needs self-discipline and integrity of those in power, the corporate sector and civil society.
+
+The Canadian International Development Agency defines good governance as "the exercise of ower by an organization (or government) in an effective, equitable, honest, transparent, and accountable way". This approach to governance focuses on how organizations are directed, controlled and shown to be acting responsibly.
+
+Good governance thrives on a rediscovery of common grounds on which the elite --political leaders, bureaucracy, businesspersons and ordinary citizens-- agree on the core public issues and shape their respective courses of action. In a polyglot population, the architecture of good governance rests on the sound legitimacy of governors which is possible only in a climate where there is broad representation of social interests and where a heritage of pride in social pluralism combines with an honor for culture, family, education and statecraft. A great degree of fairness during election and a broad-based representation of diverse sections of people are required to establish the legitimacy of leaders. It is this legitimacy that provides a kind of public order in the system. Yet, a system can only become stable if the society becomes wealthy enough to overcome the tumult arising out of various political, ideological, social and religious convictions. Modernization also requires a reform in the entrenched work ethics that deprecates manual labor. Such ethics comes from a feudal tenure system that fosters share tenancy and exploits the peasants and workers which prevents the transformation of a largely agrarian society into a modern and prosperous one.
+
+UNDP defined good governance as: Good governance is (the striving for) rule of law, transparency, responsiveness, participation, equity, effectiveness and efficiency, accountability and strategic vision in the exercise of policical, economic and administrative authority.
+
+The UNDP (1997) articulates eight principles of good governance. These principles are:
+
+\begin{enumerate}
+\item \textbf{Equality of participation in decision making.} All people, irrespect ve of sex, class, or race should be heard and allowed to participate in deliberations that affect them directly or indirectly. In democratic societies, citizens can participate in various ways, ranging from voting to involvement in acts of civil disobedience. In many instances, participation must be informed and organized through civil society actors who can often leverage resources more successfully. Good governance implies that organizations encourage participation from those who may both benefit or be harmed by any decisions taken. Participation also means that individuals have the rights of freedom of association and expression, and to participate in organized civil society without fear of retribution or the stigma of being labeled unfairly as a "special interest" group.
+\item \textbf{Organizations must be responsive to the needs of all stakeholders in a reasonable timeframe.} On one level, this means that organizations must hire, train, and retain employees to achieve optimal response time and high quality outcomes. On a more general level, organizations must ensure that they have the capacity, and in some cases the autonomy, to implement changes to structure and management systems to maximize efficiency.
+\item \textbf{Organizations must mediate differences between stakeholders to reach a broad consensus.} Good governance requires that organizations involved in divisive issues like abortion, stem-cell research, human cloning, euthanasisa, etc. enter such debates in the spirit of cooperation and mediation. To achieve this goal, organizations must treat all stakeholders consistently and fairly.
+\item \textbf{Organizations must be accountable to the stakeholders they serve.} Good governance requires a broad definition of who such stakeholders may be. Many organizations limit intentionally the list of those they define as valid stakeholders to narrow the scope of decision-making authority, the range of topics addressed, and the nature of the decisions that are made. In general, organizations should be accountable to those affected by the entire range of decisions or actions made and implemented by an organization.
+\item \textbf{Organizations must strive for transparency in their decision-making processes so that interested parties can understand the bases of decisions and monitor progress.} Good governance requires that organizations justify decisions made by demonstrating how such decisions respect the precedent from previous decisions.
+\item \textbf{Organizations must work within legal frameworks that are crafted in fair ways, enforced impartially, and attuned to human rights issues.} Good governance means that a country’s legal environment should be conducive to development. Investors must feel comfortable that due process will be followed in all countries of interest, and that a wide range of issues including protection of intellectual property, fair application of trade subsidies and sanctions, and a regulated financial marketplace exist. Organizations must also follow the laws of the land and ensure that all decisions made are consistent with such laws.
+\item \textbf{Decisionmakers should have a broad and long-term vision on how to better the processes of governance to ensure continued economic and social development.}
+\item \textbf{Good governance involves guaranteeing the rights of all individuals to maintain and improve their well-being in an equitable and inclusive manner.} This principle conveys the message that good governance is about stewardship and care and that it involves the highest ethical positioning possible.
+\end{enumerate}
+
+Clearly, good governance is more political than technical in nature and emphisizes the primacy of equality and the value of vision, strategic thinking, and planning. Good governance is a tool for making organizations work more effectively in a world where trust is declining in government, industry, science, and other institutions. Good governance is based on democratic values that stimulate administrative reforms that affect a range of organizations.
+
+The World Bank has compiled a list of six dimensions of public-sector governance that are used in an aggregate fashion to measure the quality of governance: voice and accountability, political stability and absence of violence, government effectiveness, regulatory quality, rule of law, and control of corruption. As new global standards of governance emerge, indicators like these can be used to diagnose failures and to suggest solutions to a range of performance and process issues.
+
+Good governance is an ideal that is difficult to achieve. Although it is essential for ensuring national prosperity by increasing acccountability, reliability, and predictability of decision making in governments, corportations, and non-governmental organization. To ensure that good governance prevails, elected representatives, corporative executives and boards of directors, professional bodies, and civil society groups need to become more active in learning about the perils associated with "bad" governance (social inequality, development failures, and corporate scandals) and push for stronger laws and policies that protect the public interest.
+
+Founding concept of good governance for Nepal began with the description of \textit{Ram Rajya}, meaning the ideal state. Vedic norms and values of Nepal were guided by this philosophy. As a model figure in statemanship, Ram, an ancient king of south asia, is famous in eastern society. He is well known for sacrificing his much loved wife addressing the public. Governance comprises the mechanisms, processes and institutions through which all the stakeholders, viz., the state, private sector, civil society and citizens articulate their interests.
+
+Following series of events can be identified to have institutionalized the issue of good governance in Nepal:
+
+\begin{itemize}
+\item Before 1950s the developing countries' governments oversaw as their major responsibility the task of promoting peace and security and tax collection. After the second world war the focus shifted on the development management. Likewise, the developed countries showed interest in supporting lesser developed ones.
+\item Developed countries offered support indifferenty of the aidee country's diversity and the receiver country could not execute planned development programmes due to variety of socio-economic problems.
+\item During 1980 it was acknowledged that donor countries should alter their policies regarding development aid while the receiver country should strieve to resolve socio-economic hurdles.
+\item For the purpose of maximum utilization of foreign aid, donor countries prepared an Aid Agenda which included good governance as a criteria for granting the support.
+\item It was first defined by World Bank in 1989 which broadened the meaning of governance by incorporating the role and interconnection of three different actors: Government (state actors and institutions), Civil Society (civil alliances and non-governmental organizations) and Private Sector (households and companies).
+\item 
+\end{itemize}
+
+However, not a single political party, regime or movement has been able to quash the contributing factors of bad governance. For the last six decades, Nepal has become the zenith of corruption that is leading Nepal toward a failed state. Many types of corruption are prevailing in Nepal that range from petty corruption, grand corruption, legal, moral and political corruption to organized crimes, which have become one of the impeding formidable forces in ensuring good governance. In Nepal, bureaucracy or public sectors have suffered most from the rampant corruption. In fiscal year 2015/16, Commission for the Investigation of Abuse of Authority (CIAA) Nepal received a total of 15,126 cases of corruption.  Furthermore, according to corruption perception index, Nepal ranks 131st out of 175 countries in the world. From 2004 to 2016, Nepal’s average rank on corruption index has been 133 out of 175 countries.
+
+\end{solution}
+
+\end{questions}
+
+### Problems of good governance in Nepal
+
+(Mention the problems for achieving good governance in Nepal)
+
+### Rule of Law
+
+(What do you mean by rule of law ? Explain.)
+
+### Ethics
+
+(Law and ethics are considered to be the two tools for controlling human conduct so as to make it conducive to civilized social existence. Discuss how they achieve this objective. Giving examples, show how the two differ in their approaches.)
+
+\begin{solution}
+
+Law are the system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties.
+Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime.
+
+How law and ethics help in conductive social existence
+
+By moulding human character
+
+Ethics tries to mould human character into morally sound individual so that he/she follows set of rules that uphold good values. These values see to it that the individual does not indulge in unethical and non acceptable activities.
+
+Fear of punishment
+
+Laws are designed on the principles of generating fear in an individual for violating certain regulations imposed by the state. These regulations have to be followed in all conditions so that society is free from chaos. The laws have the ability to create virtual boundaries for human behaviour.
+
+Clarity of thought process
+
+The ultimate idea of law and ethics is to create a clarity in thought process of individuals so that they can understand what is good and bad. This will enable them to take the right decision, which will be beneficial for civilised society.
+
+How ethics and law differ from each other
+
+Explicit and implicit nature
+
+Laws are basically codified by either the state or relevant authorities and explicitly defined, making its interpretation and understanding easier. Ethics do not have a fixed version and is basically case to case basis when it comes to interpretation. Ethical in one case may not be ethical in another. For example, murder is a crime that is explicitly given in law and does not vary on case to case basis. Lying is unethical in some cases whereas it is acceptable in some cases.
+  
+General vs Specific
+
+Ethics is based on general idea of good and bad, correct and wrong and is thusvague when it comes to exact relevance. Law is usually specific for a specific case and applies for that case only.
+
+Ex: When a particular crime occurs, ethics tries to understand the underlying circumstances to say whether it is ethical or unethical. In law there is no focus on circumstances but instead only sees whether the act was crime under the law.
+
+Thus, laws and ethics may have different reasons for its existence but the underlying idea of both is to maintain socially conductive practices.
+
+source: \url{https://www.upsciq.com/law-and-ethics-considered-two-tools-controlling-human/}
+\end{solution}
+
+### Inclusiveness, special groups, rights and exercise in positive discrimination
+
+(for data concerning demographics refer to Population Census, 2068)
+
+What is the meaning of reservation ? Why is it necessary in government services ? Mention.
+
+Recent census of 2011 has categorized 125 caste as well as ethnic communities in Nepal out of 26.5 million population. Over 92 spoken languages and more than 10 religions are identified in the country, although Nepali language and hindu religion characterize the largest fraction of the population. Social exclusion is known to be one of the main setbacks for inclusive democracy to prosper.
+
+Women cut across all categories irrespective of caste, ethnicity, individuals with disabilities, or children. Six categories, based on sex, caste, ethnicity, religion, religious and physical condition, have been listed as excluded groups.
+
+Excluded groups confront different sets of developmental challenges that more or less relate to securing basic rights to living a quality life. Marginalization from mainstream development, discrimination, under-representation in politics and beureaucracy and lack of competent power are some of the major problems.
+
+Measures are being institutionalized to secure for these groups the active participation in social, economic and political development with Nepal's endorsement of international human development agendas. One of those indlude the ratification of treaty on Ellimination of all Forms of Discrimination Against Women which came into effect on Sept 1981. Over the years pacts like the Indian Poona Pact, have created an obligation on the government to protect minority rights. Recent policy reforms target promotion of equality, participatory development, social security, positive discrimination, reservation on beureaucracy, gender budgeting and targeted program.
+
+Constitution of Nepal, 2072 defines Nepal as a multi ethnic, multi linguistic and multi religious country, and home to people of diverse races, religions, castes, socio economic conditions and languages. It has done fair justice to those holding small numbers in terms of population by ensuring their representation in all institutions of the country. It is said that a country's diversity should be reflected in every sector, only then can its diversity or heterogeneity be preserved. Minority rights serve as a basis for their representation in diverse sectors of the society. 
+
+- As per Article 42 of the constitution, socially backward women, Dalit, indigenous people, indigenous nationalities, Madhesi, Tharu, minorities, persons with disabilities, marginalised communities, Muslims, backward classes, gender and sexual minorities, youths, farmers, labourers, the oppressed and citizens of backward regions and indigent Khas Arya qualify for reservation in government jobs.
+
+- The second amendment of Civil Service Act, 1993 in order to increase participation in civil service through introduced reservation system, has allocated (pursuant to Chapter 3, Subsection 7, Clause 1 and 2)) 45% of the total posts to fulfilled by open competition to be set aside by having separate competition between the following candidates only (by considering the percentage into cent percent):
+
+  - Women: 33%
+  - Adiwasi/Janjati: 27%
+  - Dalit: 9%
+  - Disabled: 5%
+  - Backward area: 4% (Comprising Accham, Kalikot, Jajarkot, Jumla, Dolpa, Bajhang, Bajura, Mugu and Humla districts only)
+  
+The act also has made an arrangement for reviewing the impact of the above provision in a period of ten years. Moreover, the act has fixed 40 years as the age bar for women candidates to enter in the civil service, whereas the same is set to 35 years for men. Besides that individuals recruited through the reservation may be eligible for promotion only one year after working on a post.
+
+- Government initiated a project named Governance reform program 2001-2005. One of the responsibilities of this program was to explore the level of marginalization and to suggest corrective measures for the government. The project report, for the first time in Nepal, proposed quota reservation for marginalized people in Nepal.
+
+Through inclusivity and affirmative action, representation of the most deprived community is ensured. However, there have been criticisms that mishandling of privilage may tarnish merit based system in civil service. Again, it can be misused by those in charge of power in the deprived community itself. Here however is an opportunity for us to set an worldly example if the reforms are to avail themselves in a decade or so, but undoubtedly till then implementation of this democratic constitution remains the key challenge.
+
+#### Reservation and the Khas Arya
+
+Citizens' rights to equality, justice and non- discrimination are ingrained principles that reaffirm the idea of inclusion in Nepal's 2015 Constitution, which in some areas has carried over relevant provisions from the Interim Constitution. For instance, the new constitution guarantees 33 per cent representation for women in the House of Representatives, the lower chamber of Parliament, and also in provincial legislatures. It also provides for 'proportionate inclusion' in government service (Article 285), which, in principle, would mean that the government would begin to reflect the country's social diversity.
+
+However, the new constitution also dilutes important commitments to greater inclusion by increasing the number of groups qualifying for reservations, and by using vague language that can be interpreted in different ways. Some marginalised communities have been pushing for revisions that can better uphold their interests. But the provision on the 'Right to Social Justice' in the new constitution identifies many more 'clusters' for reservation, a significant proportion of which are poorly defined, while the incorporation of the Khas Arya (a historically advantaged, 'upper caste' group) among the new groups qualifying for reservations adds a more specific complication.
+
+Initially, a total of 17 groups were mentioned in the new constitution as deserving special attention: 'Women, Dalit, indigenous people, Adivasi Janajati, Madhesi, Tharu, minorities, persons with disabilities, marginalised communities, Muslims, backward classes, gender and sexual minorities, youth, farmers, labourers, oppressed or citizens of backward regions, and indigent Khas Arya shall have the right to participate in state bodies on the basis of principles of inclusion' (Article 42).
+
+Heeding the demands of Madhesis and Janajatis, the first amendment of the constitution in January 2016 changed 'principles of inclusion' to 'principles of proportional inclusion'. Previously, 'proportionate inclusion' had been guaranteed only to women (Article 38) and Dalits (Article 40). The amendment also removed 'youth' and the superfluous 'indigenous people' (already covered by Adivasi Janajati), and re-ordered the groups as: 'Women, Dalit, Adivasi Janajati, Madhesi, Tharu, Muslims, backward classes, minorities, marginalised communities, persons with disabilities, gender and sexual minorities, farmers, labourers, oppressed or citizens of backward regions, and indigent Khas Arya'. Article 42 also includes the qualifier 'who are economically, socially or educationally backward' for the above groups, although it is not clear to which groups such a description applies or if it meant for all.
+
+Besides cluttering the list with undefined groups such as 'backward classes', 'minorities' and 'marginalised communities', all of which terms are also applicable to the historically marginalised, Article 20 shows how the 2015 Constitution has also provided reservations to the already dominant Khas Arya, a group that is overwhelmingly represented in all state structures. The addition of the Khas Arya stands against the principle of proportional inclusion and implies a potential reduction of positions reserved for marginalised communities as well as for women. Further, none of the communities other than the Khas Arya has been defined under the Constitution of 2015 (Article 176.6), effectively giving constitutional validity to the four groups described as belonging to this category while denying such validity to the more than a hundred that belong to the marginalised. This was a blatant instance of the Khas Arya, who were in leading positions in all the major parties represented in the Constituent Assembly, misusing their power to fulfil their own needs.
+
+Hence, under the new constitution, the Khas Arya community can lay claim to the reservation facility under five of the 15 eligible categories - as women, as labourers, as farmers, as belonging to backward regions, and as 'indigent' Khas Arya (as well as disabled people and gender and sexual minorities). It is true that poverty affects all communities, including the Khas Arya, but rather than address this through a programme aimed at poverty reduction, the 2015 Constitution has instead envisaged the reservation policy as a means towards that end, instead of recognising reservations as being aimed at empowering marginalised communities.
+
+The 2015 Constitution has also provided for a National Inclusion Commission whose 'functions, duties and powers' state that it is to engage in various activities for the welfare of 'the Khas Arya, backward classes, persons with disabilities, senior citizens, labourers, farmers, minorities and marginalised communities, people from Karnali and the poor'. Once again, the Khas Arya have been clearly identified whereas more excluded groups have been lost in a long list of undefined categories of people.
+
+#### Representation and the Tarai
+
+The Interim Constitution had ensured that the Tarai, which is home to half of Nepal's population, would secure seats in the CA in proportion to the region's population under the first-past-the-post (FPTP) part of the election. Nepal's electoral system is split between FPTP and proportional representation (PR). In relation to inclusion more broadly, under the terms of the Interim Constitution, 58 per cent of the membership of both Constituent Assemblies was elected through PR – a deliberate design meant to increase the representation of marginalised communities. The new constitution has reduced this proportion to 40 in the federal parliament as well as the provincial legislatures.
+
+The mandate given to the Constituency Delimitation Commission under the Interim Constitution was to 'determine the number of members to be elected on the basis of the population of each district ... maintaining as far as practicable proportionality between the number of members and the population of the districts' (Article 154A.6). Under the present constitutional dispensation, the number of constituencies has a higher significance since 60 per cent of the legislative seats at both the federal and provincial levels will be elected directly through the FPTP system.
+
+The new constitution weakened this commitment, whereby the Constituency Delimitation Commission would 'consider geography and population as the basis for representation, and maintain as far as practicable the equal ratio or proportionality between geography, population and the number of members' (Article 286.5). The equal weight given to geography and population would mean the Tarai, which covers only 17 per cent of the country's territory but holds 50 per cent of the population, would lose out. The first amendment made the basis of delineation to be population first, and only then geography, in order to provide more seats to the Terai. But because each district is also to have at least one electoral constituency and with the hills and mountains accounting for 55 of the country's 75 districts, it is yet unclear whether or not the southern plains will get seats in proportion to their population.
+
+Further, the time period to re-delineate electoral districts has also been doubled from every 10 years in the Interim Constitution, following the decennial census, to every 20 years in the new statute. This arrangement is likely to reduce representation from the Tarai over time, given the migration patterns of people from the hills to the Tarai; the percentage of Pahadis (people of hill origin) living in the Tarai rose from six to 36 per cent between 1952 and 2011.
+
+Representation in the Upper House of Parliament (National Assembly) is also a challenge. The new constitution states that each of the agreed seven federal provinces shall send eight representatives to the National Assembly (including, encouragingly, at least three women, one Dalit, and one representing people with disabilities or a minority community). But it also means that Province 2, the only province that comprises exclusively Tarai districts and which has a population size of 5.4 million, will have the same representation in the National Assembly as Province 6, with just 1.5 million people
+
+source: \url{https://www.c-r.org/accord/nepal/comparing-2007-and-2015-constitutions}
+
+### Good governance (Management and operation) act, 2064 (2008)
+
+- Date of authentication and publication: 2064/10/23 (Feb 6, 2008)
+
+Preamble
+
+Preamble: Whereas, it is expedient to make legal provision in relation to good governance by making public administration of the country pro-people, accountable, transparent, inclusive and participatory and make available its outcome to the general public; upon adopting the basic values of good governance like rule of law, corruption-free and smart (lean or smooth) administration, financial discipline, and efficient management of public work and resources to create situation for providing public services in speedy and cost-effective manner; by bringing into execution (enforcement) of the right of the citizens upon having good governance by translating it to practical reality; and transform the administrative mechanism into service delivery mechanism and facilitator;
+
+Chapter-1: Preliminary
+  - Short title and commencement
+  - Definitions: Constitution, Minister, Secretary, Ministry, Head of department, Office in charge, Prescribed
+
+Chapter-2: General provisions regarding to the Operation (execution) of governance
+  \begin{itemize}
+  \item Functions to be carried out at different levels
+  \item Thematic (subject wise) ministry and department to be constituted
+  \item Essential body may be constituted
+  \item Basis for executing administrative functions
+    \begin{itemize}
+    \item Greater interest of nation and people
+    \item Equity and inclusiveness
+    \item Rule of law
+    \item Guarentee of human rights
+    \item Transparency, objectivity, accountability and honesty;
+    \item Economic (financial) discipline, corruption-free, lean (smart) and people-oriented administration
+    \item Impartiality and neutrality of administrative mechanism
+    \item Access of people to administrative mechanism and its decision
+    \item Decentralization and devolution of powers; and
+    \item Popular participation and optimum utilization of local resources
+    \end{itemize}
+  \item Policies to be pursued by the Government of Nepal:
+    \begin{itemize}
+    \item Economic liberalization
+    \item Poverty alleviation
+    \item Social justice
+    \item Sustainable and efficient management of natural and public resources
+    \item Empowerment of women and promotion of gender justice
+    \item Environmental protection
+    \item Uplifting of ethnic groups, dalit, economically and socially backward classes
+    \item Development of remote areas and balanced regional development
+    \end{itemize}
+  \end{itemize}
+
+Chapter-3: Operation and responsibility of administrative function
+
+  - Maintaining good governance to be the duty of concerned authority
+  - Responsibility of the minister
+  - Chief secretary and his/her responsibility (Functions, powers, duties and responsibilities):
+  
+  \begin{itemize}
+  \item To perform or cause to perform the functions of the office of prime minister and council of ministers as an administrative chief of that office under the supervision and direction of the prime minister,
+  \item To supervise the functions carried out by the secretaries and other special class officers of the Government of Nepal as a supervisor and issue necessary direction in relation to their administrative works,
+  \item TO coordinate or cause to coordinate among the functions of different Ministries and other concerned bodies,
+  \item To coordinate among the different Ministries and other institutions of the central level to implement or cause to implement goverance reform programme as an integral part of the country's public administration
+  \item To act as the secretary of the Council of Ministers and authenticate the decisions of the council of minister in that capacity,
+  \item To mobilize or cause to be mobilized the concerned ministries for the execution of the decisions of Government of Nepal (Council of Minister) and supervise the status of implementation of those decisions,
+  \item To motivate the secretar yand other officials for making administrative mechanism of the country lean (smart) and effective,
+  \item To convene the meeting of secretary, from time to time, to make functions of the Government of Nepal effective; and supervise the status of implementation of the decisions taken by such meetings,
+  \item To moniter, inspect and supervise or cause to do so to administrative functions of the different ministries and other offices at the central level,
+  \item To scrutinize (examine) the agenda/proposal submitted by the secretaries and present them for the decision of the Government of Nepal, Council of Ministers, and return or cause to return in case such agenda/proposal found to be incomplete,
+  \item To moniter or cause to be monitored the state of enforcement (execution) of bilateral and multilateral treaty of which Nepal is a party,
+  \item To perform other prescribed functions
+  \end{itemize}
+  
+  - Responsibility of the secretary:
+  
+  \begin{itemize}
+  \item Facilitate the concerned minister to formulate policy of the Government of Nepal
+  \item Carry out the functions of the ministry or constitutional body or central level office of his/her incumbency under the direction and supervision of the concerned minister
+  \item Present proposal before the concerned minister for necessary reform in policy matters in the ministry of constitutional body or central level office of his/her incumbency
+  \item Control and supervise over the management, daily work performance and civil servant of the ministry or constitutional body or central level office of his/her incumbancy.
+  \item Make necessary supervision and/or control of the functioning the ministry, constitutional body or central level office or departments of his/her incumbency or office subordinate to such office and give them necessary directives.
+  \item Implement or cause to implement the policies and programmes approved by the Government of Nepal
+  \item Submit a montly report to the Office of the Prime minister and Council of Minister, as prescribed, on the major works performed by the ministry or consitutional body or central level office of his/her incumbency and other concerned offices.
+  \item Formulate and sumbit the annual programme of the ministry or consitutional body or central level office before the minister and implement, moniter, evaluate and make progress assessment or cause to do so to the approved programme.
+  \item Prepare and submit annual report before the minister on major works performed by the ministry or constitutional body or central level office.
+  \item Transfer, recruit or depute the personnel up to gazetted class two officers of the ministry or constitutional body or central level office of his/her incumbency or subordinate office. Provided that, transfer of civil servants from one ministry or constitutional body or central level office or other body or department or subordinate offices to another ministry or constitutional body or central level office or body or department or subordinate office shall be made according to the provision of the prevailing laws.
+  \item Make nomination of the officers up to gazetted class two for foreign study, training, study tour, or for other such purposes on behalf of Government of Nepal and approve foreign visit deputation.
+  \item Implement or cause to implement the decisions taken by the Government of Nepal (Council of Ministers) on matters related with the ministry, or constitutional body or central level office of his/her incumbency  and  supervise  the  state  of implementation of such decision.
+  \item Implment the decisions made by the meeting of the secretaries.
+  \item Honour  the  personnel  with  outstanding  or appreciable work performance with the reward of up to Three grade increment in salary or cash prize of up to Five Thousand Rupees with the detail description of the work performed by such personnel.
+  \item Make frequent supervision of the projects run by the ministry, constitutional body or central level office or head of the department under these offices and give necessary direction.
+  \item While making supervision pursuant to Clause (o), if it is found that the project has not been completed within stipulated time or the completed project found to be less than the quality, make necessary inquiry and take necessary action against the head of the department or project chief under whose authority the concerned project is operated.
+  \item Undertake or cause to be undertaken the other functions, duties and powers as prescribed.
+  \end{itemize}
+  
+  - Responsibility of the Head of the Department (10 points)
+  - Responsibility of the Chief Office-holder (7 points)
+
+Chapter-4: Procedure to be adopted while carrying out Administrative function
+  
+  - Certain procedure to be followed
+  - Decision to be made within certain time
+  - Transparency to be maintained while making decision
+  - Basis and reason to be mentioned in the decision
+  - Decision not to be made in conflict of interest
+  - Performance contract may be made
+  - Consultation may be made with Civil society or stakeholders while implementing the matters of public concern
+  - Responsibility not to be set evaded
+  - Power may be delegated
+  - Provision relating to official or professional code of conduct
+
+Chapter-5: Miscellaneous
+
+  - Discharing official responsibility
+  - Citizen's charter to be maintained
+  - Mobile service may be operated
+  - Provision of fixing reasonable service fees
+  - Provision relating to public participation and ownership
+  - Provision relating to establishment of governance reform unit
+  - Public hearing to be held
+  - Greivance management
+  - Approval to be obtained to open an account in foreign bank
+  - Not to encroach (interfere) on the authority of other officials
+  - Advisor may be appointed
+  - Spokesperson to be appointed
+  - Constitutional body and local body shall comply the act
+  - Information technology may be brought into practice
+  - Monitoring and evalutation committee
+  - Disposal of government function and supervision of government office
+  - Facilities of service shall be prescribed
+  - Annual report to be submitted
+  - Work performance indicator
+  - Saving of acts done in good faith
+  - Power to frame rule
+  - Directive or manual may be framed
+  - To be governed as per the prevailing laws
+  - The effect of repeal of good governance (Management and operation ordinance) 2062
+
+## Governance system in Nepal
+
+Governance system is determined by history, geography, politics, social and cultural situation of a country. Governance system can be unitary or federal based on geo-political administration and presidential or parliamentary based on leadership recognition. In context of Nepal, following practices makes governance system functioning:
+
+1. Constitutionally federal but practically unitary: Article 4 of Constitution of Nepal, 2072 defines state of Nepal as "an independent, indivisible, soverign, secular, inclusive, democratic, socialism-oriented federal democratic republican state." Nepal is constitutionally federal with the adopted governance model assigning the larger nation into various provincial and local government tiers which remain accountable to federal unit. With successful election of federal, state and local level in 2017, Nepal is moving towards full fledged implementation of federal system of governance.
+
+2. Parliamentary system: The Federal Parliament of Nepal is the bicameral federal and supreme legislature of Nepal established in 2018. It consists of the National Assembly as the upper house and the House of Representatives as the lower house. The second Nepalese Constituent Assembly was converted into a legislative parliament of Nepal after the promulgation of the constitution on September 20, 2015. The second Nepalese Constituent Assembly was formed after the failure of the first Constituent Assembly to draft a new constitution. The Legislature Parliament of Nepal was dissolved on 21 January 2018 (7 Magh, 2074 BS)
+
+3. President: The president of the federal democratic republic of Nepal is the head of state of Nepal and commander in chief of the Nepalese Armed Forces and the supreme leader of the country. The office was created in May 2008 after the country was declared as a republic. The first president of Nepal was Ram Baran Yadav. The current president is Bidhya Devi Bhandari, elected in October 2015.
+
+4. House of representatives: The house of representatives has 275 members. 165 members are elected from single-member constituencies by first-past-the-post voting and 110 elected through proportional electoral system where voters vote for political parties, considering the whole country as a single election constituency. The members of the house hold their seats for five years or until the body is dissolved by the President on the advice of the council of ministers. 
+
+5. National assembly: The national assembly has 59 members. Eight members are elected from each of the seven provinces by an electoral college of each province, and three are appointed by the President on recommendation of the government. They must include at least three women, one Dalit, and one member from disabled groups. Members serve staggered six year terms such that the term of one-third members expires every two years. 
+There are 16 thematic committees in the federal parliament: ten in the House of representatives, four in the national assembly and two common to both.
+
+**House of Representatives**
+
+- Finance
+- International Relations
+- Industry, Commerce, Labour and Consumer Interest
+- Law, Justice, and Human Rights
+- Agriculture, Cooperative and Natural Resources
+- Women and Social
+- State Affairs and Good Governance
+- Development and Technology
+- Education and Health
+- Public Account
+
+(updated from https://hr.parliament.gov.np/en; December 21, 2020)
+
+**National Assembly**
+
+- Sustainable Development and Good Governance
+- Legislative Management
+- Delegated Legislation and Government Assurances
+- National Interest and coordination among members
+
+(updated from https://na.parliament.gov.np/np; December 21, 2020)
+
+**Both**
+
+- Parliamentary Hearing
+- State Direction, Principle Rules and Responsibility
+
+### Federalism
+
+Federalism is a political concept in which a group of members are bound together by covenant with a governing representative head. The term federalism is also used to describe a system of the government in which sovereignty is constitutionally divided between a central governing authority and constituent political units. Federalism is the type of politics wherein a group of members create a sovereign constitution with central governing authority and political unit^[http://en.wikipedia.org/ wiki/Indian_Administrative_Service].
+
+### Executive
+
+Executive branch of government includes the President, the Prime Minister, the Council of Ministers or Cabinet, constitutional and statutory bodies, and the bureaucracy, comprising various personnel services, formed to carry out executive functions. Under federal level, the Cabinet is the highest executive body with authority to issue directives to guide, control, and govern. Under Article 43 of the Constitution of Nepal, the responsibility regarding issuing general directives, controlling and regulating the governance of Nepal is bestowed upon the Council of Ministers. The Constitution also requires the Cabinet to perform executive functions in accordance with laws enacted by parliament. The Interim Constitution provides for a political system with an "impartial, efficient and fair" bureaucracy.
+
+Constitution assigns The President the task of appointing the leader of a parliamentary party that commands majority in the House of Representatives as the Prime Minister, while the Council of Ministers shall be constituted under his or her chairpersonship.
+
+The first responsibility of a newly elected PM is to put together a cabinet by appointing ministers, minister of state, and state ministers. The law does not limit the number of ministers and hence there have been cabinets of varying sizes under premiership of different prime ministers.
+
+```{r cabinet-ministers-ministries}
+tribble(
+  ~"SN", ~"Name", ~"Portfolios", ~"Designation",
+  1, 	"Mr. KP Sharma Oli",	"Minister of Defense", "Prime Minister",
+  2,	"Mr. Ishwar Pokharel", "Office of the Prime Minister and Council of Ministers", "Deputy Prime Minister",
+  3,	"Mr. Ram Bahadur Thapa", "Home Affairs", "Minister",
+  4,	"Mr. Top Bahadur Rayamajhi",	"Energy, Water Resource and Irrigation", "Minister",
+  5,	"Mr. Bishnu Prasad Paudel",	"Finance", "Minister",
+  6,	"Mr. Pradeep Kumar Gyawali", "Foreign Affairs", "Minister",
+  7,	"Mr. Hridesh Tripathi",	"Health and Population", "Minister",
+  8,	"Mr. Lekhraj Bhatta",	"Industry, Commerce and Supplies", "Minister",
+  9,	"Mr. Krishna Gopal Shrestha",	"Education, Science and Technology", "Minister",
+  10,	"Mr. Prabhu Shah",	"Urban Development", "Minister",
+  11,	"Mr. Bhanubhakta Dhakal",	"Culture, Tourism and Civil Aviation", "Minister",
+  12,	"Mr. Mani Chandra Thapa",	"Water Supply", "Minister",
+  13,	"Ms. Padma Kumari Aryal",	"Agriculture and Livestock Development", "Minister",
+  14,	"Mr. Basanta Kumar Nembang",	"Physical Infrastructure and Transportation", "Minister",
+  15,	"Mr. Gauri Shankar Chaudhary",	"Labour, Employment and Social Security", "Minister",
+  16,	"Mr. Parbat Gurung",	"Communication and Information Technology", "Minister",
+  17,	"Dr. Shiva Maya Tumbahangphe",	"Land  Management, Cooperatives and Poverty Alleviation", "Minister",
+  18,	"Mr. Lila Nath Shrestha",	"Law, Justice and Parliamentary Affairs", "Minister",
+  19,	"Mr. Ganesh Singh Thagunna",	"Federal Affairs and General Administration.", "Minister",
+  20,	"Mr. Prem Bahadur Ale",	"Forest and Environment", "Minister",
+  21,	"Ms. Juli Kumari Mahato",	"Women, Children and Senior Citizen", "Minister",
+  22,	"Mr. Dawa Lama Tamang",	"Youth and Sports", "Minister",
+  23,	"Mr. Nawaraj Rawat",	"Health and Population", "State Minister",
+  24,	"Mr. Rambir Manandhar",	"Urban Development", "State Minister",
+  25,	"Mr. Bimala B.K",	"Industry, Commerce and Supplies", "State Minister") %>% 
+  knitr::kable(caption = "Cabinet of Ministers of Government of Nepal (extracted on Nov, 2020)", booktabs = TRUE) %>% 
+  kableExtra::kable_styling(font_size = 8)
+```
+
+The government has formulated the Government of Nepal (Allocation of business) Rules 2007 (GNABR, 2007) and the Government of Nepal (Transaction of business) Rules 2007 (GNTBR, 2007). The GNABR allocates cabinet business to different sectors, including law and order, health, education, social welfare, agriculture, physical planning, communication, defense, foreign affairs, etc.
+
+note: Government of Nepal (Transaction of business) rules, 2069 displaces earlier regulation of 2064.
+ - Approved by cabinet: 2069-02-05
+ - 1st amendment: 2069-08-08
+ - 2nd amendment: 2069-11-10
+
+The GNBTR prescribes the working procedures of the cabinet, i.e., power and responsibilities of the Prime Minister, ministers, the cabinet as a whole, and the various agencies such as its sub-committees, the National Planning Commission (NPC) and the ministries. It also lists matters that must be reffered to the cabinet for approval.
+ 
+The GNTBR 2007 identifies three layers of authority - that of the Cabinet, the ministries, and the prime minster - and provides guidelines for the conduct of business. Business under the jurisdiction of the Cabinet includes 43 categories - constitutional actions, policy matters, bills for parliament, delegated legislation, national budget, taxation, emergency announcements, and ordinances. Each ministry is responsible for observing, consulting, and coordinating with other ministries^[https://asiafoundation.org/resources/pdfs/AGuidetoGovernmentinNepal.pdf].
+
+The secretary is a special class officer. Under the minister's direction, the secretary prepares and submits policy proposals for consideration by the Cabinet. The secretary is the administrative head of the ministry, its line agencies and field offices, and also supervises and monitors policy and program implementation. The secretary has both administrative and substantive (policy) responsibilities. The Good Governance (Management and Operation) Act 2007 (GGMOA) specifies administrative responsibilities, which broadly encompass day-to-day duties and functions. The substantive responsibilities include the technical and policy functions of the ministry as assigned by law or delegated by the minister.
+
+### Departments
+
+Departments are the second layer in the government hierarchy and serve as line agencies. Unlike ministries, departments have specialized human resources and technical equipment. They develop detailed plans and programs and implement them (also through field offices) after approval. They assist the ministries in policy matters, bringing in their operational knowledge and implementation experience. Departments are generally headed by a director general - usually a first class officer - whose responsibilities include implementing approved programs and policies, supervising and coordinating field offices, developing technical skills, providing advice to the ministry and ensuring effective service delivery
+
+### Statutory bodies
+
+Statutory bodies are created by statute for specific functions, such as promoting literature, science or the arts, aiding backward communities, managing trusteeships (guthis), or preserving nature or religious shrines. The statute defines their functions, tasks, responsibilities, financial resources, governance structure, personnel management, accountability, and relationship to the government. Examples of these bodies include those created under the Uplift of Indigenous Peoples and Backward Communities Act 2011, Nepal Administrative Staff College Act 1982, Nepal Academy Act 1993, Nepal Academy for Science and Technology Act 1991, and B.P Koirala Memorial Cancer Hospital Act 1996.
+
+Public corporations: Nepal has a number of public corporations, first established in the 1960s to provide essential public goods not available from the private sector. The government turned to public investment because it was unwilling to wait for the private sector to build basic infrastructure and deliver essential goods and services. In 2011, there were 36 public corporations - down from 69 in 1992 - with seven in the industrial sector, six in trading, seven in services, five in social work, three public utilities, and eight providing financial services.28 The number of employees in the 36 public enterprises was projected to reach 36,890 in fiscal year 2010/11.29 These enterprises were set up under various laws, and the staffs serve under varying terms. 
+
+Authorities: Authorities are a variant of the public corporation. They are departmental programs run independently under the management of an executive board. Nepal has authorities like the Nepal Electricity Authority, the Civil Aviation Authority of Nepal, the Nepal Telecommunications Authority and the Kathmandu Valley Development Authority.
+
+Development boards: The Development Board Act 1956 was introduced to create autonomous bodies within government to expedite development projects by relaxing bureaucratic procedures. Development boards have authority to set their own personnel and financial rules and procurement procedures. In 2011, Nepal had 150 development boards on paper, but less than half of them were operational. Similar boards were created by laws such as the Nepal Tourism Board Act 1996, the National Cooperative Development Board Act 1992 and the Roads Board Act 2000, which promote tourism, support cooperatives, and raise funds for road maintenance, respectively. 
+
+### Decision making
+
+Government decision making takes several forms. It includes the tok-adesh (directive for immediate action), tippani (note-taking), committee meetings, and decisions by the Cabinet.
+
+Tok-adesh is typically a written directive that a certain action be taken. Tok-adesh is used when the action to be taken is straightforward and clear, and no reference check (or if similar decisions were made earlier) is necessary. Ministers often resort to tok-adesh for instructing heads of departments to take certain actions, regardless of whether those actions can be executed in the desired manner. At field offices, a tok-adesh or approval from the office head is needed to formally register petitions or applications – the originally intended purpose of the approval, unlike how ministers have tended to use it.
+
+Tippani or "note-taking" is used when a prospective decision needs to be reviewed by several parties at different levels of the organizational hierarchy. A note originates at the lowest level, usually a section officer, detailing the premise for the decision. The note, which includes all relevant references to the matter, is passed up the chain of command for comments. The process usually ends with a decision at the highest level of authority, based on the comments of all participants. Noting that this process can be a long one, the Directives on Simplification of Government Decision 2008 sets limits on the use of tippani for policy issues: it requires that the note should originate just two levels below the final authority. This directive is not strictly followed, however, resulting in delays and other inefficiencies.
+
+Committee meetings are held for consultation, coordination, and for making collective decisions. Committees, either standing or ad hoc, may be within the ministry or involve other ministries, and have authority to make decisions, both formal and informal. In practice, committees are formed whenever issues are complicated or sensitive, or when a single agency is unprepared to bear the brunt of difficult or unpleasant decisions.
+
+Decisions by the Cabinet: Only matters on the Cabinet Business List in the GNBTR can be on its agenda, but a minister can recommend any issue for inclusion. Decisions that are beyond a minister's authority, or those that involve inter-ministerial jurisdiction or collective political responsibility, are referred to the Cabinet, with the opinion of the minister.
+
+The Chief Secretary, also secretary to the Cabinet, examines proposals sent to the Council of Ministers for compliance with the GNTBR. Points of inter-ministerial coordination and conformity with past policies are the main focus of scrutiny. The OPMCM holds meetings and discussions with the sponsoring ministry to ensure compliance and to clarify the issues involved before placing the proposal on the agenda that is circulated among Cabinet members at least 24 hours before the meeting. Cabinet meetings are closed to non-members, and the proceedings are confidential. Ministers are bound by their oath of office not to divulge Cabinet deliberations. The results of Cabinet meetings are supposed to remain unavailable to the public, including the judiciary, for 48 hours after circulation to members, and Cabinet decisions are to be made public only after authentication by the Chief Secretary. It has become normal, however, for the government spokesperson to announce the main decisions immediately after the meetings.The Cabinet may also refer proposals to appropriate subcommittees, which may be asked to make a decision or to make recommendations to the Cabinet. Generally, decisions made at any level may be authenticated by an appropriate officer, from the Chief Secretary down to section officer, as stipulated by Authentication of the Government Order Act 1966. However, the Chief Secretary authenticates all Cabinet decisions when they are first issued.
+
+(for government operational standards, flow of authority, processes, and details on implementation process refer to A guide to government in Nepal: Structures functions and practices^[https://asiafoundation.org/resources/pdfs/AGuidetoGovernmentinNepal.pdf])
+
+## Forms of government
+
+\begin{questions}
+
+\question What is the better form of government -- Parliamentary, Presidential and Semi-presidential ?
+
+\begin{solution}
+
+Parliamentary systems, such as of Nepal, United Kingdom and India, combines the lawmaking and executive functions, which allows the national legislature to select and remove the head of government and cabinet.
+
+Presidential systems, such as of Mexico and Nigeria, feature a cabinet that is mostly responsible to the elected executive, with a legislature that can only remove cabinet members through impeachment. An example of a presidential system would be a country in which the president holds the roles of head of the state and head of government, selects the executive cabinet, and is elected in a direct, popular election while members of the lower and upper houses are elected by voters in the respective districts and regions. These systems have separate fixed-term, popular elections for the national legislature, and a top executive leader serving as both head of state and head of government.
+
+Semi-presidential systems, such as Russia, feature separate popular elections for the president and for the national legislature, allowing the president to nominate a prime minister (who must be approved by the legislature); members of the cabinet are held accountable by both the president and legislature.
+
+Although parliamentary systems have fewer institutional obstacles to enact policy than presidential systems (presidential systems have divided branch powers), parliamentary systems have their own checks on the executive branch. Parliaments may censure cabinet ministers, refuse to pass executive proposed legislation, question the executive and cabinet ministers, and impose time deadlines on calling new elections.
+
+Presidential and semi-presidential systems have divided powers among governmental branches which allows the legislature to more commonly change or reject executive policy proposals. For instance, Nigeria's senate rejected the president's proposed budget in 2016 that relied too heavily on borrowing from foreign sources.
+
+source: \#APCompGov2020
+\end{solution}
+
+\question Discuss about the advantages and disadvantages of Unitary and Federal government systems.
+
+\begin{solution}
+
+Unitary government advantages
+
+Unitary government do have some significant strengths. Most common of those over federal system are:
+
+\begin{enumerate}
+\item National direction is clear; Policies can be made by a single government without the need for negotiation or cooperation with subnational states.
+\item There can be no confusion as to accountability. It is clear to voters which level of government is responsible for a particular problem or function. (Legislators who wish to spend money must raise it; it is not possible for legislators to seek to shift the blame for failure to another level of government.)
+\item Duplication of legislatures, bureaucracies, and programs is avoided with significant savings in direct costs -- and the more subtle but no less real costs of needless duplication.
+\item Issues of fairness in raising and spending money between levels of government (vertical fiscal imbalance) simply do not arise.
+\end{enumerate}
+
+Federal government advantages
+
+Unitary government also have major drawbacks, which in turn correspond to the major strengths of federal systems. These include:
+
+\begin{enumerate}
+\item A federal system has greater scope of diversity and experimentation in policy.
+\item The need to debate issues rather than enact them instantly may provide a more considered and viable policy outcome. This tendency toward incrementalism is seen as integral to democracy.
+\item A federal system must consider the different ethnic or cultural groupings that may predominate in a particular state and wish to pursue a distinct cultural policy -- such as the French Canadians in Quebec. (As the cases of Quebec and Bosnia show, membership in a federation may still fail to fulfill the nationalist aspirations of many people.)
+\item The danger always exist in a large country that a unitary government may be too remote for appropriate democratic participation by regional centers located away from the capital; a federal system encourages -- indeed demands -- regional participation in governance.
+\item The danger exists in a unitary government that the stronger regions, the larger racial groups, or more powerful interests will provide insufficient allowance for the needs of minorities or weaker groups.
+\end{enumerate}
+\end{solution}
+
+\end{questions}
+
+## E-governance
+
+\begin{questions}
+
+\question What is E-governance ?
+
+\begin{solution}
+
+E-governance (electronic government) refers to the impact of information and communication technologies, particularly the Internet, on the values, processes, and outcomes of public bureaucracies.
+
+Government-to-government interactions are concerned with the use of technologies to enhance the internal efficiency of public bureaucracies, through, for example, the automation of routine tasks and the rapid sharing of information between departments and agencies. Government-to-business interactions typically involve the use of the Internet to reduce the costs to government of buying and selling goods and services from firms. Government-to-citizen interactions involve using the Internet to provide public services and transactions online, and to improve the design and delivery of services by incorporating rapid electronic feedback mechanisms, such as instant polls, Web surveys, and e-mail.
+
+Use of information and communication technology (ICT) in government first expanded during the 1950s and 1960s, the heyday of ideas of scientific administration. However, e-government as it is most commonly understood today emerged as an agenda for general reform of the public sectors of liberal democratic political systems during the early 1990s. U.S. President Bill Clinton's administration led the way with the 1993 National Performance Review of the federal bureaucracy.
+
+The 2018 E-Government Development Index places Nepal in the 117th position among 193 countries. Although Nepal is said to be the first country to bring 3G in the south Asian region, it is still at crawling stage with regard to expansion compared to the rapid progress made by other asian countries.
+
+The ubiquity of computer networks offers the potential to increase political participation and reshape the state into an open, interactive, network form, as an alternative to both traditional, hierarchical, bureaucratic organizations and more recent, marketlike forms of service delivery based on the contracting out of public-sector activities (usually termed the new public management). Government becomes a learning organization, able to respond to the needs of citizens, who are in turn able to influence public bureaucracies by rapid, aggregative feedback mecha- nisms such as e-mail, online discussion forums, and interactive Web sites.
+
+Alternatively, e-government does not necessarily require greater public involvement in shaping how services are delivered, but instead, indirectly benefits citizens through the efficiency gains and cost savings produced by the reduction of internal organizational friction, chiefly via the automation of routine tasks. It joins and coordinates the activities of previously disparate government departments and services.
+
+The critics of e-government suggest that changes are limited to a managerial agenda of service delivery more consistent with the new public management and that the opportunities offered by the Internet for invigorating democracy and citizenship might be missed.
+
+\textbf{Status of e-Governance in Nepal}
+
+e-Governance in Nepal has steadily evolved from computerization of Government Departments to initiatives that encapsulate the finer points of Governance, such as citizen centricity, service orientation and transparency. Lessons from previous e-Governance initiatives have played an important role in shaping the progressive e-Governance strategy of the country. Due cognizance has been taken of the notion that to speed up e-Governance implementation across the various arms of Government at National and Local levels, a programme approach needs to be adopted, guided by common vision and strategy. This approach has the potential of enabling huge savings in costs through sharing of core and support infrastructure, enabling interoperability through standards, and of presenting a seamless view of Government to citizens.
+
+e-Governance Master Plan (e-GMP) takes a holistic view of e-Governance initiatives across the country, integrating them into a collective vision, a shared cause. Around this idea, a massive countrywide infrastructure reaching down to the remotest of villages is evolving, and large-scale digitization of records is taking place to enable easy, reliable access over the internet. The ultimate objective is to bring public services closer home to citizens, as articulated in the Vision Statement of eGMP.
+
+"Make all Government services accessible to the common man in his locality, through common service delivery outlets, and ensure efficiency, transparency, and reliability of such services at affordable costs to realise the basic needs of the common man"
+
+In an effort to improve e-governance, there are following institutional and policy arrangements in place in Nepal:
+
+\begin{enumerate}
+\item Department of Infromation Technology (DoIT)
+  \begin{itemize}
+  \item Established in 2013, under ministry of communication and information technology.
+  \item Focuses on implementing e-governance and covers IT related laws and policies, Banepa IT park.
+  \end{itemize}
+\item Nepal IT center: Also working as GIDC of government agencies, with DR site in Hetauda
+\item Controller of Certification (OCC): Formed to authorize to legalize digital signatures
+\item National IT coordination council: Formed under chairmanship of Prime minister
+\item Electronic transaction act, 2006
+\item e-Governance master plan (eGMP), 2007
+\item ICT Development Project (2008-2014). The project promised of:
+\begin{itemize}
+\item Rural e-community (wireless broadband, tele-centers)
+\item Government network (GIDC, Groupware)
+\item eGov Application (GEA, NID, PSC recruitment MS, Land record MS, VRS and Driving licence)
+\item HR development (Awareness, training)
+\end{itemize}
+\item IT policy, 2067 (2010)
+\item 10 year master plan (2011): initiated by NTA taking into account telecom acts
+\item iCT in education master plan, 2013-17
+\item IT Umbrella Act, 2014
+\item National IT Roadmap (2015)
+\item eGMP-2 (2015)
+\item Broadband policy, 2071
+\item ICT policy, 2072
+\end{enumerate}
+
+Despite its immense potential in achieving sustainable growth, objectivity and improved governance, and responsive service delivery, Nepal has been lagging to eliminate information poverty and keep pace with global digital revolution. Only 21 percent of the total population of Nepal has access to the internet. Digital transformation demands involvement of diverse stakeholders to meet specific socio-economic priorities.
+
+source: \url{https://www.undp.org/content/dam/nepal/docs/2018_undpnepal/UNDP_NP-Tech4SDGs-NageshBadu.pdf}; The kathmandu post and other.
+\end{solution}
+
+\end{questions}
+
+## Civil society and legal press
+
+\begin{questions}
+
+\question What is civil society ? Mention its role in good governance ?
+
+In Nepal, the term civil society (Nagarik Samaj) has become very popular and hit the popular psyche with a comprehensive magnitude. Not only non-governmental organisations but even private and business organisation and corporate bodies often tend to claim themselves as being a part of the civil society.
+
+It includes the entire range of organised groups and institutions. These institutions should be independent of the state. They should be voluntary, and at least to some extent self-generating and self-reliant. These, of course, include not only non-governmental organisations but also independent mass media, think tanks, universities, and social and religious groups.
+
+Pluralism, diversity
+
+In fact, to be part of the civil society, groups must meet some other conditions as well. In a democracy, civil society groups should have respect for the law, for the rights of individuals, and for the rights of other groups to express their interests and opinions.  In fact, the word "civil" implies tolerance and the accommodation of pluralism and diversity.
+
+An important prerequisite for civil society groups is that they must keep and preserve their autonomy and independence of the state and private sector.
+
+The first and most basic role of the civil society is to limit and control the power of the state. Of course, any democracy needs a well-functioning and authoritative state. Civil society actors should watch how state officials use their powers. They should raise public concern about any abuse of power. They should lobby for access to information, including freedom of information laws, and rules and institutions to control corruption.            
+
+This constitutes a second important function of civil society:  to expose the corrupt conduct of public officials and lobby for good governance reforms. Even where anti-corruption laws and bodies exist, they cannot function effectively without the active support and participation of civil society. In this regard, the role of civil society organisations in Nepal has been very poor and lukewarm.
+
+Moreover, civil society should help to promote political participation. NGOs can do this by educating people about their rights and obligations as democratic citizens, and encouraging them to listen to election campaigns and vote in elections. NGOs can also help develop citizens' skills to work with one another to solve common problems, to debate public issues and express their views.
+
+Moreover,  civil society organisations can help to develop the  values of democratic life. The values of democratic life are tolerance, moderation, compromise and respect for opposing points of view. Without this deeper culture of accommodation, democracy cannot be stable. These values cannot simply be taught; they must also be experienced through practice.
+
+The civil society can also help to develop programmes for democratic civic education in the schools as well. In Nepal, as we are at a very crucial stage of implementing the new  federal constitution, we need to inculcate the values of tolerance and accommodation in the citizens. The civil society organisations can be tapped for this very purpose.
+
+What can be said is that the  civil society is an arena for the expression of diverse interests, and one role for civil society organisations is to lobby for the needs and concerns of their members, as women, students, farmers, environmentalists, trade unionists, lawyers, doctors and so on. NGOs and interest groups can present their views to the parliament and local governments by contacting individual members and testifying before parliamentary committees. They can also establish a dialogue with relevant government ministries and agencies to lobby for their interests and concerns.
+
+Civil society is not simply to be in tension with the state. Just because civil society is independent of the state doesn't mean that it must always criticise and oppose the state. In fact, by making the state at all levels more accountable, responsive, inclusive, effective - and hence more legitimate - a vigorous civil society strengthens citizens' respect for the state and promotes their positive engagement with it.
+
+A democratic state cannot be stable unless it is effective and legitimate, and has the respect and support of its citizens.  Civil society is a check, a monitor, but also a vital partner in the quest for this kind of positive relationship between a democratic state and its citizens.
+
+The  civil society can strengthen democracy and provide new forms of interest and solidarity that cut across old forms of tribal, linguistic, religious and other identity ties. Democracy cannot be stable if people only associate with others of the same religion or identity. When people of different religions and ethnic identities come together on the basis of their common interests as women, artists, doctors, students, workers, farmers, lawyers, human rights activists and environmentalists, civic life becomes richer, more complex and more tolerant.
+
+Parochial interests
+
+However, in Nepal, the real danger lies in the fact that the political parties have promoted primordial identities so intensely that the ethnic groups have started to keep focus on their narrower and parochial interests. This will hurt the process of democracy building and state reorganisation in line with the provisions of the Constitution of Nepal.
+
+\question What is civil society ? What are the role of civil society in democratic practices ?
+
+\begin{solution}
+
+Civil society can be understood as the "third sector" of society, distinct from government and business, and including the family and the private sphere. By other authors, civil society is used in the sense of 
+
+\begin{enumerate}
+\item the aggregate of non-governmental organizations and institutions that manifest interests and will of citizens or 
+\item individuals and organizations in a society which are independent of the government.
+\end{enumerate}
+
+Sometimes the term civil society is used in the more general sense of "the elements such as freedom of speech, an independent judiciary, etc, that make up a democratic society" (Collins English Dictionary). Especially in the discussions among thinkers of Eastern and Central Europe, civil society is seen also as a normative concept of civic values.
+
+The literature on relations between civil society and democratic political society have their roots in classical liberal writings of G.W.F. Hegel from whom they were adapted by Alexis de Tocqueville, Karl Marx, and Ferdinand Tönnies. They were developed in significant ways by 20th century researchers Gabriel Almond and Sidney Verba, who identified the role of political culture in a democratic order as vital.
+
+They argued that the political element of political organizations facilitates better awareness and a more informed citizenry, who make better voting choices, participate in politics, and hold government more accountable as a result. The statutes of these political organizations have been considered micro-constitutions because they accustom participants to the formalities of democratic decision making.
+
+More recently, Robert D. Putnam, an American political scientist, has argued that even non-political organizations in civil society are vital for democracy. This is because they build social capital, trust and shared values, which are transferred into the political sphere and help to hold society together, facilitating an understanding of the interconnectedness of society and interests within it.
+
+Others, however, have questioned the link between civil society and robust democracy. Some have noted that the civil society actors have now obtained a remarkable amount of political power without anyone directly electing or appointing them. It has been argued that civil society aided the Nazi Party in coming to power in 1930s Germany. It has also been argued that civil society is biased towards the global north. Partha Chatterjee has argued that, in most of the world, "civil society is demographically limited." Finally, other scholars have argued that, since the concept of civil society is closely related to democracy and representation, it should in turn be linked with ideas of nationality and nationalism. Latest analyses suggest that civil society is a neoliberal ideology legitimizing antidemocratic attacks of economic elites on institutions of the welfare state through the development of the third sector as its substitute.
+
+Civil society include among others, following institutions:
+
+\begin{enumerate}
+\item Academia
+\item Activist groups
+\item Charities
+\item Clubs (Sports, social, etc.)
+\item Community foundations
+\item Community organizations
+\item Consumer organizations
+\item Cooperatives
+\item Foundations
+\item Non-governmental organizations
+\item Non-profit organizations
+\item Private voluntary organizations
+\item Professional associations
+\item Religious organizations
+\item Social enterprises
+\item Social movement organizations
+\item Support groups
+\item Trade unions
+\item Volunatary associations
+\end{enumerate}
+
+\end{solution}
+
+\question What are the provisions in place for constituting a Press council in Nepal ?
+
+\begin{solution}
+
+The press council act, 2048 provisions under section 6 the following constitution of the council (The section has been edited in the course of enacting several other acts and laws since its first enactment; thrice in 2057 and twice in 2066) :
+
+(1) Government of Nepal shall constitute a Council and the Council shall consist of the following persons,
+
+\begin{itemize}
+\item A retired Justice of the Supreme Court or a Senior Advocate or a person designated by Government of Nepal from among the persons who have rendered special contribution in the field of Newspaper --- Chairperson
+\item Chairperson, Federation of Nepali Journalists --- Member
+\item Six persons nominated by Government of Nepal in consultation with the Journalist Associations at the rate of two persons each from journalists, editors and publishers --- Member
+\item One person nominated by Government of Nepal from among the working journalists --- Member
+\item One person nominated by Government of Nepal from amongst the persons who have rendered distinguished service in the various fields including journalism --- Member
+\item One person nominated by Government of Nepal from  amongst the journalists as recommended by Associations concerned with literary journalism --- Member
+\item Director-General, Department of Press Information --- Member Secretary
+\end{itemize}
+
+(2) The tenure of office of the Chairperson and the members of the Council shall be Four years.
+
+(3) If the Chairperson or any member desires to resign from his/her office before the expiary of his/her tenure, the Chairperson may submit his/her resignation in writing to the Government of Nepal and a member may submit his/her resignation in writing to the Chairperson.
+
+\end{solution}
+
+\end{questions}
+
+### Civil Society and Political Parties
+
+Political party is a part of society, not whole like polity and the state. It claims the right to defend certain ideas and interest, represents citizens and fractionalises the society to expand its vote base. Party has emerged in opposition to despotism and politicised citizens to fight for democracy. As an agent of social change, the shared dharma of political party and civil society is to modernise the general society and work for its reform and renewal to make democracy a way of life. Conscious of freedom and autonomy Nepalis can articulate their voice for a fulfilling destiny.
+
+Rationality
+
+Genuine civil societies stand above partisan prejudice for worthy initiatives and build bridges across various empirical social, economic and political divides. But if they emerge from the incubus of parties and geopolitical forces, they stoke social and political cleavages, incarcerate the public sphere and indulge in instrumental actions. For average Nepalis, it increases the cost of politics and stifles the birth of civility and national will. Acute party-mindedness of leaders has turned Nepali parliament feeble to advance public interests. Several verdicts of the Supreme Court against their actions stand as a hostile witness. The names of Nepali parties do not match with their ideologies. Leaders' impulse for durability in power made many compromises and less faithful to their own parties' vision. The rationality of civil society rooted in altruistic human essence seeks to improve leaders' utilitarian instinct.
+
+Genuine civil societies offer democratic impulse to families, communities, societies, political parties, business and bureaucracy for cooperation. They champion satto guna based on enlightenment ethos - freedom, justice, solidarity, ecological ethics and peace. The instinct of political party is rajo guna, a craze for power calculation and animus dominandi, instinct for domination. The virtues of civil society propel them to perform niskam karma (selfless service) while parties are the domain of partisan selfishness. Their fierce competition with rivals for a control of rule, authority and legitimacy flags the purpose of political power what Alexander Solzhenitsyn says, "A call to service." Civil societies bear cultural and cosmological values while political parties shape tools of power. Their domain of action is confined to the state's realm. Political parties are indulged in ideological indoctrination what Karl Marx calls "false consciousness," partisan attachment and political mobilisation forking paths for the left and the right but a common lust for power. They turn wild when power shift in coalition swings the perception of each other. Only leaders of democratic parties maintain a balance between their drive for power, sense of personality and upholding of conscience to act in response to vox populi.
+
+The fundamental questions in building interface between the two are: How can Nepali civil society and political parties mediate the polity and social classes to remove the evils that divide them in sharing constitutional goals? Can both work for participatory culture aiming to eliminate all forms of biases and privileges from public life and public policy and open up possibility for Nepalis to become cultural and creative citizens? Is Nepali society capable of sustaining its history and tradition of tolerance when civic education, interest articulation and communication performed by parties and civil society nourish pre-political style based on biological and social differentiation? When citizens face authoritarian decision-making from family to the halls of power? How can civil society-political party interface contribute to the canon of a just constitutional order which can bring the redeeming power of politics to settle contesting issues? Can Nepali leaders achieve good governance when they have to operate under pre-modern polity devoid of real power separation, autonomy, capacity to implement the constitution and functional specialisation of roles? Ordinary Nepalis' support for transparency, however, is opening actors and institutions to vital reason and inquiry.
+
+Nepal's major political parties - Communist Party of Nepal, Nepali Congress, Federal Socialist Forum, Nepal and Rastriya Janata Party-Nepal, dozens of smaller parties and myriad of civil society operate in multiple directions. Some of them lack constitutional will as they are liberated from the ethical norms of politics. Synergy of party-civil society interface is not enough unless they stand on the reason of state, shape a shared view on democracy, human rights and justice and coordinate their policies for a common future. The stability of Nepali polity rests on institutional equilibrium of power and moral strength of its leaders. Nepali people are citizens of Nepali state, not polity, government and political parties, which entitles them with equal constitutional and human rights.
+
+Constant engagement of both in educating citizens about civic knowledge, life-skills and wealth-creation helps them to realise their potential and perform public duties. An elevation of human condition calls for opportunity in building this nation and bridging the fundamentalist gaps that drown the voice of reason infecting political polarisation. Nepali citizens' claim of state sovereignty can help political parties to contextualise policies and laws and set a common ground for the resolution of symbolic, cultural and distributive conflicts symbolising regression of human values. Habit of oiling legal tradition of politics can stop interventionist mismanagement of statecraft by means of several strategies:
+
+First, civil society as an epithet of reason and feeling and capable of achieving self-awareness, must instil historical awareness among party leaders of Nepal to transmit the authority of polity in society, respond to changing aspirations of citizens and curb the affinity of politics to personal, family, territorial and privileged interests. Social inclusion can fortify the social base of politics and clog extra-constitutional engagement, extra-parliamentary formation of caucus politics, identity-crazy forces, interest and pressure groups, lobby networks and anti-institutional social movements engaged in a vicious battle for micro-narratives and privileges, not real social transformation.
+
+Second, civil society of Nepal needs to widen the old binary frame of friend and enemy politics for a modern politics of mutual action based on constitutional spirit. This cuts the conditioning of politics by caste, class, ethnic, gender, territorial and ideological factors. It subverts democracy's optimal values of national integration opening an avenue for protest politics. Leaders' forage on deliberation, discipline and feedback in the party committees can simply rear personality cult rising from authority distinction than performance and dilutes inner-party democracy.
+
+Third, the historical crisis in Nepal's reformist politics reflects the flaws of parties to uphold a middle path, act as a mediating agency of society and infuse reforms in each generation of citizens for the rational idiom of political life. Civil societies have to assume duty to limit them to the structure of public law, democratise their ties with their auxiliary bodies and citizens and fortify inter-party dialogue for broad-based consensus on issues of public goods. It revitalises the hopes of moderates in politics.
+
+Fourth, political parties and civil society need to collaborate on justice. It is related to the vision of Nepal's constitution and global humanitarian obligations to the poor. Both need to revive old solidarity with the marginalised. Nepal's parties are poorly institutionalised in terms of subsidiarity, autonomy and complexity of functions. Top leaders loath creative ideas and inconsistent in organisational direction but deftly bargain for power with factions. Civil society need to introduce code-based values to make them sensitive to human rights.
+
+Fifth, modern legitimacy stems from the elections of multi-level governance. Nepali leaders need to link the top with the bottom of society to cope with what Aristotle calls "mean state between self-indulgent and being insensible." Coherence between the initial ideals of parties and the justification of current path ease them to keep historical identity and settle fissiparous inclinations. Their natural formation can free both from borrowed life, open debate in the public sphere about the duty of public power and institutions of modernity and embolden leaders to execute the constitution opening path to political stability, prosperity and happy life. The removal of vacuum in security can expedite democracy, development and peace processes. The civic culture imagines a qualitative change in the cognition, values and attitudes of Nepali leaders to inspire a stake of Nepalis in the constitution.
+
+Sixth, decision-making sphere of Nepal entails rational politics to open up leaders' mind to social learning of the changing nature of citizens' rights in order to inspire their orderly civic participation and initiate social and economic reforms. Deeper institutional transformation leaps from alternative vision and leadership provided by grassroots organisations, local bodies and civil society. A real democratisation of Nepal's political parties, however, requires arresting the collective diversion underway from constitutional goals and behaviour and synergising all the connective forces and resources of social capital for a rational construction of future order. Federations of many civil society groups are moderating the hierarchical system of production, appropriation and control through intermediary associations- free cooperatives, small enterprises, self-help and economic institutions as they do not disregard nature and labour's pain.
+
+But the key propellers of modernity such as education, economy, health, technology, institutions and leadership are not yet fully rationalised in Nepal to achieve the integrity of rule of law. In this context, the civil society-party interface requires getting rid of their own self-ironies and enforcing democratic accountability attached to the public expectation of their duties. Protection of the integrity of Nepali politics from pre-rational actors entails the state to create a just public order above power tussle.
+
+Constellation
+
+Democracy is a national system where the state, economy and citizenship find constellation. It is opened to its citizens but maintains certain closure as democracy demands self-rule, immigration control and nationality. Nepali civil society and political parties must acquire ability for self-control and add to the rejuvenation of polity and society. This liberates their tendency to indulge in pre-modern adversarial practices that creates a society of winners and losers. Modern politics of collective action demands Nepali leaders to overcome inner deficiencies, attain the outer constitutional and universal goals of SDGs and enabling the nation to secure public goods, progress and peace.
+
+### Power of Civic Education
+
+Life's progress rests on continuous learning. Civic education answers the aim of life-enlightenment. It allows attaining self-illumination to combat all kinds of subordination- familial, economic, political, religious, institutional and communicative one and gain guts for freewill. It unchains Nepali citizens from the absurdity of indoctrination, thought control, consent manufacturing and false consciousness and promotes critical faculty of judgment. Conscious citizens exercise dignity and autonomy in public affairs and build good character. Nepalis of all generations need civic education to widen their democratic desire. It transforms passive people into active citizens, aids them to exercise constitutional rights and duties, bridges the gap between knowledge and wisdom, makes social contract implementable and amplifies valid voting turn out in the elections. Nepali state promises a good life to citizens by means of instilling enduring positive values of liberty, justice, tolerance, solidarity and cooperation. The legal equality of Nepalis has created a basis for active citizenship to fight for factual equality vital for the level playing field for civic participation at villages and towns. Both nurture a perspective to envision Nepal from the native viewpoint. It frees the captive minds that deem all ills of the nation to natives by enabling them to learn the utility and limits of universal knowledge to national condition.
+
+Reflective Consciousness: Constitutional knowledge bears positive impacts on the behaviour of citizens enabling them to act constitutionally for ordered life and restyle civic culture worthy of oneness of humanity. Nepali leaders' duty lies in educating the union of the sovereignty of the state and popular sovereignty enabling them to use it. The legitimacy to rule is derived from free and fair election which allows the circulation of new leadership in power inducing rational change. Constitutional ideals provide Nepalis an orientation to reform their condition, assist acculturation to public morale, prepare for civic duties and build their patriotic character without being biased to humanitarian norms. In a multi-cultural society like Nepal, citizens' active engagement in civic associations that dot the free landscape is crucial for social and national integration. Experience about civic virtues animates a balance of the leaders' use of democratic concepts and ordinary citizens' richness in the nation's philosophical, historical, cultural and spatial life. The praxis of civic education in Nepal entails building dynamic relation of politics to citizen's life and cultivating civic sense to beat petty infantilism, eternal paternalism and arrogant juvenility of undemocratic leaders. It critically informs the authority of parents, teachers, leaders and priests instilling a belief that they are neither divine nor finer in wisdom. The use of despotic doctrine of necessity and too much personalisation of authority dehumanise the citizens and reduce them into an object of manipulation like instrumental approach adopted by a few donors to foment social fissures. Both do not train people into citizenship and reveal common ground for conflict mitigation. The noise of foreign meddling without naming the country reflects leaders' fear while handy to bend Nepali citizens' right to know. Public security is vital to vitalise citizens to critique on authorities' dilemma and venture far and wide across the cultures and national geography to symbolically bind all Nepalis in their common identity. It nullifies the challenge to the unity of state by internal forces of class, caste, ethnicity, gender, religion and region and external meddling.
+
+Leaders' reflection on the Nepali society's diversity opens the possibility of feedback from many mini publics and facilitates them to learn from citizens about the way to resolve the practical problems of personal and national life. This can contribute to perfect their inter-subjective skills, broaden cross-cultural understanding and strengthen citizens' attachment with the Nepali state. Improved rationality of political practices can build a national consensus for constitutional, political and policy coherence on the basis of changing popular mandate. The concepts underlined in the structural and normative details of the Constitution, such as directive principles, separation of power, checks and balances, constitutional and human rights, rule of law, autonomy of constitutional bodies and cultural industries, social justice, welfare state, human security for all the citizens etc, animate self-consciousness for ample civic actions—cleaning house, road, toilets, school compound, controlling domestic violence, girl's education, safety of disables, creating green parks, health awareness, deference to elders, education about local government, etc.
+
+Civic education is both a top-down and bottom-up socialization of human nature. This means learning contents should be mutually decided by citizens, teachers and leaders. It is process of mutual liberation, not domestication of citizens and denationalization of experts devoid of national feeling and insight of history. Democratic space exists within the nation-state. If Nepali state loses control over its citizens owing to migration of youth, immigration of outsiders and economic, social and political matters to global forces, the order of democracy shrinks from the shortage of critical masses of change agents of society. This brings an authority crisis for the government and loyalty pattern of citizens to the state, political parties, parliament and the actors of governance imposing problems for the institutionalisation of democracy. Institutions of governance fail to remain inclusive if the vision of building Nepali nation cannot address key challenges: alleviating poverty, job-creation, ending social exclusion, combating political alienation and the ecological, social, gender and inter-generational justice as they are related to the realisation of subjective and objective rights and escape from the fear of natural selection of life.
+
+Civic Competence: A live discourse enables both leaders and citizens to gain self-confidence and know as to how their "negative rights" have inspired the democratic struggle, the state protected the heritage of the nation's syncretic culture and equipped the citizens with the muscle to shape and reminisce the screen of national history that they and their institutions, such as political parties, media, civil society and a host of associations, often reconstituted. Democracy becomes tedious if its discourses freeze in the public mind leaving the leadership free to interpret democracy, progress and peace in their own way, like in Nepal, and foster empirical divisions of society for identity politics at the cost of Nepali identity. A culture of silence, fatalism and apathy of citizens is the lethal sign of democratic debit while eternal stir radicalizes the society and erodes the pivot of democratic centre.
+
+The basic values of citizenship lie in paying tax, becoming law-abiding, remaining vigil and assuming duty in community action. Citizenship, as a member of state, begins with commitment to and respect for state sovereignty and territorial integrity, national language, anthem, national flag and social harmony in a spirit of solidarity among all the members of Nepali state irrespective of religious, racial, linguistic, class, caste and gender diversities. Deep internalisation of the values of citizenship by leaders desists from commercialising public goods under the gyration of post-modernism and market and dialectical materialism. They detach citizens from their legendry bond to land, culture and nature. An ideology-bound education blinds one to native reality. Civic education is a program with sovereign citizens, not passive patients, clients, ignorant, aliens and objects. Democratic construction of citizenship in Nepal is vital to make political system functional. It empowers them to select workable choices that the polity offers and constantly feeds their power of feeling, thinking, working and creating the lot the Nepali nation lives by.
+
+Political Acculturation: Nepalis since old days have created and transmitted their syncretic cultures and values across generations. Now, they seek a solution to the problem of a clash among political rationality of democracy, the economic rationality of the market and ideological rationality of social engineering that deconstructs its culture, national heritage, history and society and makes citizens rootless without any harbour to its ancient roots of enlightenment. If ethical and cultural values that bond Nepalis are torn, all that is left to power fails to represent citizens and the power of leaders becomes disproportional to their representation. In this situation, Nepali state has to ensure regulatory frame that fits to all citizens. Cognitive service to citizens enables them to judge the action of their leaders on the basis of value criteria of democracy, human rights, social justice and peace. They also need a mass of stable civic bodies to ensure a balance in the polity and bind them all, even the minorities, on the policies of Nepali state. Mutual trust and concern for fellow citizens help those who are lacking a bit deep for their dignified life mainly the weakest members. If rights of Nepali citizens remain unenforceable, like party manifestoes, the rational vision of Nepali society spins absolute impossibility. The vital task ahead for Nepali polity is to bridge the rising hiatus in the words and deeds of national preachers, teachers and leaders and saving democracy from its performance crisis. This presupposes the utilisation of the art of civic education to communicate the common heritage of the nation with a larger spectrum of people, detribalise them and enable them to exercise the power of the public for synergy of good governance.
+
+### Civic Role in Development
+
+Nepali society is in a steady process of change. The wind of change impelled by science is altering its social structures and rules of civic engagement. Nepal's Constitution has rewarded an enabling milieu for citizens to engage in development. But the vitality for this needs knowledge, vision, desire and will for mutual aid. Institutional explosion in the nation has offered a non-party option of associational solidarity. It emerged as a revulsion against the burden of swollen political classes and their penchant for patronage. The guiding aim for citizens is to realise constitutional goal of an egalitarian society through distributive justice and detribalisation of social life.
+Nepalis across the diverse social and economic strata engage in collective action in matters of public good facilitated by their solidarity. Other approach to engagement is induced from above or catalysed by civic bodies from grassroots as per value change. Human rights recognise personhood of each Nepali beyond the rationality of collective greed. Social and cultural forces exert influence for a new national construction on the basis of their expanded rights and welfare state which can build civic capacity for poverty alleviation, reduce income difference, spur public ventures and nurture full citizenship. Diasporas go beyond national relativism of Nepaliness to widen development view and ignore the roots of native wisdom. In a democracy, self-awakening and action raise adaptive learning to change and reduce the cost of development. Rule-based civic stirrings across the party lines now stand for a common life of citizenship.
+
+The seething cauldron of discontent of revolutionaries is subversive disposed to deconstruct the construction of state-citizens ties for a new way of life. Many constructions of activism in Nepal through the justification of contending development theories and ideologies are unsettling to autonomous development and civic culture built on bonding and bridging trust, common experience and mutual respect. Still, its syncretic culture offers social capital central to share the cost of development. Nepal has notably improved its education, communication, health, banking, market expansion, urbanisation and migration but remains slow in energy, production, trade and social progress vital to graduate to developing nation by 2022 and attain the SDGs.
+
+Anticipation of a robust spell of high and inclusive economic growth needs a firm political course, massive scale of cooperation of private sector and international community and conversion of needs, interest and opinion of ordinary Nepalis into public policy. Mobilisation of local economic and human resources, diversified revenue and tax base to support the levelling up of the poor through distributive justice and voluntary public action against the raid over local common can propel self-directed prosperity, the leitmotif of development.
+
+The Constitution provides the local bodies powers of self-governing polity and its vital elements- inclusiveness, transparency and accountability, if not responsiveness, to ensure good life. Still, the centre defines the rules, maintains vertical control over the provinces and local authorities on legal, financial and technical aspects and holds critical leverage despite peddling autonomy. In a diverse society only by up-scaling civic engagement can cut costs of progress. The right-based discourse in Nepal is politicising them and increasing their engagement in a myriad of institutions and activities of diverse scales- voting, writing letters to the editor, public hearing, deliberation, rallies, protests and social movements to realise their rights. But this discourse has prized lawyers and judges. The claim of rights expresses less concern for public good.
+
+Similarly, the feeling for life has recognised a symbiosis between ecology and economy and production and exchange to meet survival needs. Political parties, civil society, NGOs and social media have improved the feedback between leaders and citizens. But the huge costs of their dependency, debt, delay and skewed or non-action in matters of projects are fading the national immune system. Auditor-General has suggested that INGOs need state regulation as they are running a "shadow economy" violating the laws, hiding huge money in banks and enriching kleptocratic networks thus reducing development indicators.
+
+Though federal parliament has taken holiday from policy making and adopted all the policies originated from international institutions since the onset of modernity and democracy including the latest one the SDGs, local bodies are entrusted with the duty to execute most of them. They are, therefore, engaged in crafting policies, programmes and activities as per their needs, address their problems and steer development gear. Compared to States which act as intermediary, citizens' direct engagement in local bodies is growing. Social inclusion of women, Dalits, minorities and functional interest groups of society in the elected bodies provide scope to participate, interact with authorities, influence policy outcome in matters of selection of projects, allocation of resources, infrastructure development, management of environment and supply of public goods.
+
+Active civic engagement is culturally rooted practices of Nepal. What is innovated is the use of emancipatory democratic values-freedom, scientific knowledge, human rights, civic autonomy, political voice and visibility, solidarity and peace. They tend to ground Nepali institutions in universalistic ethics and unleash social, economic and political energies for democratic development. It prevents the citizens' fall off of economic scale.
+
+Assuming the public good as uppermost priority, development process can bring the state, polity, government, political parties, economic institutions and local bodies closer to citizens, increase their access to resources, institutions and agencies and enforce leaders' accountability. In Nepal, public good and services are supplied by the state's coercive means, private sector market exchange, co-sharing of cooperatives, voluntary mode of NGOs and community based bodies, donors' food for work and direct engagement of citizens which is cost-effective. It bypasses bureaucratic rut as citizens are producers, consumers, stakeholders and beneficiaries of development and, therefore, better state-citizen ties can liberate them from being passive recipients of welfare benefits common in a paternalistic regime.
+
+But the centre-periphery tensions over their jurisdictions limp local bodies as the later are facing barriers to positive civic engagement owing to bigger sizes of Gaon Palikas and municipalities, geographic isolation of certain parts, reluctance of district officers to shift their works to local bodies, under supply of public servants, poor infrastructures, convoluted laws, loss of production dynamism owing to the migration of youths abroad, inexpert local authorities in matters of mediation of interests, conflict between elected and non-elected leaders and corruption of power. In some localities weak market institutions and strewn hamlets hinder the supplies while in remote areas where the presence of government is limited to administration, NGOs, civil society and market fail to meet the hope of citizens for development dividends.
+
+In some localities, returnee migrant workers are doing innovative production works, such as poultry business, bee-keeping, commercial farming, horticulture, milk production, meat supply, organic farming, vegetable production, cash crops like tea, coffee, etc. fulfilling demand-supply equilibrium. Exposure has provided them development insights of other nations. Nepal has also offered training on vocational and technical education to enhance the stock of human resource. But it is insufficient to optimally exploit the nation's endowment. Citizens' practical engagement in labour, production, trade, finance, investment, technology and distribution is primal entailing modern tools to meet competitive standards. Similarly, various projects such as education, health, drinking water, sanitation, agriculture, cooperatives, infrastructures, farming techniques and small scale projects also require upgrading of technology.
+
+Nepali leadership often flips to new theory of development to solve the nation's problems while citizens are socialised in unfilled promises. Each theory proved defunct to capture the diversity and complexity of Nepali society. Development experts, detached from social learning of the empirical reality, ignored the culture, knowledge and experience of citizens and remained insulated from the disturbing effects of their failures. Development rests not only on the use of capital, technology, market and materials but also human ingenuity to utilise what Elinor Ostrom calls "institutional incentive" without crippling the nature's gift for renewal. It optimises the sustainability of development.
+
+Constitutional checks are vital to control obstreperous actors who spoil these conditions and get private benefits at public costs. The leaders need to revamp the failing institutions owing to the corrosive influence of interest groups, partisan politics and weak management, share the burden and benefits of common good with all Nepalis, craft dense associations to cultivate public spirit and common life of citizenship beyond private profit. Dispersal of power is vital but not enough unless they cultivate the virtue and skill, acquire wealth, power and specialisation for engagement in the public sphere of local commons and raise the scale of self-governance.
+
+A strong doze of civic education for Nepalis is vital to liberate them from the Hobbesian trap, engage them in the civilisation process to pacify the wild human nature and uplift the quality of life by building citizens' civic capacity, mobilising local resource and cultivating human scale of community, society, organisation and national affinity crucial to cut the costs of development. 
+
+Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/33812}
+
+### Usefulness of Civic Education
+
+The idea of civic education embraces liberation of people from their infantile thinking, belief and behaviour. It transforms them from biological origin to social and then to cosmological spheres awakening them to the fact that different people are not too dissimilar to learn from each other's experience. Civic consciousness, like glow of light, razes all fallacies revealing citizen's life beyond the needs of body and mind. Practically, it publicises them with democratic theories, laws, institutions and rights to match the variation of material condition and duties holding each other accountable for their action. A national curriculum and praxis of education can enable Nepalis to acquire high quality of knowledge, virtues and skill to perform their tasks and build character which is crucial to peacefully engage in the nation's life. Nepalis live in a plurality of life-world who share the common state with the natives, core values of shared humanity with other humans and a common Earth with other living species that define their duties beyond self and attain universal emancipation. Innovated by sages, its past tradition of enlightenment was not elitist in nature. It sought the perfection of good life unblinked by the siren call of fundamentalism, fatalism, unsocialised animal spirit and populism of today.
+
+Enlightenment values, shaped by the knowledge of light, were based on punya karma (good action), not only human reason and will for self-promotion. They enabled Nepalis to engage in improving life, acquire a worldview and gain ability for self-decision. Those devoid of them are dictated by others and cannot be said free citizens able to solve their personal and social problems and contribute to democracy consolidation in Nepal. Astavakra Gita reveals the nature of Atma Gyan (internal vigilance measured as a precondition to liberty) which has the drive to transcend unsocial human nature. Social virtue is essential to bridge the gap between knowledge and wisdom and order and free will and build human affinity enriching good character. For Gautam Buddha, the path to dharma is a way to the bliss of nirvana, a way that frees humans from the karmaic cycle of suffering, impermanence of life and impersonality of phenomenon and link inner self to a single universe. It helped to detribalise Nepali society. Production of good citizens is the core of civic education affirmed by Socrates in the West and Buddha in the East as a source of polity fit for peace. Nepal's Constitution and policy document too stress on civic education for every citizen though the modern path to it is lost in the din of contesting ideologies, strategies and manoeuvres. As a result, Nepali families prefer successful children, no matter good or bad. The ironies of too much rights, few duties and poor material resources have kept Nepali politics into a combustible gear. This shows that modern Nepali leaders need to confront the nation's future with the ideals of the past defined in the spirit of middle path. Science has linked diverse citizens but did not cultivate the civility to achieve common good.
+
+Immanuel Kant says, "Enlightenment is man's emergence from his self-incurred immaturity. Immaturity is the inability to use one's own understanding without the guidance of another." He says that this inability arises from the lack of courage to exercise freedom. He speaks of three-fold tutelage or immaturity: domestic socialisation where children are dependent on the advice of parents and elders every time and follow their judgments in every aspect of life rather than becoming capable of using their intellect and creativity; civil tutelage of law, leaders and teachers whereby adults uncritically imbibe and faithfully obey their orders and authority without questioning their rationality; and life-long stage of pious tutelage of religious scripts and priests that dominate their belief and behaviour. Each sort of tutelage depoliticises citizens, fosters conformist political culture and kills their sovereign power to uphold inquiring mind to solve their problems created by political stasis and inexorable tides of globalisation. Nepalis cannot exercise their sovereignty so long as they are divorced from the native tradition of enlightenment which looks timelessly modern but now vulnerable to the glitter of modernity's materialism which has reduced media, schools, culture, health, nature, security and law into consumer goods undermining the civic health of the nation. The enchantment with the instrumental nature of reason has undermined the emancipatory potential of enlightenment and punished the weaker part of Nepali society.
+
+The praxis of civic education evokes practical ends of human sensibilities. Its reflective awareness on lived experience of citizens enable them to self-legislate, build personal integrity and national character and become stakeholders of democracy. Inability of Nepali leaders to spread civic virtues has converted citizens into an unreflective mass who impulsively jubilate every regime change, democratic or not as they judge it from existential possibility. The critique of this praxis is vital to transform Nepalis of diverse social, economic and geographic origins into equal citizens and hone their talent of judgment. Praxis cannot be governed by only scientific or rationalistic knowledge claims which is deterministic in nature but by choice-based normative, ethical and moral belief. Nepalis have wisdom of 'common sense' judgment of every day practices. On the basis of this, they participate in community, local assemblies, organise public action, engage in the production, circulation and exchange of vital goods and fulfil their needs and rights. A society that displays ample civic virtues can make their milieu clean and do not look down to cleaners as socially inferior in caste, gender or status. It breaks the barriers to work together in pursuit of the nation's overall progress.
+
+Liberty exists in the gift of critical judgment about ideological blindness, demagogic illusion, irrationality and determinism of class, caste, gender, ethnicity and locality. Education divorced from real life experience of citizens disables them to reflect, engage and influence societies, politics, law and economic planning. In this sense, the rebellious spirit of Nepalis against their subordination to organised power is vital to realize the Constitutional vision of "an egalitarian society." Civic competence unfolds the choices to Nepalis to confront, not just during election but in every turn of life and influence vital policies that affect their lives. It fosters a sense of social equality, tolerance of opposing voice, builds trusts and gears up the spirit of public action. Frank Bruni says, "It is dangerous to forget that in a democracy, college is not just about making better engineers but about making better citizens, ones whose eyes have been opened to the sweep of history and spectrum of civilisation." Those suffering from historical amnesia are hardly inspired by the example of ancestors, their temper and spirit of national freedom. John Dewey says that human nature is not fixed. Civic education and associated life determine human conduct. They nurture civic virtues of individuals that underpin justice based social order. De-culturation, by contrast, is alienating. In this context, social modernisation in Nepal supposes freedom for all. Civic culture bears three effects: growth of individuality, freedom of choice and personal accountability in the entire cycle of life. The last one enables Nepalis to cultivate social virtues of trust, tolerance and teamwork to fight endless causes of the nation's marginality.
+
+Nepalis, as public citizens, are members of the state. They are free to take any initiatives not constrained by habit, tradition and arbitrary actions of authorities. Civic learning means not the passive absorption of lifeless facts or passage of text books written in a totally alien context. It is about engaging in active reflection and inquiry on the life-context of Nepalis, their everyday issues, actors and rules to resolve problems. A vibrant democracy requires active citizenship. It brings cognitive and affective attachment to Nepali democracy, nourishes their openness and engages them in the philosophical traditions for the renewal of national order without smothering the capacity of society for reunion and resilience to the changing times. A common citizenship can transcend the primitive differences shaped and institutionalised by political parties, their liberating fronts and the Constitution. It can create a shared condition for judgment about the art and outcome of polity. Rational choice has failed to control egoism entailing the rediscovery of its enlightenment to rebuild the state from the societal muscle.
+
+Enlightened Nepalis have the guts to defy myth and capricious practices and articulate in public sphere. It frees them from inferiority complex denying their human potential and constitutional propensity. The inversion of Nepal's enlightenment tradition through radical political and social engineering has bred gutless elites. Inorganic intellectuals and leaders are disembodied from the episteme of national culture, history and life-world. They hardly learn from their experience. They are weak to indigenise universal knowledge to fit to local conditions. Ideology-driven education creates ignorant person. Consent manufacturing by unfair media while thought-and-body control of legislators during crucial parliamentary voting denied them from using conscience. Artificial awareness makes it easy to abuse mini identities against the Nepali state and wane social cohesion. Undemocratic leaders fear that civic education fades their superior status and, therefore, seek loyal clients and cadres, not free citizens.
+
+Nepali state has made great strides in the domain of social inclusion and increased women's rights—reproduction, equal parental property and authority, non-exploitation, non-discrimination, social inclusion in politics and administration and positive discrimination in education, health, income-generation, security and peace-promotion activities marking towards participatory democracy. Equal rights to grant citizenship to their children in their name, gender budgeting, appreciation of their family work and zero tolerance to violence can widen the civic circle of life and remove the remaining impediments. This means learning of universal standards and laws can change attitude, capacitate Nepali women for leadership and close the gender gaps in vital sphere of life. Promotion of cardinal civic virtues such as moderation, patience and wisdom is vital for a plural society like Nepal for reconciliation of various identities through the delight of new lens. The transmission of these virtues to many generations of citizens can give impetus to those native civic values of giving, charity, healing and safeguarding social peace. It renews social ties, engineers democracy from below and gives Nepalis a chance to converse with power elites in equal terms. This is vital to create a common ground for public action and foster normative consensus over democratic values across the political parties of various hues to repair state-citizenship ties.
+
+Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/27235}
+
+## Public participation and participatory governance
+
+Participation is life of democracy and foundation for sustainable development.
+
+Simply, participation indicates involvement. Getting involved in any activities, development action, plans and project in some means is participating. But still, participation is a very vague element in development and vital compound in good Governance. Following definitions are more constructive in defining participation.
+
+"People's Participation is conceptually integrated with re-distribution of economic and political power in the process of development and is therefore subject to value judgment." -- M.R. Ghonemy
+
+Participation is more than simply voting. Participatory processes must entail open dialog and broadly active civic engagement. It requires that individuals have a voice in the decisions that affect them. Processes, not just outcomes are key to this broader interpretation of participation. 
+
+Participation means many things to many people. Perception differs as well: some see participation as a technique to implement better projects, while others see it as a development goal or part of a rights-based development approach. Participatory development means involving people in diagnosing the situation and problems, planning and deciding courses of action, implementing agreed upon tasks, monitoring, evaluating and sharing the benefits as well as responsibilities of joint action.
+
+Participatory development is a process through which stakeholders can influence and share control over development initiatives, and over the decisions and resources that affect themselves. Participation is not something that can be conjured up or created artificially. Participation is a feeling on the part of the people, not just the mechanical act of being called in to take part in discussions.
+
+Participation possess following potentialities:
+
+- Joining together the interest groups both direct and indirect to a convincible point
+- Management for sustainability
+- Good governance
+- Equitable benefit sharing
+
+In order for development projects to reflect positively, following aspects of participation are necessary:
+
+- Bottom Up approaches of planning including well communicated ideas and demand based perception.
+- Capacities, culture and empowerment factors relatively adjusted with community and identified stakeholder.
+- Equity based benefit sharing mechanism.
+- Identified role and responsibilities clearly defining the output and its impact to participating agency.
+- Conducive environment and comfortable provisioning.
+
+As participation is founded by democratic and people oriented ruling in the same time it needs a good political culture and conductive environment. "Participation for development and vice versa." Nepalese development process lacks resonance to this particular effect. Supplied participation on blue print approaches has fostered pseudo participation. Pseudoparticipation has resulted in failure of institutions to convey the outputs.
+
+Pseudo-participation is the outcomes to implementation failure of policy, unethical doing from leaders and institutions. These are due to transitional society dominated by bureaucratic inefficiency and corrupted political culture. This arises in small community based multi-sectored project, where actors fail to adopt team work, sharing of common benefit and recognition of value for each other as a outcomes are not realized. 
+
+Poverty is still extreme. Access to capacities building and its use in enterprise and services are less possible to majority of rural people. Although one of the strategic approaches to poverty reduction by the government is "improvement of livelihoods focusing on people centered participatory development", we have still not gotten rid from trickle down development approaches and blue print tendencies. Social taboos are so strong that the effort, indigenous skills attained and people's positive aspirations are consumed out before resonance. Often blamed statement are; People sell votes for foods and cloths, politician are corrupted and make bias policy, bureaucracy holds ruling attitude, community user groups are elite dominated absorbing resources and misused, industry and commerce are pointed to benefiting through quality and quantity difference/curtailing etc. These factors are interdependent and needs some kind of coordinated orchestration for irrational job to commence.
+
+Leaders were never aware and committed for crime free, corruption less and cooperative society, instead they have frequently committed for so in media to gain cheap popularity. Every news paper, radio television and informant talks about power, corruption and praise for money. Continuous exposure to these events has a brainwashing effect on public sentiments.
+
+Participation as a key element in Nepal's Sustainable Development: "Substantial participation creates a more rational basis for local decision-making, increases the transparency and accountability of the administration, and allows better monitoring of resource management." The vital task to be compiled for winning the Nepal struggle for development are,
+
+a) democracy with political culture and stability 
+b) Poverty reduction with social and economical reform 
+c) National vision orientation with unified and identified outputs. 
+
+Participatory processes (like 'voice', openness and transparency) promote truly successful long term development. These processes do not guarantee success. But an understanding of the centrality of open, transparent and participatory processes in sustainable development helps us to design policies - strategies and processes - that are more likely to lead to long term economic growth, and that reinforce the strengths of the processes themselves. Evidence from several reports clearly depicts that the benefits of participation outweigh the costs. 
+
+To sustain the rule of law, the 'checks' on abuses of the power and influence participation have to be strengthened. There are three elements to achieve this: 
+
+1. Strengthen civil society as a source of countervailing power (political parties, unions, consumer groups, think tanks and other NGOs).
+2. Increase transparency by protecting 'right to know' among the citizens
+3. Extend citizens' rights to legal recourse, to sue the non-action by the government.
+
+Development requires change. Change is threatening. Participatory processes ensure that these concerns are not only heard, but also addressed; as a result, these processes dissipate much of the resistance to change. Participation is thus essential to effect the systemic change in mindset associated with the development transformation, and to engender policies that make change more acceptable.
+
+At the same time, we need experts to think of various solutions, to present alternatives, and then to discuss them with the poor. We also need to have experts to help understand the larger socioeconomic and historical contexts or the systemic causes of problems, such as poverty, which are not immediately visible to the people The views of the poor and experts must be seen as complementary for development to succeed.
+
+Therefore, open, transparent, and participatory processes are important ingredients in the development transformation - important both for sustainable economic development and for social development that should be viewed as an end in it and as a means to more rapid economic growth. Beside as participation is culture which also transmits; leaders, professionals and institutions must promote ethical and good governed practices to demonstrate the culture of participation to local institutions and community. Mechanism must ensure equity based benefit sharing, ownership among the stakeholder and to best the demand led projects. Meaningful participation can only be expected where people have access to basic needs with quality education and health and for this participation. It is fairly a competitive pursuing of people oriented participation to integrate the strength to improving cycle moving toward goal of sustainable development.
+ 
+Nepal development realm suffers from pseudo-participation. This has affected achieving equity based empowered local communities. Experiences achieved and lessons learned are, so far, least put into trial. In spite of frequent talking about participation of marginalized and good governance, our action are not unlike the three monkey who refuse to see, hear and speak on behalf of misunderstanding, misuse and corruption in participatory mechanism. Great emphasis and highlights on reports has been given to mechanical participation, but had we ever revitalized and reinvented participatory approaches for its effectiveness and efficiency? Fraction on perception and expectation on participation from ground communities and power practitioner are different, practiced in two different ways. Gradually participation in development has now been a show-piece and it continuously loosing value based on outputs. Finally, for participation to succeed, it should not be conceived in terms of technique or even as a goal, but rather in terms of its authenticity.
+
+### The Participatory Governance
+
+Nepal has come along an important and far-reaching process of political development and transformation over the last few years. It has undergone change from a centralised unitary state structures to federal democratic republic to redeem pledge to deliver justice, prosperity and welfare to citizens. The Constitution enacted by the popularly elected Constituent Assembly in 2015 has restructured Nepal into three tiers of government - federal, province and local. And these governments have been assigned with important functional competencies and mandates.
+
+Roles
+
+In the federal architecture of functional assignment, the local governments - rural and urban municipalities - are entrusted with important roles and functions that are mainly related with local policy making, development planning and implementation, school education and health service delivery and local dispute resolution and management. The Local Government Operation Act, 2017 elaborates the functional responsibilities of the local government that range from governing, regulating to management of local development planning and service delivery functions at the local level. At the core of these functional allocations among the three-tier of the government lies the imperatives of the representation and participation of citizens in the government decision making process. This aspect is very much spelt out in the preamble, directive principles of state policy, fundamental rights chapter of the constitution, acts and guidelines issued by the government time and again.
+
+Moreover, the Local Government Operation Act 2017 intends to promote collaborative governance through citizen participation at the local level while the Good Governance Guidelines 2018 issued for enhancing transparency practices at local government posits citizens and CSOs as the key actors to engage with local governments to strengthen social accountability process and practices.
+
+Needless to repeat, citizen participation is indeed a key ingredient in the recipe for democratisation and development. It contributes to increase transparency and ownership of citizens in decision making process. If citizens are involved in the policy development, they will be able to make government officials more accountable and responsive for their actions and decisions. In fact, local and participatory democracy can be institutionalised properly only when a constructive collaboration and engagement between local government institutions and citizens is duly facilitated, fostered and strengthened. It is also the duty of citizen to participate in decision making process at local level because, in one way or another, he or she will be influenced by the policies implemented by the government.
+
+Moreover, citizen participation should not be undertaken under any special circumstances, but should be a part of the everyday life of citizens. It is not a seasonal or occasional event. It is each citizen's right and responsibility to participate not only during the election period but also in times between elections. Citizens need time to learn about an issue and also know how they can influence the decision making process. The government should inform the citizens about policy development as well as their roles. Media plays an important role in citizen participation. Information can be disseminated to the population at large in a very easy and efficient matter through use of the media. Citizen participation in local government decision making process not only enhances legitimacy of local government but also promotes and institutionalises practices on accountability and transparency.
+
+It is also realistic and less transactional for citizens to oversee and monitor the governing and local development planning and implementation practices at the local level. This can help ensure that local resources are properly utilised consistent to local needs and preferences. In addition to it, citizen stakeholders can participate and feed their inputs into local policy formulation which can ensure local authorship and ownership of local laws and bylaws. Though enabling policy and legal framework exist for citizen participation at the local level as enshrined in the constitution of Nepal, and local government law, the proposed national integrity policy and directives issued by the Home Ministry to rein in on the activities of the INGOs and NGOs have, however, given rise to concerns and apprehensions on the intent of the new government in dealing with civil society. Moreover, concerns have been raised in the media regarding the partisan orientation of the civil society from local to the national level that has allegedly diminished their independent role and objectivity.
+
+Moreover, restructuring of local government, carried out prior to local elections in accordance with the recommendations of the Local Level Restructuring Commission (LLRC) held in 2016, has slashed the number of municipalities from around 3,500 to 753 which has increased size of the local governments both in terms of territory and demography. It has also impacted the political density with significant variation in population - representative ratio. Moreover, the local government offices have gone removed from the walking distance of local communities presenting difficulties in contacting the representatives and officials apart from accessing services.
+
+Collaboration
+
+Since the local level elections held last for the rural municipalities (Gaupalikas) and Municipalities (Nagarpalikas), the elected representatives have formulated policies, plans, programmes and projects for the last fiscal year and this year in succession. It is generally found that the local projects are selected and formulated without consultation with the local citizens which can be labelled as pork barrel projects. The projects are generally found being allocated based on the partisan consideration not on the basis of the local needs. Moreover, local tax rates and service fees/tariffs have been revised allegedly without consultation with local community and concerned stakeholders. It is time multi-tiered governments especially the local government should interact with citizens on every issue that impact them in their day to day life. This can give a sense of ownership and motivate citizens to cooperate and collaborate with the activities of the government institutions.
+
+### Virtues of Participatory Democracy
+
+Participatory democracy is rooted in the active engagement of citizens in the public interest associations to attain self-governing goal, improve the condition of life and resolve common problems in the framework of social justice. Its defining values are popular sovereignty, right-based culture, power devolution, justice, human rights and an admission of citizens to the realm of public life. These values create popular space for citizens to build choice, organisation, leadership, knowledge and solidarity beyond the classical frame of party politics. The right to participate is altering the nature of class-based party politics of industrial era socialised by mass media to multi-channel communication and representation of citizens' diverse interests in political power to shape public agenda.
+
+Citizens' conscious participation, based on their own experience and capacity for self-reflection on their living condition, itself is the source of learning about freedom, legitimacy, authority, ownership and mitigation of the problem of collective choice. Participation in multi-functional spheres maximises their power, secures essential needs, rights and legitimate aspirations and enables them to control the effects of their action. The linking of economy to ecological and social policies helps to overcome the pitfalls of representative democracy where rule and domination become prerogative of majority party exercised from top down and less caring for common good of those at the bottom. It has fed grievance, political instability and conflict infecting good life.
+
+Participatory democracy marks citizens' voluntary and innovative zeal in politics and public affairs and its favorable outcome for a just political order. It has built their confidence in cutting the distance between constitutional vision and uneven conditions and preventing the return of demosclerosis. Joshua Cohen speaks to ensure "participation rights" in constitutional dispensation to "guarantee a fair value of these rights" and "produce legislation that encourages a fair distribution according to the difference principle."
+
+The crisis of representative democracy is caused by its inability to fit economy's race to become global. There are other factors: the decay of industrial civilization with the onset of information revolution and its class based format of politics based on capital and labor, friend and foe and their free collective bargaining; surge of new issues such as climate change, interdependence, globalization, technological acceleration, migration etc entailing beyond state-centric basis of cooperation; birth of multi-classes of electorates with the participation of previously marginalized groups such as women, poor, labor and minorities struggling for recognition and renegotiation of a new social contract; decline of efficacy of ideological representation of social classes of multi-cultural society; rise of anti-party, anti-institutional social struggles and global associational revolution enabling Nepalis to reclaim decision making power to determine their destiny. It has offered opportunity for their participation in areas affecting their life, liberty and choice and halt a race to the bottom. The ideological crisis of representative democracy has created a transformative moment for participatory democracy driven by pluralistic politics, knowledge and information revolution. Integration of women, Dalits, Janajatis, Aadibasis, Madhesis, labor, minorities, human rights, ecologists and peace advocates in the representation of knowledge, policy, power and resource sharing has created a new constitutional basis for level playing field for organized groups. Nepali constitution ensures 33 percent representation of women in national and sub-national parliaments and 40 percent in local bodies.
+
+Participatory democracy has enlarged the rights of citizens including self-determination in politics, ecology, culture, social and economic spheres seeking to prevent outside bullying and address the concerns of diverse society. It marked a qualitative shift of citizenship from "original position" of inequality to equal constitutional entitlements of inclusive citizenship and proportional representation. It is shifting the power of citizens previously governed by what John Rawls calls "the veil of ignorance" to entitlement-based enlightenment now. In Nepal, this is supported by inclusive procedures in civic, political and state institutions, change of electoral system, shared and self-rule with legislative, executive, judicial and financial power, social welfare, formation of inclusive commissions for many groups of citizens, etc despite their unequal virtues, intelligence and abilities.
+
+Another shift lies in collective bargaining of interest between the capital and the labor to a spirit of cooperation of the government, private business and social enterprises of Nepali society to support public goals common in pluralistic politics though the distribution of its profits is skewed. Still, another shift is in the culture of bureaucracy from administration to communication, coordination and delivery of public goods and services to Nepalis to make multi-level governance functional. Participatory democracy says David Held "fosters human development, enhances a sense of political efficacy, reduces a sense of estrangement from power centers, nurtures a concern for collective problems and contributes to the formation of an active and knowledgeable citizenry capable of taking a more acute interest in governmental affairs." Active citizens equipped with a sense of duties do not escape from social responsibilities but creatively participate in public affairs, the market, political parties, civil society, the state and global public sphere seeking fulfilling life. The praxis of participatory democracy evolves where citizens enrich their cognitive resources and experience, apply their practical knowledge and exercise their reason in problem solution through public action as per Local Government Operation Act.
+
+Political emancipation of citizens generates civic competence and innovative social capital while human emancipation enables to acquire humanity based on the protection and promotion of human rights as an intrinsic value of participatory democracy. Information revolution has pluralised the governing powers, civic association and activism and entailed the involvement of affected citizens in decision making turning it transparent and accountable. An awareness about mutual vulnerability of singular institutional life is vital for the birth of solidarity of larger public to participate in collective action. The social struggles of non-class Guthis, journalists, human rights, conflict-victims, educational and health institutions, sub-national units, recently freed bonded labor and civil society demanding stakeholders' consultation in law making beyond the partisan bias of parliament reflect the assertion of popular sovereignty assuming moral, democratic and cultural dimensions of politics and a revolt against Nepali legislature for alienating self from policy production, confinement to public resources through patronage networks and treating Nepalis as an object of development intervention.
+
+The right to shape consultative outcome can flatten vertical integration of party structures giving cadres a sense of freedom, equality and autonomy. Nepali leaders can directly communicate and receive feedback from their voters now. Those not in the loops are facing social, gender and intergenerational tensions in the party committees. The ideological solidarity has shifted to value and issues-based networks and bottom up collective action. Democratization of the inner life of Nepali political parties can break the vices of clientalism, paternalism, factionalism and leadership cult bolstering the base of participatory democracy where experiences of citizens enables in transforming their condition.
+
+Nepali citizens have cognitive ability and skill derived from contextual learning, will and opinion forming institutions about participation in political agitation, hunger strike, protests, demonstration, electoral campaigns, social movements and community engagements. They are vital to improve participatory quality and exert democratic control on decision expecting to spur higher scale of freedom, equity and justice. The political efficacy of Nepalis' engagement in many self-chosen, self-managed and solidaristic organizations such as consumer committee, ward assembly, community governance, civil society, NGOs, cooperatives, school, community forestry, irrigation and local bodies' federations etc is self-evident. They acquire experience and resources to influence policies. Local laws oblige citizens, elected leaders and government officials codetermine planning, manage resources, build infrastructures, execute and monitor various scales of projects. Local leaders and civil servants alone cannot self-determine vital matters without public hearing. Still, in a number of cases where civic competence of citizens is low cooptation of influential persons provide them a semblance of ownership in the initiatives and civic action. In other cases, citizens become mere implementers of decisions which mark the continuity of paternalistic, bureaucratic and hierarchic working style antithetical to participatory democracy.
+
+Increased voters' participation in Nepali elections to above 70 per cent is sufficient to legitimise the polity. Those not voting were either abroad, harbored political apathy or lacked civic virtues. Invalid voting turnout of about 3 percent can be attributed to a lack of voters' education on the election system. It is doubtful whether the Nepali voters have full knowledge of the issues, leadership and organisations debated by the media or attend local meetings with leaders vital foWr evolving participant culture. Their final decision to cast ballot is determined more by social characteristics and leader affiliation than rational calculation to hone the virtues of institutional life of democracy. Rational participation requires a strong doze of civic enlightenment in Nepal. It helps to address the rationality of governance performance and nurture the virtues of participatory democracy.
+
+Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/32199}
+
+### Active Citzenship in Democracy
+
+Democratic state demands attentive and free citizens. Regular dialogues on basic values, actors, norms and issues of democracy can politicise Nepali citizens and rears active citizenship that can influence public policy. In this sphere, they can shape political will and preference with co-nationals to attain national vision. Citizenship is the membership of an enclosed political community, the state, governed by legitimate monopoly on power, loyalty to which surpasses loyalty to sub-national identities. Active citizens can assume duty to community, society and the state which is crucial to gain equal security, identity and welfare benefits for good life.
+
+Civic virtues
+
+The Constitution of Nepal has laid down 31 rights for citizens - freedom of speech and organization, right to work, social justice, social security, education, health, etc. It ensures their representation and participation in governance and fortifies the belonging to the state. It has stipulated four duties - protection of national sovereignty by being loyal to the state, obedience to law, compulsory service needed by the state and safety of public property. The ability of citizens to pay taxes defines their legal and economic status which is a mark of civic duty. If citizens are around their own selfish interest, they end up tearing the web of rights and duties, taking and giving and privileges and charity and pass rational judgment on social contract. Tax-evasion, corruption, illicit capital flight and national betrayal are crimes that make democracy empty, without funds to fulfill citizens' rights. The maker of modern Nepal, P. N. Shah said, "Bribe givers and takers are the enemies of the nation." His universe, united by a common garland, echoes the Nepali national anthem now. Periodic renewal of citizens' active consent through fair elections refills the civic virtues.
+
+The boundary of Nepali state does not correspond to society which is large. Nepali citizens have moral duties to aliens as the nation is a member of many global regimes and bearer of human rights. It offers them the prospect of post-national citizenship and the resolution of antinomies between nationality and humanity. The Constitution stipulates self-perpetuating unitary idea of sovereignty. Nepalis are nationals, not reduced to determinism of provincial and local domains or vicious hatred of the 'Other'. Their duty lies in creating a national identity out of differences of individual interests, ideologies and biological origins. It creates a shared background for the mitigation of fissures.
+
+Constitutional awareness of Nepalis instills in them with patriotism which is vital to bridge the chasm of loyalty at multi-actor governance even to the global spheres where many citizens earn their living. Hope of progress in Nepal can return if group-differentiated citizenship does not cut the ability of the nation's minorities to fulfill their special needs, become equal citizen, protect their cultural identity and nurse national feeling. Group-differentiated citizenship has the potential to re-tribalise the nation. It is averse to modernity couched in terms of individual and human rights and tramples its moral ethos of respecting outsiders and giving them justice like a post-Westphalian state. The Nepaliness is defined in terms of their stake in the state.
+
+Active citizenship is a condition for a vibrant democracy. Citizenship, as a political character, is linked with the public good. Progress, aided by Nepal's wisdom and way of life, evolved national character and dignified freedom. Democracy has granted rights to get passports to join in the global labour market, some even in unsafe jobs. But it did not build a worldwide public sphere where Nepalis can control decisions though they hugely contribute to national and global economic progress. The participation of ordinary citizens in the internal economic opportunity is waning. Monopoly, syndicate and powerful organisational leadership, less accountable to Nepalis, stymie the national productivity and rescue them for free will. Only monied classes, diaspora and globally mobile elites reap the benefits from the new economy. Globalisation has spurred internal democratic deficits because decisions do not require the "consent of Nepali people" making mockery of popular sovereignty, global ethics and universal human rights culture that marked a transition from the state of nature to civil society, constitutional rule, international law and cosmopolitan ethics. Growth of civic virtues rooted in constitutionalism can enable Nepali citizens to strategise for the future through active learning about tolerant politics and actively participate in rebuilding of the community, society and the state.
+
+Social Learning: Social learning enables one to know that they are citizens of a state, universal humans and species beings and have parallel duties at the level of constitutional state, jus gentium (inter-state law) and cosmopolitan norms and solidarity. Nepal's citizenship rights are rooted in both jus sanguine, hereditary and jus soli, birth origin. Democratic spirit transforms passive Nepalis into active citizens at various spheres. It equips them with cognition, skill, disposition and full maturity, jagrit manushya. Political education opens a new possibility for cooperative action across the nation's populace of 125 caste and ethnic groups, 123 languages and 10 religions each with its own values and interests. It eggs on them to reflect seriously on their living condition, acquire wisdom and repair the ethical capital for societal cohesion.
+
+Better ethical capital means less chance of misuse of inhuman ethnic, class, caste, gender, or tribal determinism. It greases shared norms, values and institutions that make common life of citizenship possible. Active citizenship is governed by personal integrity and responsibility about common good. Praxis of socialisation on public education, works and resolution of collision between public demands and budget deficits enable them to harness and use land, labour, capital, technology and knowledge depending on their relative benefits. Passive citizens are satisfied with their representation in politics while active ones are participants of the polity. In Nepal, increased political awareness, social inclusion, proportional representation and subsidiarity opened new domain of citizen activism. Social and economic citizenship through membership in self-chosen association, union, civil society, cooperative, movement, network and federation in development infrastructures, school management, drinking water, consumer groups, health and sanitation, irrigation, cooperatives, clubs, etc. have increased their civic competence. Nepal's local governance has introduced public hearing in project selection and budget allocation, social audit, information and public consultation making the governance responsive.
+
+Citizen-Driven Politics: Nepal's constitution has reconciled popular and state sovereignty and set their authority over other actors. In this context personalisation and centralisation of authority by leadership is immoral. Leaders need to strengthen the parliament and its committees and a culture of deliberation in the parties, before taking any decision. It can set up democratic procedures. Recent national, provincial and local elections have ignited hope for citizen-driven politics keeping the spirit of democracy alive. It seeks to address the needs of citizens from public security, rule of law, health, education, production, market, voice, etc. and bring the state closer to communities. Citizens' active participation in planning, budgeting, monitoring, evaluation and social mobilisation enables the governance actors to fulfil institutional duties and meet the needs of social justice groups. It brings the private citizens into political sphere and creates an interface between them and the state. Citizen's Charter refers to their rights and duties, aims to improve public service delivery and fosters responsive governance. Nepal has enlarged the domain of women's rights in many areas. The right to grant citizenship in mother's name, effective gender budgeting, appreciation of their family work, zero tolerance to violence, 33 per cent representation of women in parliament, speaker or deputy speaker of the House, president or vice-president and chairman or vice chair of local bodies are important steps to liberate them from patriarchal culture, its discipline and rationalisation.
+
+Innovators
+
+Supply roles of the Nepali polity enable citizens to gain access to public goods. The state receives necessary feedback to sustain democratic dynamic. The new civil society with the feeling of "we" are providing hope for citizens and spurring the need for institutional reforms. Emerging from diverse geographical, social and economic backgrounds, the youth, workers, ordinary citizens, local entrepreneurs and cooperatives are giving support to citizens' needs. These democratic innovators aim to change Nepali politics, economy and society. Without active citizenship, Nepalis will be clientalised to families, lineage groups, friends and leaders. They cannot combat misery and fatalism by transforming passive people into active Nepali citizen. The international community can add by showing relevant experience, financial support, resources, tools and technical skills for citizenship-building beyond instrumental and empirical approach. But the local society must learn to update archaic infrastructure, apply practical standards and ensure that scarce public resources are visibly utilised to contribute to a self-regulating, adaptable and resilient democratic communities to combat natural risks and social vices rejuvenating democratic political culture and harnessing the potential of national economy.
+
+Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/22420}
+
+## Accountability
+
+Accountability is assured when the jobs and responsibilities of public officials are clearly defined and the public is informed. The specification of duties and responsibilities is different at the political and bureaucratic levels.
+
+### Political accountability
+
+Generally most political jobs lack the kind of performance requirements that allow for strict, formal accountability. The constitution says that Prime Minister and the ministers are collectively accountable to parliament, and ministers are accountable to parliament and the Prime Minister. In practice, however, the term 'accountable' seems to imply winning the support of parliament rather than satisfying certain performance requirements, because the Prime Minister can keep his job (all prime ministers so far have been male) as long as he enjoys the confidence or political support of parliament, and ministers remain in office as long as the Prime Minister wants them in office. A general election is the only time when political appointees have to face the public for a verdict on their performance. Accountability remains elusive in Nepal's parliamentary system, where the separation of legislative and executive powers is not as clear as it generally is in presidential systems. In a parliamentary system, the executive provides political leadership to parliament and also serves as its agent in executing decisions. This arrangement makes it difficult for either side to clearly delineate its tasks. It is important, therefore, for the government to develop parliamentary practices and conventions to ensure accountability in the conduct of government business, particularly the implementation of policies and priorities. The accountability of the political leadership that has been evolved is based on the following conventions:
+
+1. The government announces new policies and programs in the President's anuual address to parliament, and seeks their approval.
+2. The government reviews its activities, income and expenditure for the year in the annual budget speech, and seeks parliamentary approval.
+3. Ministers respond to enquiries from parliamentary committees.
+4. It is the government's duty to fulfill the committments ministers make to the parliament.
+5. Ministers are obligated to give sincere and honest answers to questions from memebers of parliament.
+6. The government is expected to respond to the issues raised in the parliamentary debates.
+7. The government must respect parliamentary resolutions.
+
+### Administrative accoutability
+
+Accountability is more straightforward in the bureaucracy, as there are job descriptions (albeit not uniformy used), performance benchmarks and formal procedures for delegating the authority, duties and responsibilities of the Chief Secretary, secretaries, and heads of departments. In some cases, the law also defines the duties and responsibilities of lower level officials such as regional administrators, chief of province level and local level offices.
+
+### Mechanisms for ensuring accoutability
+
+Vertical and horizontal accountability: There are built-in mechanisms for both vertical and horizontal accountability. Vertically, regional administrators, CDOs and LDOs are responsible for supervising agencies within their authority. Heads of agencies are responsible for supervising their subordinates. At the district, ministry and chief secretary levels, there are committees to monitor service delivery.Horizontally, the Auditor General's office can send auditors to check accounts and review physical documentation. The PSC audits personnel functions, and the Financial Comptroller General's Office (FCGO) sends its accounts officers to examine the books at different offices. Various institutions are mandated to promote accountability. The National Vigilance Center (NVC), established in 2002 under the direct supervision and control of the Prime Minister in accordance with the Control of Corruption Act 2002, is vigilant about integrity and good governance. The CIAA has authority to make inquiries or investigate matters where it believes there are shortcomings. The GGMOA requires public service providers to hold public hearings once every six months to make the public servants sensitive to public interests, choices and conveniences.Generally, accountability can be breached in three ways. First is failure to meet job requirements in terms of targets, standards, quality, efficiency, etc. Evaluation is usually done by the supervisor, and sanctions are usually departmental actions as provided by the civil service law and regulations. At the political level, steps may be taken by the head of government, the political party, or parliament, depending on the seriousness and political implications of the breach. However, formal actions taken against politicians are rare. The second type of breach includes violation of laws or procedures, financial irregularities, unlawful gains, and unfair dealings. These are addressed in the same manner for both political and administrative personnel under the applicable laws (the Financial Procedure Act 1998 and Rules 2007, the Public Procurement Act 2006, and the Control of Corruption Act 2002). The third type of sanction stems from citizens' right to redress of grievances and compensation for damages, as provided by the GGMOA. An errant official can be individually liable for damages and compensation. The Right to Information Act 2007 and Regulations allow citizens to seek information from the government to build cases for compensation.
+
+### Oversight institutions
+
+The National Vigilance Center (NVC): The NVC was established in 2002 under the direct supervision and control of the Prime Minister in accordance with the Control of Corruption Act 2002. The task of the NVC is to promote integrity and good governance. It is empowered to monitor the incomes and individual property statements of public servants, and it has the authority to accept information on the shortcomings of government agencies and officials, and suspicions of irregularity or corruption. Commission for Investigation of Abuse of Authority (CIAA): The CIAA is a constitutional body with the authority to investigate abuse of authority and unlawful gains by public officials, including political appointees. If the CIAA finds that a person is abusing their public office, it can file a case in court, or recommend departmental action by the relevant authority. Another very important function of the CIAA is to advise the government on policies and laws to curb corruption. CIAA commissioners, including the chief commissioner, are appointed by the President on the recommendation of the Constitutional Council for a period of six years. They retire at the end of their term, or at 65 years of age, whichever comes first. The CIAA submits an annual report to the President, who sends it to the legislature.State Management Committee (SMC) and Public Accounts Committee (PAC): Parliamentary committees such as the SMC and the PAC, constituted under the Rules of Procedures of the Legislature-Parliament, can enquire into any issue of financial or management irregularity, unfairness or inefficiency. The committees can summon ministers or civil servants to committee hearings for questioning.
+
+Auditor General: The Auditor General audits the finances of all government offices, including the judiciary and the legislature. These audits are required for all public agencies. The Auditor General is a constitutional appointee recommended by the Constitutional Council, who serves for a period of six years, or until reaching the retirement age of 65. The Auditor General submits its annual report to the President, who sends it to the legislature. The PAC discusses the report on behalf of the parliament.
+
+#### Office of the Auditor General
+
+The Office of the Auditor General (OAG) was established with the appointment of the first Auditor General as per the Constitution of the Kingdom of Nepal, 1958. Prior to establishment of OAG, the institution named Kumari Chowk Adda used to review the government accounts. It is assumed that Kumari Chowk was established in the year 1769 with the aim of strengthening administrative system after the unification of Nepal. It is also anticipated that there was also existence of audit institution prior to unification.
+
+Vision, Mission and Core Values
+
+Vision: "An Independent, efficient and effective audit institution to promote good governance."
+Mission: "Provide quality audit service to the nation for the efficient management of public resources."
+Core Values: "Independence, Integrity, Credibility, Professionalism and Serving the Public Interest."
+
+Constitutional Council
+
+According to the Interim Constitution 2063(2007), on the recommendation of the Constitutional Council*, the President appoints the Auditor General. The functions, duties and powers of the Auditor General are specified in the Interim Constitution. (Part12).
+
+Constitutional Council consists of the following Chairman and Member:
+
+```{r}
+tribble(
+  ~"Designation", ~"Membership", 
+  "The Prime Minister", "Chairman", 
+  "The Chief Justice", "Member",
+  "The Speaker of the Legislative Parliament", "Member",
+  "Three Ministers designated by the Prime Minister", "Member"
+) %>% 
+  knitr::kable(booktabs = TRUE)
+```
+
+
+The Constitution of the Kingdom of Nepal, 2015 (1959 A.D.) clearly described about appointment and scope of functions and duties of an auditor general. Part-8, Article-61 endows the explicit authority to the King to appoint an Auditor-General. Although, the official shall not, except on the same grounds and in the same manner as a judge of the Supreme Court, be removed from his office prior to the expiry of his term of office. Likewise, the Article-62 informs that accounts and ledgers of all Departments and Offices of the Government and of all courts as well as the offices of the Cabinet, the Secretary of the General Assembly, the Secretary of the House of Representative, the Supreme Court and the Public Service Commission, be kept in such a format as may be made with the approval of His Majesty's Government and in such manner as may be prescribed by the Auditor-General and shall be audited by the Auditor-General and shall be audited by the Auditor-General; and the Auditor-General and his deputies shall, at all times, be entitled to have access to all documents relating to such accounts.
+
+In the Constitution of Nepal, 2015, provisions regarding appointment, qualification, term of office, jurisdiction and functions, duties and powers are defined in the Part 22.
+
+Audit objectives and policies of the Office of the Auditor General are:
+
+- To promote public accountability and transparency
+- To bring forth economy in the mobilization of public resources and enhance efficiency
+- To enhance effectiveness of public entities
+- To improve and assure clean practices in the working system of administrative, financial and managerial system;
+- To assist in compliance of the existing laws;
+- To encourage abandonment of the discretionary work-style
+- To recommend practical suggestions for improvement by identifying weaknesses and lacunae in the existing approaches, processes, practices and legal provisions; and
+- To encourage the practice of taking actions against delinquents and rewarding the excellent performers.
+
+## Commission for Control of Abuse of Authority
+
+(What are the provisions in Constitution of Nepal, 2072 for activities, rights and duties of Commission for Abuse of Authorities ?)
+
+\begin{solution}
+
+\end{solution}

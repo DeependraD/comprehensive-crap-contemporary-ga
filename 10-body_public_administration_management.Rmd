@@ -1,0 +1,133 @@
+# Public administration and management
+
+## Bureaucracy
+
+German sociologist Max Weber, who used an "ideal type" approach to extrapolate from the real world the central core of features that would characterize the most fully developed bureaucratic form of organization. Weber's ideal type of bureaucracy possesses the following characteristics:
+
+1. The bureaucrates must be free as individuals; they can only be bossed around with respect to the impersonal duties of their offices.
+2. The bureaucrats are arranged in a clearly defined hierarchy of offices, the traditional scalar chain wherein every bureaucrat has an unambigious place -- and knows his or her place!
+3. The functions of each office are clearly specified in writing.
+4. The bureaucrats accept and maintain their appointments freely -- without duress. Slave bureaucrats, while once fashainable in the Ottoman empire and Imperial china, are an inherent contradiction except within military or prison organizations.
+5. Appointments to office are made on the basis of technical qualifications, which ideally are substantiated by examinations administered by the appointing authority, a university, or both.
+6. The bureaucratis receive money salaries and pensions rights, which reflect the varying levels of the hierarchy. While the bureaucrats are free to leave the organization, they can be removed from their offices only under previously stated, specific circumstances.
+7. The office must be the bureaucrat's sole or at least major occupation.
+8. A career system is essential; while promotion may be the result of either seniority or merit, it must be premised on the judgment of hierarchial superiors.
+9. The bureaucrats do not have property rights to their office nor any personal claim to the resources that go with it.
+10. The bureaucrat's conduct must be subject to systematic control and strict discipline.
+
+## New Public Management (NPM)
+
+This concept was put forward in 1990s and aims to overcome the drawbacks facing traditional system of administration. NPM is best understood as a conceptual framework that draws on private-sector notions of disaggregated operations with market-based controls to produce efficient and effective outcomes in the public sector. In the briefest of quips, proponents of NPM contend that government should be run like a business. All of this aims to transformation of public administration to public management, improvement in public services and administration, improvement of administrative capacity and competitiveness.
+
+According to Christopher Pollitt (1993), "the new public management" has four main aspects:
+
+1. A much bolder and larger-scale use of market-like mechanisms for those
+parts of the public sector that could not be transferred directly into private
+ownership (quasi-markets).
+
+2. Intensified organizational and spatial decentralization of the management
+and production of services. 
+
+3. A constant rhetorical emphasis on the need to improve service "quality".
+
+4. An equally relentless insistence that greater attention be given to the wishes of the individual service user/"consumer."
+
+In the final quarter of the twentieth century NPM reforms swept across developed democracies in countries such as New Zealand, Australia, Great Britain and the US. The political prominance of these reforms, combined with resulting changes in management practice makes it tempting to view NPM as the way the work of state gets done today. In practice, public management remains highly varied and much of the old structures of centralizaiton and bureaucratic hierarchy remain firmly entrenched.
+
+Two impetuses that gave rise to a new concept of public management are bureaucratic distrust and public choice theory. Shortcomings of the public management in early days were picked as being grown to unimaginable proportions, far from politically neutral, relied upon formal rules and internal hierarchy to function. An NPM framework moves away from large, discernable public agencies, preferring to engage a host of agencies - public and private - in the delivery of public goods and services. Further, an NPM framework divests itself of the democratically derived mandate for political neutrality by expressing democracy differently, either through the provision of service options (i.e., the people "vote" with their choice) or public participation (i.e., the people "vote" through participation). Finally, an NPM framework leaves behind formality and hierarchy to stress managerial dexterity and entrepreneurialism.
+
+The public choice theory has a long history stretching back more than two centuries. In brief, public choice theory -- or more simply, public choice -- looks to apply economic concepts to political ideas. One of the more influential works on the subject was offered by James M Buchanan and Gordon Tullock in their 1962 The calculus of consent: Logical foundations of constitutional democracy. Two themes undergird the authors' work: methodological individualism and decentralized organizational arrangements. 
+
+For the welfare of public, there should exist alternatives in public sector as well. Only then people can have their choice, much alike the idea private sector thrieves on.
+
+Principal agent theory
+
+
+It is also termed as principal agent problem. This occurs when one person or entity (the "agent"), is able to make decisions and/or take actions on behalf of, or that impact, another person or entity: the "principal". This dilemma exists in circumstances where agents are motivated to act in their own best interests, which are contrary to those of their principals, and is an example of moral hazard. The principal and agent theory emerged in the 1970s from the combined disciplines of economics and institutional theory.
+
+When it comes to fighting corruption, the 'Principal-Agency Theory' is helpful in discerning the good or the bad, which assumes that corruption is an individual aberration where due to information asymmetry, inadequate monitoring and incentive and the punishment system, the principal cannot detect corruption by his/her agent(s).The solution here is to get rid of one or two rotten apples in order to save the whole lot. There is no problem with this theory as long as its assumptions are correct. 
+
+https://kathmandupost.com/opinion/2016/06/19/corruption-vs-anti-corruption
+
+## Organizational behavior
+
+### Theory X and Theory Y
+
+Psychologists have long been noted for their studies of human and animal motivation. The operative discipline in organizational motivation is philosophy. The sincerity and rigor of the motivation of employees toward their duties is a direct reflection of management's philosophy toward them. That an operative philosophy is neither written down nor formally stated is irrelevant to its existence. Many organizations have commendable formal managerial philosophies. Ream upon ream of paper have been dedicated to espousing an official view of what an idyllic place the jurisdiction is in which to work. The only problem with these fine-sounding philosophies is that they are seldom operational, tending to exist only on paper. 
+
+All managerial philosophies are premised on a set of assumptions about human behavior. Douglas McGregor, through his 1960 book The Human Side of Enterprise, popularized the contending concepts of managerial philosophy with his now famous Theory X and Theory Y sets of assumptions. McGregor hypothesized that a manager's assumptions about human behavior predetermined his administrative style. Because of the dominance of traditional theory in managerial thought, many managers had long accepted and acted on a set of assumptions that are at best true of only a minority of the population. McGregor labeled as Theory X the following assumptions:
+
+1. The average human being has an inherent dislike of work.
+2. Most people must be coerced or threatened with punishment to get them to put forth adequate effort.
+3. People prefer to be directed and wish to avoid responsibility.
+
+While McGregor's portrait of the modern industrial citizen can be criticized for implying greater pessimism concerning human nature on the part of managers than is perhaps warranted, Theory X is all the more valuable as a memorable theoretical construct because it serves as such a polar opposite of Theory Y, which assumes the following:
+
+The expenditure of physical and mental effort in work is as natural as play or rest.
+2. A person will exercise self-direction and self-control in the service of objectives to which he or she is committed.
+3. Avoidance of responsibility, lack of ambition, and emphasis on security are generally consequences of experience, not inherent human characteristics.
+4. The capacity to exercise a relatively high degree of imagination, ingenuity, and creativity in the solution of organizational problems is widely, not narrowly, distributed in the population. 
+
+Of course, these differing philosophic orientations are extremes for purposes of example. Most work situations would require a mix rather than a simplistic acceptance of either construct. Nevertheless, assumptions shape destiny; they tend to create self-fulfilling prophecies.
+
+## Public administration in Nepal
+
+Modern public administration has a relatively short history in Nepal. It began taking shape in the early 1950s and has continued to evolve alongside the political changes and upheavals that have marked the period between 1950 and 2010. Politics shape government structure and functions, and the state administration cannot remain insulated from changes in the political landscape. Nepal has had two administrative reform commissions, one in the 1950s and another in the early 1990s. There was no such commission after the political changes of 2006, but it is likely there will be a new one after the new constitution is prepared, because the prospective new federal system will require restructuring public administration.
+
+Nepal has had an essentially parliamentary form of government since 1990, and state structures have been designed to match the needs of the polity. An analysis of government structures and functions suggests that they resemble those in countries with similar forms of government, but with idiosyncrasies and inefficiencies unique to Nepal. For instance, there are over 150 development boards and committees created for various purposes (for expediting projects, for example), and many of them are not even functional. While such boards and committees can often be effective, the fact that so many are inactive suggests that they are redundant, unnecessary, or have outlived their purpose.
+
+The governance act (GGMOA) clearly lays down the standards for government business at all levels. These include taking into account the larger interests of the people and nation, equity and inclusion, rule of law, human rights, transparency, objectivity, accountability and integrity, financial discipline, fairness, efficiency, accessibility, decentralization and devolution, utilization of local resources and participation. These principles, however, are not always evident in practice, as is clear from the reports of different accountability agencies such as the CIAA, NVC, and parliamentary committees, as well as the mass media and other civil society groups. 
+
+In principle, governments exist to serve the people. This ideal informs public policies like the provisions of the GGMOA just enumerated. But ideals expressed in broad terms like 'national interest' are more easily interpreted for political convenience than concrete benchmarks like the *Rashtriya Mool Niti* that existed before the 1990s. Clear and concrete language would better guide decision makers in interpreting the provisions of the GGMOA, and better serve the public interest.
+
+Openness and transparency are vital for accountability, because only an informed public can demand and make use of effective public services. While both openness and transparency are acknowledged public policy objectives, the lack of adequate and timely information remains a major obstacle that continues to prevent people from accessing services effectively or holding public officials accountable for non-performance.
+
+Further, while accountability is a stated government objective, the fact that Cabinet deliberations are still protected by law from public scrutiny or court review suggests that the desire to 'protect' government information is a strong one, and that thoroughgoing accountability will remain hard to achieve. The GNBTR and GNBAR are not public documents in Nepal, while similar laws are readily available on the websites of other parliamentary democracies such as India. While there may be good reasons for protecting the confidentiality of government deliberations until a decision has been reached (though this has not been the practice, particularly since 2006), keeping Cabinet deliberations secret forever represents a mismatch between the ideal of accountability and the actual practice of government in Nepal.
+
+Nepal has constitutional checks and balances on the executive, with bodies that get their mandate from Interim Constitution. Again, in principle, these bodies are independent — for example, appointees cannot be members of political parties — but their independence is questionable, given that political parties nominate the candidates, often based on affiliation rather than competence, a particularly common practice since 2006. Since political parties are not transparent about their membership, and there is no way to check membership roles of parties that do not release them, there is no way to ascertain the party affiliation of appointees. The clause requiring non-partisan nominees is meaningless in the absence of a mechanism to check if nominees hold party membership or not.
+
+## Management information system
+
+\begin{questions}
+
+\question How does the management information system help in decision making process ?
+
+Management information system (MIS) is an information system used for decision-making, and for the coordination, control, analysis, and visualization of information in an organization.
+
+In public governance, MIS are the tools to promote transparency, accountability and participation. More specifically, recent approaches to delivering bureaucratic services are expeceted to meet their goals of public orientation and result based performace evaluation aided through information system. Establishment of computerised Integrated Financial Management Information System (IFMIS) is being mulled over to implement single platform central accouting system as a part of a public finance management reform initiative by Government of Nepal with support of World Bank. For example, under this system information about expenditure made by the Department of Roads and the revenue collected by the Inland Revenue Department will be disseminated via the same platform. Also the concept of digital National Identity Card based is a part of broader vison of government, currently under delegation of the National ID Management Center (NIDMC) under aegis of Ministry of Home Affairs, to aggregate vital information database of the citizens.
+
+In a corporate setting, the ultimate goal of the use of a management information system is to increase the value and profits of the business. This is done by providing managers with timely and appropriate information allowing them to make effective decisions within a shorter period of time.
+
+While management information systems can be used by any and every level of management, the decision of which systems to implement generally falls upon the chief information officers (CIO) and chief technology officers (CTO). These officers are generally responsible for the overall technology strategy of an organization including evaluating how new technology can help their organization. Once decisions have been made, IT directors, including MIS directors, are in charge of the technical implementation of the system. Upon implementation, the assigned users will have the appropriate access to relevant information. It is important to note that not everyone inputting data into MIS need necessarily be management level.
+
+The role of MIS in public and private governance is further invigorated by widespread networking facilities made possible through internet. There are also multiple cases of MIS platform sharing across multiple business centres to benefit from cross enterprise information exchange.
+
+The MIS represents the electronic automation of several different kinds of counting, tallying, record-keeping, and accounting techniques of which the by far oldest, of course, was the ledger on which the business owner kept track of his or her business. Automation emerged in the 1880s in the form of tabulating cards which could be sorted and counted. These were the punch-cards still remembered by many: they captured elements of information keyed in on punch-card machines; the cards were then processed by other machines some of which could print out results of tallies. 
+
+Waves of innovation spread the fundamental virtues of coherent information systems across all corporate functions and to all sizes of businesses in the 1970s, 80s, and 90s. Within companies major functional areas developed their own MIS capabilities; often these were not yet connected: engineering, manufacturing, and inventory systems developed side by side sometimes running on specialized hardware. Personal computers ("micros," PCs) appeared in the 70s and spread widely in the 80s. Some of these were used as free-standing "seeds" of MIS systems serving sales, marketing, and personnel systems, with summarized data from them transferred to the "mainframe." In the 1980s networked PCs appeared and developed into powerful systems in their own right in the 1990s in many companies displacing midsized and small computers. Equipped with powerful database engines, such networks were in turn organized for MIS purposes. Simultaneously, in the 90s, the World Wide Web came of age, morphed into the Internet with a visual interface, connecting all sorts of systems to one another.
+
+Midway through the first decade of the 21st century the narrowly conceived idea of the MIS has become somewhat fuzzy. Management information systems, of course, are still doing their jobs, but their function is now one among many others that feed information to people in business to help them manage. Systems are available for computer assisted design and manufacturing (CAD-CAM); computers supervise industrial processes in power, chemicals, petrochemicals, pipelines, transport systems, etc. Systems manage and transfer money worldwide and communicate worldwide. Virtually all major administrative functions are supported by automated system. Many people now file their taxes over the Internet and have their refunds credited (or money owning deducted) from bank accounts automatically. MIS was thus the first major system of the Information Age. 
+
+Advantages and disadvantages
+
+The following are some of the benefits that can be attained using MIS:
+
+\begin{itemize}
+\item Improve an organization's operational efficiency, add value to existing products, engender innovation and new product development, and help managers make better decisions.
+\item Companies are able to identify their strengths and weaknesses due to the presence of revenue reports, employee performance records etc. Identifying these aspects can help a company improve its business processes and operations.
+\item Giving an overall picture of the company.
+\item Acting as a communication and planning tool.
+\item The availability of customer data and feedback can help the company to align its business processes according to the needs of its customers. The effective management of customer data can help the company to perform direct marketing and promotion activities.
+\item MIS can help a company gain a competitive advantage.
+\item MIS reports can help with decision-making as well as reduce downtime for actionable items.
+\end{itemize}
+
+Some of the disadvantages of MIS systems:
+\begin{itemize}
+\item Retrieval and dissemination are dependent on technology hardware and software.
+\item Potential for inaccurate information.
+\end{itemize}
+
+source: \url{https://www.inc.com/encyclopedia/management-information-systems-mis.html}; \url{https://en.wikipedia.org/wiki/Management_information_system}
+
+\end{questions}
