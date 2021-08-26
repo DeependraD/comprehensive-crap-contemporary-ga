@@ -616,12 +616,15 @@ Chapter-5 Salary, allowance, dashain expenses and other facilities
 
 Chapter-6 Retirement, gratuity and pension
 
+- Any civil employee who has completed the age of fifty-eight years or completed the tenure shall ipso facto retire from the civil service.
+- 
+
 Chapter-7 Conduct
 
-- Timeliness/punctuality and regularity
+- Timeliness/punctuality and regularity (Timeliness specifications is included in Section 41 of Civil Service Rules, 2050; Condition of unpuntual arrival of an employee to be treated as absentee is included in Section 55)
 - Discipline and obedience
 - Political impact should not be made
-- Non participiation in politics
+- Non participation in politics
 - Government should not be protested against
 - Publication/reporting on government activities is prohibited
 - Should not accept grant, present and donations
@@ -643,4 +646,356 @@ Chapter-8 Service security
 
 Chapter-9 Punishment and appeal
 
+(Section 59) subjected to the department punishment, if there exist appropriate and sufficient reason.
+
+**Ordinary punishment**
+
+- Censure
+- Withholding of promotion for up to two yeas or withholding of a maximum of two salary increments,
+- Withholding of promotion for two to five years, or withholding of a maximum of two to five salary increments,
+
+**Special punishment**
+
+- Removal from service, without being disqualified for government service in the future.
+- Dismissal from service, with being disqualified for government service in the future.
+
 Chapter-10 Miscellaneous
+
+(Section 71 and 71 A) Provisions for leave
+
+The civil employees shall be entitled to the following leaves, as prescribed:
+
+1. Casual and festival leave,
+2. Home leave,
+3. Sick leave,
+4. Maternity leave,
+5. Maternity care leave,
+6. Obsequies leave,
+7. Study leave,
+8. Extra-ordinary leave
+
+- If the husband or wife of any civil employee is deputed to the foreign based Nepalese Embassy or mission, such civil employee shall get unpaid leave.
+
+(for more detailed discussion of provisions relating to leave, refer to Subsection 'Provisions for leave'.)
+
+### Terms and definition of terms
+
+\begin{questions}
+\question What is family as per the Civil Services Act, 2049 ?
+
+\begin{solution}
+
+"Family" means the husband, wife, son, unmarried daughter, adpoted son, unmarried adopted daughter, father, mother or step mother living together with a Civil employee and whom he/she himself/herself has to maintain and subsist, and this term also includes his/her grandfather, grandmother in the case of a male and unmarried female employee, and her mother-in-law, father-in-law, in case of married female employee.
+
+\end{solution}
+
+\question What terms are defined in the Civil Service Act, 2049 ?
+
+\begin{solution}
+
+Following terms are defined in the act:
+
+\begin{enumerate}
+\item Civil service
+\item Civil employee
+\item Authority
+\item Family
+\item Head of department
+\item Head of office
+\item Permanent post
+\item Expert post
+\item Trade union of civil employees
+\item Authentic trade union of civil employees
+\item Prescribed
+\end{enumerate}
+
+\end{solution}
+
+\end{questions}
+
+### Classification of Civil Services
+
+The provision relating to classification of civil services is prescribed under Article 3 of the act as "Constitution of Civil Service".
+
+Government of Nepal shall constitute the civil services as follows:
+
+- Nepal Economic Planning and Statistics Service
+- Nepal Engineering Service
+- Nepal Agricultural Service
+- Nepal Judicial Service
+- Nepal Foreign Service
+- Nepal Administration Service
+- Nepal Audit Service
+- Nepal Forestry Service
+- Nepal Miscellaneous Service
+- Nepal Education Service
+
+The service categories Nepal Health Service and Nepal Parliamentary Service were omitted by Nepal Health Act, 2053 (1997) and Parliamentary Secretariat Act, 2058 (2001), respectively.
+
+### Classess in civil service (Article 4)
+
+There are 4 classes in Gazetted and 5 classes in Non-gazetted ranks.
+
+```{r classes-civil-service}
+tribble(
+  ~"Gazetted", ~"Non-gazetted",
+  "Special", "First",
+  "First", "Second",
+  "Second", "Third",
+  "Third", "Fourth",
+  NA, "Fifth"
+) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Classes in civil service") %>% 
+  kableExtra::kable_styling(latex_options = "striped")
+```
+
+**Posts of service**
+
+There shall be technical and administrative posts including the expert post in different classes of the civil service.
+
+### Fulfillment of vacancy of civil service
+
+Section 6A. Creation of position
+
+- (Sub-Section 2, amended by Second Amendment) In preparing an organizational structure and creating a new position in order to establish a new governmental office or reviewing or altering the currently existing organizational structure and positions, the concerned Ministry shall carry out an organizational and management survey, based, inter alia, on the programme, work-load, job nature and available human resource, obtain consent of the Ministry of Finance and forward it to the Ministry of General Administration.
+- (Subsection 2a) Based on the consent obtained pursuant to Sub-section 2, the Ministry of General Administration shall make its evaluation and submit it to the Government of Nepal, Council of Ministers for approval within Thirty days.
+
+Provided that in the case of alteration in the organization structure and position, a report on such alteration in organization structure and position may be submitted after carrying out organization and management survey.
+
+- (Subsection 3) Any post fulfilled by creating the position in contravention of Sub-section 1, 2 and 2a shall _ipso facto_ lapse.
+
+Section 7. Fulfillment of vacancy in civil service
+
+The posts of Gazette special class of the civil service shall be fulfilled pursuant to Section 19 and following posts shall be fulfilled as follows.
+
+```{r vacancy-fulfilment}
+tribble(
+  ~"Post", ~"By open competition", ~"By evaluation of competency", ~"By internal competitive examination", ~"By adjustment of promotion by evaluation of work performance and experience", 
+  "Classless/non-gazetted fifth class", 100, NA, NA, NA,
+  "Non-gazetted fourth class", NA, NA, NA, NA,
+  "Non-gazetted thrid class", NA, 100, NA, NA,
+  "Non-gazetted second class", 60, 20, 20, NA,
+  "Non-gazetted first class", 60, 20, NA, 20,
+  "Gazetted third class", 70, 10, 10, 10,
+  "Gazetted second class", 10, 60, 20, 10,
+  "Gazetted first class", 10, 60, 20, 10
+) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Fulfilment of Gazetted and Non-Gazetted posts of civil service") %>% 
+  kableExtra::kable_styling(font_size = 8, latex_options = "striped") %>% 
+  kableExtra::collapse_rows(1) %>% 
+  kableExtra::column_spec(column = 1:5, width = c("12em", rep("8em", 4)))
+```
+
+- Out of posts to be filled up through internal competitive examination as referred to in Clause (d) of Sub-section (1), the non-gazetted second class posts shall be filled up through open competition from amongst the employees who are serving in non-gazetted third class and classless posts and have obtained minimum educational qualification and minimum service period.
+
+- In order to make inclusive the civil service, 45% posts of the posts to be fulfilled by open competition shall be set aside and be filled up by having separate competition between the following candidates only, 
+
+```{r quota-civil-service}
+tribble(
+  ~"Category", ~"Percentage", 
+  "Women", 35,
+  "Adiwasi/Janajati", 27,
+  "Madhesi", 22,
+  "Dalit", 9,
+  "Disabled (differently abled)", 5,
+  "Backwarded area", 4
+) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Provisions for inclusive civil service (Sub-section 7, Section 7)") %>% 
+  kableExtra::kable_styling(latex_options = "striped") %>% 
+  kableExtra::add_footnote(label = "'Backwarded area' means Accham, Kalikot, Jajarkot, Jumla, Dolpa, Bajhang, Bajura, Mugu and Humla districts")
+```
+
+- (Sub-section 11, Section 7) The provision for the fulfillment of posts through the percent determined pursuant to Sub-section 7 shall be reviewed in every 10 years.
+- (Sub-section 13, Section 7) Notwithstanding anything contained elsewhere in this Section (Section 7), the GoN may, by a notification in the National Gazette, specify the post that can be competed only by women for any specific nature of function or post.
+- Notwithstanding anything contained elsewhere in this Section (Section 7), permanent appointment may be made by way of a competitive examination, between such women candidates only, specified by the Public Service Commission to the prescribed post for one time after the commencement of this Section as have obtained necessary minimum qualification for any post and have worked for at least five years temporarily in the permanent post of the women development program operated by a governmental body.
+
+- (Sub-section 16, Section 7) The minimum qualification required for the post of gazetted second and first class to be filled up through open competition pursuant to Clauses (f) and (g) of Sub-section (1) shall be Master's Degree obtained on the concerned subject and experience of 5 years in the case of gazetted second class and that of 7 years in the case of gazetted first class, in an officer level post of any government service or a body corporate registered as per the prevailing law or an international association or institution.
+
+Provided that, the term of work experience shall be less by 2 years in the case of a candidate who has done PhD.
+
+- (Section 7A) Provisions on requisition for vacancy fulfillment. If any post of the civil service falls vacant in any manner, the concerned body shall give information thereof to the Public Service Commission within one month after such vacancy.
+
+- (Section 7B) Restriction on vacancy fulfillment. 
+
+(1) No post of the civil service shall be fulfilled in any manner other than that provided for in this Act.
+
+(2) No salary shall be provided without having a salary report passed by the Civil Employee Records Office ( _Nijamati Kitabkhana_), in the case of civil employees serving in Ministries, Secretariats, Commissions and Departments and Offices situated within the Valley, and by the Treasury and Accounts Comptroller Office concerned, in the case of civil employees of the District based offices.
+
+(3) (Includes provision for vindication on provisioning of salary in contravention to Sub-section 1, and the provision of salary to an employee holding a redundant post ( _Phajil_)).
+
+- 'Employee holding a redundant post' means an employee whose organization or position has been repealed but his or her service is yet to be adjusted in another organization or service.
+
+- (Section 9) Appointment to the post of civil service: Government of Nepal shall make appointment to the gazetted post of the civil service; and a Notification of such appointment shall be published in the Nepal Gazette.
+
+The Head of Department may make appointment to the non-gazetted post of the civil service.
+
+### Disqualifications for being candidate
+
+The provisions relating to Disqualification for being candidate are described under Sub-section 1 of Section 10.
+
+a. In the case of non-gazetted and classless post, those who have not completed the age of 18 years,
+b. In the case of gazetted post, those who have not completed the age of 21 years,
+c. In the case of male and female candidates, those who have already completed the age of 35 years and that of 40 years, respectively, provided that,
+
+1. Any person who has not crossed the age of 40 years may be a candidate for such post of the civil service as may be specified for appointment of an ex-army or police thereto.
+
+2. Any person who has not crossed the age of 45 years may be a candidate for the open competition of gazetted second and first class.
+
+3. The age bar shall not be applicable in the case of permanent incumbent employees of the civil service.
+
+d. Those who have been dismissed from service, with being disqualified for government service in the future,
+
+e. Those who are non-Nepalese citizens,
+
+f. Those who have been convicted by the court of a criminal offense involving moral turpitude.
+
+- (Sub-section 2, Section 10) In the case of the female civil employee who has been temporarily appointed to any post of development side or development project of Government of Nepal and serving continuously since at least 5 years ago, the age bar shall not be applicable to her to become a candidate in the advertisement of the Public Service Commission for open competition.
+
+- (Section 12) Retention of lien: The civil employee shall continue to have lien over his/her post in the following circumstances:
+
+a. As long as he/she continues to function in that post;
+b. Until the period of time allowed for the assumption of charge of another post, on being transferred to that post;
+c. While he/she is on leave;
+d. While he/she is under suspension;
+e. While he/she is deputed by Government of Nepal on governmental or non-governmental business or while he/she is serving in any other post in an acting capacity.
+
+- Section (13) Acting assignment
+
+If any post of any Head of Department or Head of Office falls vacant or the employee holding such post goes on leave for a period exceeding 15 days or becomes subject to action pursuant to the prevailing law, a civil employee of the same grade or of one class lower post who has already become a potential candidate for promotion may be assigned to act in that post for a maximum period of 6 months, in order to perform the functions of that post for the time being. In cases where anyone has been so assigned to act in any post, that person or any other person shall not be again assigned to act in that post.
+
+- (Section 17) Tenure of chief secretary and secretary shall be 3 and 5 years, respectively.
+
+(...include other, refer to the section titles for overview. It should be taken that the body content is arcane.)
+
+### Promotion (Section 19 and 20)
+
+\begin{enumerate}
+\item While making promotion to the gazetted post of the other civil services, except the gazetted post of Nepal Judicial Service, it shall be made on the recommendation of the promotion committee as referred to in Section 20.
+
+\item Notwithstanding anything contained elsewhere in this Act, promotion to the post of gazetted special class shall be made as follows:
+
+\begin{enumerate}
+\item Government of Nepal shall, while making promotion to the post of Chief Secretary of the gazetted special class, make promotion by making selection on the basis of seniority and work efficiency from amongst the incumbent Secretaries.
+
+\item The promotion committee shall, to the extent of availability, recommend those candidates who have secured the highest marks on the work performance evaluation, from amongst the potential candidates, in a number that is three times higher than the number of vacant posts, for promotion to the vacant posts of Secretary of gazetted special class or equivalent thereto; and Government of Nepal shall promote such candidate, from amongst the candidates so recommended, as it may hold appropriate on the basis of leadership capacity and work efficiency.
+
+\item In order for any gazetted first class employee to be a potential candidate for the post of Secretary or special class post equivalent thereto, such employee must also have passed such a high level management training as prescribed by Government of Nepal.
+
+\item In counting the work performance evaluation pursuant to Clause (b) for the promotion to the special class, the work performance evaluation of such years of minimum service period as required for promotion shall be counted.
+
+\item Action for promotion shall be carried out twice in a year, One within the month of Poush and the other within the month of Ashad, each year.
+
+\end{enumerate}
+
+\end{enumerate}
+
+**Promotion committee** (Section 20)
+
+(Sub-section 1, Section 20) There shall be a promotion committee as follows to make recommendation for promotion to the other gazetted post of the civil service, except for promotion to the gazetted post of Nepal Judicial Service and for promotion from the non-gazetted post to the gazetted post:
+
+1. Chairperson of the Public Service Commission or Member of the Public Service Commission designated by him/her -- Chairperson
+2. Member of the Public Service Commission designated by the Chairperson of the Public Service Commission -- Member
+3. Chief Secretary -- Member
+4. Expert in the concerned subject nominated by the Public Service Commission -- Member
+5. Secretary at the Ministry of General Administration -- Member secretary
+
+(Sub-section 1a, Section 20) There shall be a promotion committee as follows, to make recommendation for promotion to the gazetted third class from the non-gazette first class:
+
+\begin{enumerate}
+\item Secretary at the Public Service Commission -- Member
+\item Secretary at the Ministry of General Administration -- Member
+\item Expert in the concerned subject nominated by the Chairperson of the Public Service Commission -- Member
+\item Secretary at the Ministry relating to Service, Group or Sub-group or Gazetted First Class Officer designated by him/her -- Member secretary
+\end{enumerate}
+
+(Sub-section 1b, Section 20) The secretariat of the promotion committee referred to in Sub-section (1a) shall be at the Ministry operating the service, group or sub-group.
+
+(Sub-section 2, Section 20) There shall be a promotion committee, as prescribed, to make recommendation for promotion to the non-gazetted post of the civil service.
+
+(Sub-section 3, Section 20) The procedures to be followed by the promotion committee to make recommendation for promotion of the civil employees shall be as prescribed.
+
+(Sub-section 4, Section 20) The promotion committee must, while publishing a promotion name list, also publish the marks obtained by the potential candidates who have filled up the forms for promotion.
+
+(Sub-section 4a, Section 20) The promotion committee shall publish the results of promotion within four months from the last date of submission of application forms.
+
+(Sub-section 5, Section 20) The promotion committee must prepare an annual plan of operations and carry out its functions as per that plan.
+
+**Special provisions relating to promotion** (Section 20A)
+
+\begin{enumerate}
+
+\item Notwithstanding anything contained elsewhere in this Act, if any civil employee of the gazetted first class or below than that holding the same post for at least Fifteen years has One month left to get retirement pursuant to Section 33, such employee shall be promoted to one class higher post.
+
+\item Notwithstanding anything contained elsewhere in this Act, if any civil employee of the gazetted first class or below than that holding the same post for at least Fifteen years intends to have voluntary retirement pursuant to Section 35 and makes an application therefor, such employee shall be granted retirement by promoting him/her to one class higher post.
+
+\item A special post shall \textit{ipso facto} be created to make promotion pursuant to Sub-section (1) or (2) and that post shall \textit{ipso facto} lapse upon the retirement of such a civil employee from service.
+
+\item Notwithstanding anything contained elsewhere in this Section, an employee who dies after the completing the period as referred to in this Section in the same post, the pension and other facilities payable to one level higher post shall be provided to the family of such an employee.
+
+\item Notwithstanding anything contained elsewhere in this Section, any employees of gazetted first and second class holding the same post for at least fifteen years wish to take retirement with promotion, such employees shall be granted retirement by promoting them to one class higher post.
+
+\end{enumerate}
+
+**Minimum service period and educational qualifications required to be candidate for promotion** (Section 21)
+
+\begin{enumerate}
+
+\item In order to be a candidate for promotion, one must possess the educational qualifications as prescribed for the post that is One class below the class of the post to which promotion is made and have completed the minimum service period as follows:
+
+\begin{enumerate}
+
+\item Three years for a non-gazetted post,
+\item Five years for a gazetted post
+
+\end{enumerate}
+
+\item Notwithstanding anything contained in Sub-section (1), even though any women, Adiwasi/Janjati, Madhesi, Dalit, Disable and permanently residing in the backward area civil employee has a service period that is the above-mentioned service period less one year, she shall be a potential candidate for promotion.
+
+\end{enumerate}
+
+**Ineligibility for begin potential candidate for promotion** (Section 22)
+
+Notwithstanding anything contained in Section 21, a civil employee shall not be eligible to be a potential candidate for promotion in the following circumstances and during the following period:
+
+\begin{enumerate}
+\item In the event of suspension, during the period of suspension,
+
+\item In the event of withholding of promotion, during the period of withholding,
+
+\item In the event of withholding of increment in salary, during the period of withholding,
+
+\item During the period of five years after the date of change in the service or group in the case of an employee who has so changed the service or group pursuant to Section 26 and after the change in the service or group in the case of an employee who has got such a change upon an application made by himself/herself.
+
+\end{enumerate}
+
+**Withholding and sanction of promotional appointment** (Section 22A)
+
+If any civil employee is suspended or his/her appointment or salary increment is withheld after he/she has been recommended for promotion but before he/she gets promotional appointment, his/her promotional appointment shall then be withheld during the said period; and in the event of his/her acquittal of the suspension or after the expire of the period of withholding, he/she shall be granted appointment and only seniority shall be maintained as if he/she were not suspended or his/her promotion or salary increment were not withheld.
+
+### Provisions for leave
+
+```{r civil-service-leave-days}
+tribble(
+  ~"Leave type", ~"Frequency", ~"Remark", ~"Official empowered to approve",
+  "Casual leave", "6 days", "Per year", "Concerned Chief of Office or Head of Department",
+  "Festival leave", "6 days", "Per year", "Concerned Chief of Office or Head of Department",
+  "Home leave", "1 day for every 12 work days", "An employee shall be entitled to accumulate upto 180 days of home leave earned by him/her", "Concerned Chief of Office or Head of Department",
+  "Sick leave", "12 days", "Per year", "Concerned Chief of Office or Head of Department",
+  "Maternity leave", "98 days prior to or after", "Each delivery", "Concerned Chief of Office or Head of Department",
+  "Maternity care leave", "15 days prior to or after", "Each delivery", "Concerned Chief of Office or Head of Department",
+  "Obsequies leave", "15 days", NA, "Concerned Chief of Office or Head of Department",
+  "Study leave", "3 years maximum at once or various times", "With provision that GoN may add the upto 2 years period if considered necessary", "The GoN",
+  "Extra-ordinary leave", "1 year at a time and upto 3 years during the service period", "To be entitled to the leave, an employee must complete 5 years of the service period (with exceptions). Leave is not to be counted in employees' service period.", "The GoN",
+  "Leave without pay", "5 years maximum at one time or at several times", "Request made pursuant to Section 71A of the Civil Service act", NA
+) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Provisions regarding leave in civil service", longtable = TRUE) %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(1:4, width = c("6em", "6em", "18em", "8em")) %>% 
+  kableExtra::footnote(number = c(
+    "Casual leave and festival leave may be taken for half a day. Both of these leave types cannot be accumulated and taken in the next year.", 
+    "Maternity leave may be extended to maternity leave without pay for an additional period of 6 months in maximum as not to be deducted from any leave. A civil employee who has got the maternity leave and the maternity care leave shall be given an infant care allowance in a lump sum of Rs. 5000 for a maximum of 2 infants.",
+    "To be entitled to get the study leave, an employee must have served in the service for 3 years.",
+    "A civil employee going on the extra-ordinary leave shall not be entitled to salary during that period except when puruant to Sub-rule(10) of Rule 58, under which full salary will be provided.",
+    "In cases where there falls a public holiday within the period of any type of leave taken by a civil employee, other than the casual and festival leave, home leave and sick leave, that period shall also be included in the leave taken by that employee.") %>% str_wrap(80), escape = FALSE)
+```
+

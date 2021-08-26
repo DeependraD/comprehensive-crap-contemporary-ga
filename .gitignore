@@ -74,3 +74,6 @@ _book/
 _book/*
 comprehensive_crap_guide.tex
 comprehensive_crap_guide.pdf
+renv.lock
+comprehensive_crap_contemporary_ga.log
+renv

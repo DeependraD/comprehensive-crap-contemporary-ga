@@ -269,6 +269,23 @@ Representation in the Upper House of Parliament (National Assembly) is also a ch
 
 source: \url{https://www.c-r.org/accord/nepal/comparing-2007-and-2015-constitutions}
 
+#### Constitutional arrangements for inclusiveness of Women
+
+Globally, women have become more concerned about their rights and they have stood against all forms of discrimination and violence perpetuated on them. A United Nations’ treaty that is critical in accessing the progress of the government in eliminating discrimination is the ‘Convention for Elimination of All forms Discriminations against Women’ (CEDAW), which was adopted in 1979, and it later became an international bill of rights for women on September 3, 1981 on ratification by 189 States. Ratified by Nepal in 1991, this treaty is regarded as a powerful international convention to ensure gender equality and mitigate violence against women.
+
+Acknowledging CEDAW, the drafters of 2015 Constitution of Nepal have floated ample provisions to ensure the protection of women’s rights in broad and universal principles of equality and participation. The preamble of the Constitution takes pledge to end all forms of discrimination lying along the gender basis. In the similar vein, the constitutional provisions related to equality and affirmative actions seek to ensure adequate representation of women in public life. To be specific, Article 38 states that all the rights relating to women shall be the fundamental rights.
+
+- In an endeavour to create an egalitarian society, Article 38 of the Constitution includes equal right to women in lineage, right relating to safe motherhood and reproductive health, right to participate in all state structures on the basis of principle of proportional inclusion, right to special opportunity in spheres of education, health, employment, and social security on the basis of positive discrimination and right to property and family affairs.
+- Proportional inclusive and participatory principle for establishment of equitable society
+- Elimination of all forms of gender discrimination
+- Provision of issuance of citizenship certificate in the name of mother (Included in Citizenship act, 2064 and Citizenship rules, 2063).
+- No discriminiation based on origin, religion, caste, race, gender or any other basis.
+- Reservation for women 33 per cent of positions in legislative spectrum under Article 84(8).
+- Article 70 of the constitution envisages that "while conducting election of President and Vice-President under this Constitution, the election shall be held so as to represent different gender or communities."
+- Fundamental law puts an obligation on the state to ensure no room for gender-based discrimination regarding remuneration at workplace, or gender-based discrimination regarding right to parental property.
+
+#### Constitutional provision for inclusiveness of dalit, madhesi, adibasi, janajati, backwarded, marginalized, minor communities, tharus, muslim and disabled individuals.
+
 ### Good governance (Management and operation) act, 2064 (2008)
 
 - Date of authentication and publication: 2064/10/23 (Feb 6, 2008)
@@ -1062,11 +1079,3 @@ Audit objectives and policies of the Office of the Auditor General are:
 - To encourage abandonment of the discretionary work-style
 - To recommend practical suggestions for improvement by identifying weaknesses and lacunae in the existing approaches, processes, practices and legal provisions; and
 - To encourage the practice of taking actions against delinquents and rewarding the excellent performers.
-
-## Commission for Control of Abuse of Authority
-
-(What are the provisions in Constitution of Nepal, 2072 for activities, rights and duties of Commission for Abuse of Authorities ?)
-
-\begin{solution}
-
-\end{solution}

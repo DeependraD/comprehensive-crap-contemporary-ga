@@ -1,18 +1,6 @@
-# General knowledge elaborate
+# Budgeting, public accounting, finance and national economy
 
-## Budgeting, public accouting, finance and national economy
-
-**Approved budget**: An approved budget as defined by NPSAS, 2076 reflects the anticipated revenues or receipts expected to arise in the annual or multi-year budget period based on current plans and the anticipated economic conditions during that budget period, and expenses or expenditures approved by a legislative body, being the legislature or other relevant authority. An approved budget is not a forward estimate or a projection based on assumptions about future events and possible management actions which are not necessarily expected to take place. Similarly, an approved budget differs from prospective financial information which may be in the form of a forecast, a projection or a combination of both - for example, a one year forecast plus a five year projection. 
-
-In some cases budgets may be signed into law as part of the approval process. In other cases, approval may be provided without the budget becoming law. Whatever the approval process, the critical feature of approved budgets is that the authority to withdraw funds from the government treasury or similar body for agreed and identified purposes is provided by a higher legislative body or other appropriate authority. The approved budget establishes the expenditure authority for the specified items. The expenditure authority is generally considered the legal limit within which an entity must operate. In some cases, the approved budget for which the entity will be held accountable may be the original budget and in others it may be the final budget.
-
-**Original budget** may include residual appropriated amounts automatically carried over from prior years by law. For example, governmental budgetary processes include a legal provision that requires the automatic rolling forward of appropriations to cover prior year commitments. Commitments encomapass possible future liabilities based on a current contractural agreement. In some cases, they may be referred to as obligations or encumbrances and include outstanding purchase orders adn contracts where goods or services have not yet been received.
-
-Supplemental appropriations may be necessary where the original budget did not adequately envisage expenditure requirements arising from, for example, war or natural disasters. In addition, there may be a shortfall in budgeted receipts during the period, and internal transfers between budget heads or line items may be necessary to accomodate changes in funding priorities during the fiscal period. Consequently, the funds allotted to an entity or activity may need to be cut back from the amount originally appropriated for the period in order to maintain fiscal discipline. The **final budget** includes all such authorized changes or amendments.
-
-**Actual amounts** is used to to describe the amounts that result from execution of the budget. In some cases, "budget out-turn", "budget execution" or similar terms may be used with the same meaning as "actual" or "actual amounts".
-
-NPSAS applies to all entities that are required to, or elect to, make publicly available their approved budget(s). While making comparison of budget and actual amounts, presentation in the financial statements of the original and final budget amounts and actual amounts on a comparable basis with the budget, which is publicly available, will complete the accountability cycle by enabling users of the financial statements to identify whether resources were obtained and used in accordance with the approved budget.
+## Budgeting
 
 \begin{questions}
 
@@ -76,6 +64,48 @@ Auditing -- The final phase of budget cycle is auditing. This is the overall res
 
 \end{solution}
 
+\end{questions}
+
+### Stages in budgeting
+
+#### Planning
+
+The Resource Committee of NPC initiates the budget process for the upcoming fiscal year by assessing the resources available for the development budget, based on revenue estimates, forecasts of foreign loans and grants, and the potential for borrowing. The NPC then prepares the budget preparation guidelines, taking into consideration the periodic plan, the Three-Year Expenditure Framework and the government's international commitments. This guideline is sent to the ministries.
+
+Every year by December, the MoF provides the ministries with a budget ceiling, on the basis of which each ministry is required to prepare and submit its proposals for recurring and capital spending by March.
+
+Representatives from the NPC and MoF discuss the submissions with the ministries, including specific line items, while also scrutinizing whether or not their capital budgets are consistent with the objectives of the periodic plan. The budget is sent to the Cabinet after the MoF scrutinizes the regular budget demands. The procedure is completed in four to six months between December and June.
+
+After receiving Cabinet approval, MoF submits the annual estimate of revenue and expenditures for the upcoming year to the Legislature-Parliament in accordance with Article 93(1) of the Interim Constitution. The estimates are presented towards the end of the fiscal year, normally at the end of June or the first week of July. On the first day of the new fiscal year (the first day of the Nepali month of Shrawan, usually July 16), the parliament passes an advance bill to meet ongoing expenditures. The DTCOs, at the request of line offices, release their advance budgets, but these do not exceed one-sixth of the total expenses of the preceding year. The parliament discusses the budgets of all sectoral ministries before approval. budget_chart.jpg illustrates the budgetary process.
+
+#### Implementation
+
+At the beginning of the new fiscal year, upon approval of the budget by parliament, the MoF issues a source book. The source book documents the sources of funding for projects, detailing cash or in-kind grants, loans or direct payments, along with the budget headings and allocations. It also states the government's counterpart fund (or the allocations it makes to match donor support to projects), if any. 
+
+In accordance with the Financial Procedure Act 1998, the Finance Secretary issues a fund warrant letter - a delegation of authority to spend - to all secretaries, along with the approved budget for spending, in accordance with the Financial Procedure Rules 2007. The fund warrant letter details the budget lines, specifying which funds are from the government or from donor agencies.
+
+Under the Financial Procedure Act 1998, the secretary is a ministry's chief accounts officer. The secretary issues fund warrant letters to department or project chiefs to enable them to authorize their subordinate offices to spend the funds. A copy of the letter is also sent to the Auditor General's Office and the concerned District Treasury Control Office (DTCO) to facilitate budget release within the provisions of the warrant letter. It is the responsibility of the heads of offices to spend the budget in accordance with the prevailing law and to get the expenses audited.
+
+Much of the government's budget for recurring and capital spending that is allocated to specific programs is documented in what is known as the Red Book. The MoF also retains a lump sum as unallocated funds to be allocated after the government decides spending on particular programs.
+
+The fund warrant letter is supposed to reach districts at the beginning of the fiscal year, but there have been numerous cases where it was sent six or seven months late. As an extreme example, the fund warrant letter for an irrigation program, amounting to Rs. 30 million, was sent to the DTCO, Dang, on July 11, five days before the end of the fiscal year.
+
+### Types and importance of budget
+
+**Approved budget**: An approved budget as defined by NPSAS, 2076 reflects the anticipated revenues or receipts expected to arise in the annual or multi-year budget period based on current plans and the anticipated economic conditions during that budget period, and expenses or expenditures approved by a legislative body, being the legislature or other relevant authority. An approved budget is not a forward estimate or a projection based on assumptions about future events and possible management actions which are not necessarily expected to take place. Similarly, an approved budget differs from prospective financial information which may be in the form of a forecast, a projection or a combination of both - for example, a one year forecast plus a five year projection. 
+
+In some cases budgets may be signed into law as part of the approval process. In other cases, approval may be provided without the budget becoming law. Whatever the approval process, the critical feature of approved budgets is that the authority to withdraw funds from the government treasury or similar body for agreed and identified purposes is provided by a higher legislative body or other appropriate authority. The approved budget establishes the expenditure authority for the specified items. The expenditure authority is generally considered the legal limit within which an entity must operate. In some cases, the approved budget for which the entity will be held accountable may be the original budget and in others it may be the final budget.
+
+**Original budget** may include residual appropriated amounts automatically carried over from prior years by law. For example, governmental budgetary processes include a legal provision that requires the automatic rolling forward of appropriations to cover prior year commitments. Commitments encomapass possible future liabilities based on a current contractural agreement. In some cases, they may be referred to as obligations or encumbrances and include outstanding purchase orders adn contracts where goods or services have not yet been received.
+
+Supplemental appropriations may be necessary where the original budget did not adequately envisage expenditure requirements arising from, for example, war or natural disasters. In addition, there may be a shortfall in budgeted receipts during the period, and internal transfers between budget heads or line items may be necessary to accomodate changes in funding priorities during the fiscal period. Consequently, the funds allotted to an entity or activity may need to be cut back from the amount originally appropriated for the period in order to maintain fiscal discipline. The **final budget** includes all such authorized changes or amendments.
+
+**Actual amounts** is used to to describe the amounts that result from execution of the budget. In some cases, "budget out-turn", "budget execution" or similar terms may be used with the same meaning as "actual" or "actual amounts".
+
+NPSAS applies to all entities that are required to, or elect to, make publicly available their approved budget(s). While making comparison of budget and actual amounts, presentation in the financial statements of the original and final budget amounts and actual amounts on a comparable basis with the budget, which is publicly available, will complete the accountability cycle by enabling users of the financial statements to identify whether resources were obtained and used in accordance with the approved budget.
+
+\begin{questions}
+
 \question What are different types of budget? What are the needs and importances of government budget ?
 
 \begin{solution}
@@ -107,6 +137,8 @@ Need and importance of a government budget
 \question What do you mean by periodic plan ? What are the major strategies adopted by the ongoing periodic plan (2073/74-2075-76) ?
 
 \end{questions}
+
+## Taxation
 
 ### Income tax
 
@@ -368,34 +400,6 @@ a) If the stock of the tax payer exceeds the specified amount when the tax offic
 b) If the annual expenses of the tax payer on the telephone and the rent exceeds Rs. 1 lakh; or
 c) If the premises of the taxpayer lies within the specified area of the market or the street as specified by the Department (IRD).
 
-### Addressing the income gap
-
-As a multi-dimensional concept equality means fair treatment of citizens of diverse distinctions. It reduces the gap between the haves and have-nots that scar the Nepali nation. The rationality of equality springs from the equal values attached to each citizen. Democratic virtues foster nationality and humanity of person which is a good worth of citizenship equality and entitled with same welfare provisions. They are the preconditions for freedom. Equality enhances the scale of economic security, wellbeing and dignity, reconciles with social justice and finds its resonance in the constitution. It sets the rules of the game. The unified application of the Constitution in Nepali society coordinates the conflicting conceptions of good life arising out of geographical, genetic, social, economic and cultural diversity, hierarchy and patriarchy. Equality can be measured by the same set of rules of governance for all Nepalis, equal rights, equal opportunity to improve their life-chances and equal welfare to find a life of liberty and progress.
-
-One key challenge Nepali leaders constantly face is the right to equality of citizens enshrined in the Constitution and the actual condition of inequality. This gap between the rich and the poor in Nepal is widening serving as a cause for aspirational politics open to alienation and instability. As a result, Nepali state is unable to muster authority, execute the constitution and stabilise the polity. The tension between Constitutional aspect of welfare state which aims to alleviate the misery of 30 per cent of population below poverty line earning $ 1.90 per day and poor state of redistributive politics owing to inability of Nepali state to finance all rights of citizens remain. In a hierarchy of social, economic and political advantage for certain groups, only equality of opportunity can glue multitude of Nepali citizens and share in a common life.
-
-The welfare state justifies the redistribution of income from capital to workers on moral ground on the basis of capital's income where the contribution of labour is no less significant. The improvement in the living standards of Nepalis can come only through broad-based growth of real economy and investment of surplus on the productive sectors. Economic growth alone does not lubricate the gear of human welfare if its fruits are unfairly distributed, powerful gaining the most and the poor receiving only trickle-down. In the context of growth of democratic awareness, deprivation may feed envy prompting them to engage in radical politics. Well-being across Nepali society can be an effective leveller which can contribute to asset creation and muster ability and capacity to participate in multilevel governance. The meaning of equal rights for Nepalis in the Constitution demands knowledge about it and institutional means to realise them. It provides a sense of security, well-being and dignity and a sense of belonging as a member of the national community, the Nepali state. Economy can grow if natural resource, skilled labour, machineries and infrastructures are optimally utilized and society fully supports its entrepreneurship.
-
-Social justice becomes sustainable with economic efficiency. It can reduce the level of inequality and cope with the negative effects of globalisation. Globalisation frees up the market and intensifies competition among its units but creates disadvantages for those people who cannot compete. This cuts the efficacy of citizenship. In Nepal, the contribution of tax to GDP is little over 15 per cent which is deficient to finance self-sufficient state, fulfil citizens' all rights and raise the living standards of Nepalis. The share of capital to GDP is less than the flow of remittance from the migrant Nepali workers. The annual per capita income of Nepalis stands \$1,000. The minimum wage for worker per month is about \$ 134 but this is inadequate to sustain even a nuclear family. Therefore, the trend of out-bound migration is increasing at a time when post-earthquake resilient rebuilding of this nation needs their active engagement for many years. Annually about 450,000 youth migrate abroad for job and they are source of remittance, entrepreneurship and local economic activities. They contribute 25 per cent to GDP and its benefits are decentralised in all 77 districts. So does its social costs.
-
-Three kinds of inequality pervade Nepali polity - situational inequality, positional inequality and deprivational inequality owing to lack of social, political and economic links. The unjust inequality is awful for economic progress. Democratic politics is designed to reduce the gap in inequality between the empirical facts such as unequal ownership of land and capital and other factors of production that cause misery in Nepali society and adoption of democratic values that is supposed to circulate power, position and wealth across the social classes, gender and generations through a policy embedded in social inclusion, social protection, social security and positive discriminations.
-
-All these concepts embedded in Nepal's constitution call for redistribution from the rich to the poor to meet basic needs, create appropriate jobs, avert social fractures and allow creative pursuit of life. The Constitution demands citizens' part of the sacrifice of their liberty for public security and public order. It is crucial to end the transitional politics and create an egalitarian and just society. This means attainment of public good is necessary. It is a good which does not exclude any Nepalis and can be considered a precondition for social peace. Availability of public good demands both formulation and enforcement of sound public policies based on the spirit of constitution and give a fillip to vital sense of common life. Otherwise, the nation will continue to be trapped in a sort of Greek tragedy where decision-makers do not know the iniquitous consequence of their actions.
-
-One critical aspect of public good in Nepal is public education. It fosters upward mobility by enabling citizens to reclaim control of their destiny and shape the future. Education provides vigilance which is about conscious awareness of one's own living condition and engagement in production and political struggle to improve this. Distribution of intelligence in Nepali society is a must to make its economy competitive and democracy functional. It fosters citizens' desire to innovate and engage in productive life. For example, skilled workers in agriculture increase productivity, reduce any need to migrate abroad for earning and invest more in children's education, health and basic amenities.
-
-Nepal now has a huge pool of skilled workers who have working experience from abroad. Many of them have become entrepreneurs and run their own business and industries. Others have gained skill in the use of modern technology and meet the requirement of Nepalis for human capital equality. Investment in human capital maximises equality, improves the quality of living and meets the need of intergenerational reproduction of human resources. But when financial position is a passport to entry in private education, health, safety, communication and law which poor Nepalis can ill-afford it is hard to gain legal and political equality. Equality before law can only open possibility, not actuality. This is why Nepal's remote and geographically isolated areas face the scarcity of public good such as food, educational and constructional materials, medicine, fertilizers, etc. at a time of amazing growth of private wealth, transport and communication.
-
-Nepal's constitution makes social inequality and discrimination on the basis of caste, gender, region and religion illegitimate. But the unwritten transcript of society continues which needs social reforms and institutional effectiveness to implement laws and set up the supremacy of law over social, economic and political leaders. The social discrimination owing to caste, gender or class inequality has perverse impact on equality. Nepal's social inclusion policy has widened the participation of women, Dalits, and other groups of society in labour market, politics, administration and improved their situation. Only effective institutions can sincerely implement social policies and forestall exclusion. They outlast individual members. But their renewal is important as per the tasks assigned to them by law.
-
-This, however, demands Nepali leaders' political will and commitment. The influence of money on politics has fostered political inequality. Economic equality is a precondition for political equality and civic competence. In Nepal, the proportional representation is dominated by moneyed class, cronyism and interest groups. This bars the inclusion of a large number of micro-minorities and formulate polices to compatible with constitutional spirit. When money becomes a means to peddle influence on politics, authority, law and development policies, low income groups will be trapped in hierarchy and structural injustice and turning their past as a future. They cannot overcome this situation and attain equality in the absence of political solidarity and struggle for equal status.
-
-Building trust among citizens is important to control free-riders, spoilers and predators, who appropriate the resource flow and block the material basis of the egalitarian transformation of Nepali society, economy and polity. For example, gender equality requires transforming the nature of political economy enabling women to gain access to representation, communication, and participation in public sphere, culture, everyday life and recognition of their identity. The debate about democratic equality of Nepali citizens can be initiated and its solution found in the public spheres and public interest, not in selfish promotion of private interests. It can be furnished where government is the solution of the problem of inequality as it has broad-based mandate to take decisions and formulate and implement egalitarian public policies underlined by the spirit of constitution.
-
-One strategy is the use of public funds for reducing inequalities, the other is increasing corporate social responsibilities, still the other is mobilisation of resources, knowledge, skill and technologies of intermediary associations, cooperatives, local government, CBOs, civil society, NGOs and charity-based organizations in alleviating human suffering such as poverty, inequality, joblessness, etc. The golden rule is: elected political leaders who have mandate for change must think outside their partisan interests and work for the general welfare of all citizens.
-
-Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/25216}
-
 ### Taxation and Governance
 
 Paying reasonable tax to the state is a civic duty of good citizens. They do so in return for the life-saving goods and services they get. Tax through coercion is justified for the robust government's role in the economy, production and supply of public goods, creation of a fairer society based on equity and justice and control free-riders. The classical ideal of democracy evoked "no taxation without representation." But the political limit of the government implies that consent of citizens is vital in any policy innovation. It affirms the democratic spirit of the principle of affected. Nepal's media have now spurred a heated debate on the political implications of raising and expanding visible tax base by three-tiered governments - federal, provincial and local- without prudent planning and ignoring its impacts on the life on of ordinary beings.
@@ -428,155 +432,90 @@ Tax reform in Nepal should introduce high rate of value-added tax on luxurious g
 
 Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/25513}
 
-## Nepal public sector accounting standards
+## Public finance and regulatory bodies
 
-NPSAS provides standards for meaningful summarization of financial information. NPSAS has concept to prepare the financial statement of the Government like a private sector entity. NPSAS are in compliance with the Cash Basis International Public Sector Accounting Standards (IPSAS) 2003, updated in 2006 and 2007 developed by Public Sector Committee of International Federation of Accountants (IFAC). Previous reporting was based on different OAG Forms like form no. 9, 193, 194, 17, 208, 210 etc. and therein no information on total fund position and no records for third party transactions were reported. NPSAS, hence gives priority to recording of transactions which are not yet being accounted and reported. (like third party transactions, goods and services received free of cost, etc. NPSAS accrual basis covers total assets and liabilities but several other stages should be followed before accrual implementation, so current NPSAS guidelines resorts to stepwise implementation.
+### Financial monitoring and control mechanisms
 
-The standard comprises of two parts -- Part 1 and Part 2. Part 1 is mandatory. It sets out the requirements which are applicable to all entities preparing general purpose financial statements under the cash basis of accounting. It defines the cash basis of accounting, establishes requirements for the disclosure of information in the financial statements and supporting notes, and deals with a number of specific reporting issues. The requirements in this part of the Standard must be complied with by entities which claim to be reporting in accordance with the Nepal Public Sector Accounting Standards *Financial Reporting Under The Cash Basis of Accounting*.
+There are a number of provisions in the Financial Procedure Act, 1998 that specify the procedures and accountability for budget release. The act makes the secretaries, department chiefs and other authorities responsible for financial administration. The Financial Procedure Act 1998 and Financial Procedure Rules 2007 lay down several control mechanisms, such as the procedures and accountability for virement and the clearance of audit objections, as well as specifying the functions of the FCGO and DTCOs.
 
-Par 2 is not mandatory It identifies additional accounting policies and disclosures that an entity is encouraged to adopt to enhance its financial accountability and transparency of its financial statements. It includes explanations of alternative methods for presenting certain information.
+### Public auditing
 
-### Requirements for reporting under the cash basis of accounting
+Internal Audit: All 75 DTCOs periodically report to FCGO and the Auditor General's Office the budget amount released and spent in the stipulated month or period. According to the Financial Procedure Rules 2007, the DTCOs and the Funds and Account Comptroller's Office must regularly carry out internal audits of all government offices.
 
-Information about the cash receipts, cash payments and cash balances of an entity is necessary for accountability purposes and provides input useful for assessments of the ability of the entity to generate adequate cash in the future and the likely sources and uses of cash. Reporting cash enhances comparability across and within the entities adopting the cash basis of accounting.
+Final Audit: The Interim Constitution provides for appointment by the President of an Auditor General to ensure proper use of public funds. Separate rules, regulations and legal provisions govern the Auditor General's Office, particularly the Audit Act 1991. The responsibility of the Auditor General's Office is to enhance good governance through accountability and transparency in the public sector. Its mission is to provide trustworthy, effective and independent auditing for efficient use of public resources. Article 123 of the Interim Constitution empowers the Auditor General's Office to audit the accounts of all public agencies within the executive, legislature and judiciary. The government is also required to consult the Auditor General before appointing auditors to corporate bodies of which it owns more than 50 percent. By law, the accounts of all public agencies must be available for scrutiny by the Auditor General's Office at any time.
 
-**General purpose financial statements** are those intended to meet the needs of users who are not in a position to demand reports tailored to meed their specific information needs. Users of general purpose financial statements include taxpayers and ratepayers, members of the legislature, creditors, suppliers, the media and employees.
+The Auditor General submits the report of the audit to the President, who then sends it to parliament through the Prime Minister. In parliament, the Public Accounts Committee is entrusted with scrutinizing public spending and accounts. The Auditor General and officials from the office concerned are also invited to PAC discussions of the audit report.
 
-The Preface to Nepal Accounting Standards issued by the Accounting Standards Board (ASB), Nepal explains that Nepal Accounting Standards (NASs) are designed to apply to the general purpose financial statements of all profit-oriented entities. Government Business Enterprises (GBEs) (as defined in paragraph 1.2.1 of NPSAS) are also the profit-oriented entities.
+Nepal has policies and laws in place to ensure proper use of public funds, but they are often ignored in practice, as documented by the annual reports of the Auditor General. And while the budgeting process is straightforward, new programs and projects originate too often in departments/ministries. Mechanisms intended to reflect local aspirations and exploit local knowledge by involving local bodies in the planning process have remained largely ineffective.
 
-While preparing general purpose financial statements, NPSAS requires the preparation of statement of cash receipts and payments which recognizes the cash controlled by the reporting entity, and the disclosure of accounting policies and explanatory notes. It also requires that amounts settled on behalf of the reporting entity by third parties be disclosed on the face of the statement of cash receipts and payments.
+### Financial Comptroller General's Office (FCGO)
 
-General purpose financial statements should present information that is:
+The FCGO is the department of the MoF responsible for overseeing all government expenditures and consolidating annual financial statements. It also tracks revenue collection and computes other receivables, releases budgeted funds to government agencies on a quarterly basis, and carries out their internal audits through the DTCOs. The FCGO manages four divisions and 14 sections, two central level offices and 75 DTCOs.
 
-\begin{enumerate}
-\item Understandable;
-\item Relevant to the decision-making and accountability needs and of users;
-\item Reliable in that:
-\begin{enumerate}
-\item Represents faithfully the cash receipts, cash payments and cash balances of the entity and the other information disclosed;
-\item Is neutral, that is, free from bias; and
-\item is complete in all material aspects
-\end{enumerate}
-\end{enumerate}
+The FCGO is required to submit an annual consolidated financial statement
+of the government to the Auditor General's Office, along with a description of the total expenditure, amount of budgetary transfer (virement), and the position of the government treasury.
 
-**Cash basis** means a basis of accounting that recognizes transaction and other events only when cash is received or paid by the entity.
+As a comptroller of government accounts, the FCGO grants permission to open imprest fund accounts and other necessary government accounts. Similarly, it directs DTCOs on the release of foreign-aid funds, and releases government funds for projects implemented on a reimbursement basis, usually for loan-funded projects. DTCOs cannot disburse budgets without the authorization by the FCGO.
 
-Financial statements prepared under the cash basis provide readers with information about the sources of cash raised during the period, the purposes for which cash was used and the cash balances at the reporting date. Although the mesurement focus is balances of cash and changes therein, notes to financial statemets may provide additional information about liabilities, such as payables and borrowings, and some non-cash assets, such as receivables, investments and property, plant and equipment.
+The DTCOs monitor the expenditures of the line offices. There are about 4,000 fund disbursement centers scattered across the country that are responsible for administering the budget within their units. The government has implemented the Treasury Single Account system on a pilot basis in some districts to improve the management of funds and to help reduce the deficit. Under this system, DTCOs are to make all payments of the line offices within two hours of receiving payment orders along with necessary documents needed for fund release.
 
-**Cash equivalents** are short-term, highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+### Nepal Rastra Bank
 
-**Cash flows** are inflows and outflows of cash.
+Established in 1956, the NRB is the country's central bank and is responsible for ensuring monetary and financial stability in coordination with the MoF. A committee chaired by the Minister of Finance recommends the appointment of the governor of the central bank. NRB's main functions include issuing currency, formulating and implementing appropriate monetary policy, formulating and implementing a foreign exchange policy and determining a foreign exchange system, managing a foreign exchange reserve, issuing banking licenses, regulating commercial banks and financial institutions and serving as their banker, functioning as a banker, advisor and financial agent of the government, and establishing, promoting and regulating the system of payment, clearing and settlement.
 
-**Cash payments** are cash outflows. **Cash receipts** are cash inflows.
+In 2010, Nepal had 30 customs offices, 143 sub-customs units, 23 Inland Revenue offices and 13 service centers.64 The customs administration collects customs duty, Value Added Tax (VAT),65 and excise and others taxes at border points, accounting for about 40 percent of total revenues in 2010. Customs duty contributed about 22 percent of total tax receipts. The revenue collected is enough to pay for more than 50 per cent of the total outlay of each periodic plan.
 
-Cash is controlled by an entity (a group of entities comprising a controlling entity and one or more controlled entities) when the entity can use the cash for the achievement of its own objectives or otherise benefit from the cash and exclude or regulate the access of others to the benefit. Cash collected by, or appropriated or granted to, an entity which the entity can use to fund its operating objectives, acquire capital assets or repay its debt is controlled by the entity. Amounts deposited in the bank account of an entity are controlled by that entity.
+The government introduced the VAT in 1997 to replace the sales tax, hotel tax, contract tax and entertainment tax, and VAT is today the main source of revenue. The threshold for registering for VAT is Rs 2 million. In fiscal year 2009/10, the government began encouraging taxpayers to obtain Permanent Account Numbers (PAN). By December 2009, 50,763 individuals had obtained PANs. Efforts have continued to broaden the tax net, which now includes real estate transactions. Similar efforts have been undertaken to make customs administration more efficient. The government has recommended setting up a central revenue board as part of ongoing efforts to reform revenue administration.
 
-Government may manage the expenditure of its individual departments and other entities through a centralized treasury function, often referred to as a "single account" basis. Under these arrangements, individual departments and entities do not control their own bank accounts. Rather, government monies are managed by a central entity through a "single" government account or series of accounts. The central entity will make payments on behalf of individual departments and entities after appropriate authorization and documentation. Consequently, individual departments and entities do not control the cash that they have been appropriated or otherwise authorized to expend. In these cases, the expenditures made by individual departments and entities will be reported in a separate column headed "treasury account" (or a similarly described column) in the statement of cash receipts and payments in accordance with the requirements of paragraph 1.3.24(a).
+The major challenges in revenue collection include low collection of taxes, the inability of government to increase the effectiveness of health and education taxes, unscientific customs valuation, non-issuance of bills and receipts, undervaluation of goods and services, evasion of excise duties, and lack of coordination between revenue collection entities. As indicated in the section on the judiciary, case disposition at revenue tribunals is also an area that needs improvement.
 
-In some cases, the centralized treasury function will be undertaken by an entity which controls the bank account(s) from which payments on behalf of the individual operating departments and other entities are made. In these cases, transfers to and payments from those bank accounts reflect cash receipts and payments which the central entity administers on behalf of the individual operating departments and other entities. Paragraph 1.3.13 specifies that cash receipts and payments which arise from transactions the entity administers on behalf of other entities and which are recognized in the primary financial statements may be reported on a net basis. Paragraph 1.4.9 requires the disclosure of cash balances held by an entity at reporting date that are not available for use by the entity or are subject to external restrictions.
+### Revenue administration
 
-### Financial statements
+The establishment of permanent revenue collection offices in districts in the south was the most important Rana contribution to revenue administration. These offices were the hubs of fiscal administration in the districts. They later emerged as one of the three main pillars of district administration, along with the District Administration Office and the District Court.
 
-An entity should prepare and present general purpose financial statements which include the following components:
+Most government revenue came from the land tax, and the rates were based on productivity, irrigation facilities, and geographical location. Land in the hills was placed in four categories, abal, doyam, sim and chahar, while in the Tarai, revenue was collected on the basis of crops cultivated, productivity, and irrigation facilities. Collection of the land tax was contracted out to the village chief. The establishment of Sadar Mulukikhana during Juddha Shamsher's rule was an innovation comparable to the present day Central Treasury, Financial Comptroller General's Office (FCGO) and Nepal Rastra Bank (NRB), the country's central bank.
 
-1. Statement of cash receipts and payments which:
+Nepal witnessed numerous innovations in financial management in the 1950s. Among them, the Interim Government Act of Nepal 1951 established the Financial Working Procedure of government, spelled out the obligation to present the annual budget to the Advisory Assembly, and made it mandatory for all members of the assembly to participate in budget discussions. The act spelled out the royal family's prerogatives in matters of expenditure, and had a chapter on the appointment of the Controller and the Auditor General.
 
-\begin{enumerate}
-\item recognizes all cash receipts, cash payments and cash balances controlled by the entity; and
-\item separately identifies payments made by third parties on behalf of the entity in accordance with paragraph 1.3.24 of NPSAS.
-\end{enumerate}
+The first budget of sorts - Rs 50.25 million - was announced in 1951. A proper national budget specifying 'regular and development' expenditures was first announced in fiscal year 1956/57. A Finance and Income Department was established after 1950. The Customs Commissioner's Office was established in 1957, but was later closed down, and a separate Department of Customs and Excise Duty was established in 1963. The Accountant General's Office under the Ministry of Finance (MoF) was set up in 1951; its primary function was to maintain records of annual income and expenditures, release government funds, and provide training in accounting.
 
-2. Accounting policies and explanatory notes; and
-3. When the eneity makes publicly avaialble its approved budget, a comparison of budget and actual amounts either as a separate additional financial statement or as a budget column in the statement of cash receipts and payments in accordance with paragraph 1.9.8 of NPSAS.
+The constitution of 1959 incorporated the concept of fiscal decentralization, and also made provisions for an Auditor General, who was appointed the same year. The Income Tax Act 1962 laid the basis for the system of tax collection. The government introduced the Procedural Regulation for Spending Public Money (1959) to govern public spending. Prior to that, there were no specific rules on how public money could be spent. The government began double entry bookkeeping in 1960.
 
-When an entity elects to disclose information prepared on a different basis from the cash basis of accounting, such information should be disclosed in the notes to the financial statements.
+The Constitution of Nepal 1962 created the Financial Work Procedure Rules, preventing government from levying any tax or obtaining any loan except in accordance with the law. It also required the government to submit the annual budget to the Rastriya Panchayat (legislature). The Payment Accounting System (bhuktani shresta pranali) was also introduced at this time. In 1976, the Accountant General's Office was upgraded to the Financial Comptroller General's Office, headed by a Special Class officer. A separate civil service cadre of accountants was also created under the Nepal Administrative Service in 1978. The District Treasury and Controller's Offices (DTCO) were established nationwide after the enactment of the Public Income/Expenditure Working Procedure Rules 1981. The constitution of 1990 provided for an Auditor General.
 
-**Information to be presented in the Statement of Cash Receipts and Payments**
+The Interim Constitution (2007) makes all taxes and loans subject to law, and also provides for a Consolidated Fund, and "except for the revenues of religious endowments," all revenues received by the government, all loans obtained and all money received in repayment of any loan made under the authority of any act is credited to this fund. Nepal has 14 laws on revenue and expenditure administration.
 
-The statement of cash receipts and payments should present the following amounts for the reporting period:
-\begin{enumerate}
-\item total cash receipts of the entity showing separately a sub-classification of total cash receipts using a classification basis appropriate to the entity's operations; 
-\item total cash payments of the entity showing separately a sub- classification of total cash payments using a classification appropriate to the entity's operations; and basis
-\item beginning and closing cash balances of the entity.
-\end{enumerate}
+Customs Acts and regulations
+1. Customs Act, 2064
+2. Customs Regulation, 2064
+3. Baggage Act, 2001
+4. Finance Act, 2009
 
-Total cash receipts and total cash payments, and cash receipts and cash payments for each sub-classification of cash receipt and payment, should be reported on a gross basis, except that cash receipts and payments may be reported on a net basis when:
+Income Tax Acts and Regulations
+1. Income Tax Act, 2000
+2. Income Tax Rules, 2002
 
-\begin{enumerate}
-\item they arise from transactions which the entity administers on behalf of other parties and which are recognized in the statement of cash receipts and payments; or
-\item they are for items in which the turnover is quick, the amounts are large, and the maturities are short.
-\end{enumerate}
+Value Added Tax Acts and rules
+1. Value Added Tax Act, 2005
+2. Value Added Rules, 2005
 
-Line items, headings and sub-totals should be presented in the statement of cash receipts and payments when such presentation is necessary to present fairly the entity's cash receipts, cash payment and cash balances. Total cash receipts may be classified to, for example, separately identify cash receipts from taxation or appropriation; grants and donations; borrowings; proceeds from the disposal of property, plant and equipment; and other ongoing service delivery and trading activities. Total cash payment may be classified to, for example, separately identify cash payments in respect of: ongoing service delivery activities including transfers to constituents or other government entities; debt reduction programs; acquisitions of property, plant and equipment; and any trading activities.
+Excise Act and Rules
+1. Excise Act, 2004
+2. Excise Rules, 2004
 
-### General considerations
+Revenue Investigation Act and regulation
+1. Revenue Tribunal Act
+2. Special Courts Act, 2003
+3. Foreign Exchange Regulation Act
 
-1. *Reporting period* The general purpose financial statements should be presented at least annually. When, in exceptional circumstances, an entity's reporting date changes and the annual financial statements are presented for a period longer or shorter than one year, an entity should disclose in addition to the period covered by the financial statements:
+Financial (expenditure) Administration
+1. Financial Procedure Act, 1998
+2. Financial Administration Rules, 2007
+3. Public Procurement Act, 2006
 
-\begin{enumerate}
-\item the reason(s) for a period other than one year being used; and
-\item the fact that comparative amounts may not be comparable.
-\end{enumerate}
-
-2. *Timeliness*
-3. *Authorization date*
-4. *Information about the Entity*
-5. *Restrictions on cash balances and access to borrowings*
-6. *Consistency of presentation*
-7. *Comparative information*
-8. *Identification of financial statements*
-
-(For a brief presentation summary of NPSAS refer to the linked url^[https://dms.nasc.org.np/sites/default/files/documents/NPSAS-2076.pdf])
-
-## Accounting system and financial regulatory bodies of Nepal
+### Inland Revenue Department
 
 \begin{questions}
-
-\question What is the accounting system in practice in Nepal ? What are the features of double entry system of bookkeeping ?
-
-\begin{solution}
-
-An accounting system allows a business to keep track of all types of financial transactions, including purchases (expenses), sales (invoices and income), liabilities (funding, accounts payable), etc. and is capable of generating comprehensive statistical reports that provide management or interested parties with clear set of data to aid in the decision-making process.
-
-The \textbf{new accounting system} is the present accounting system of government of Nepal which keeps the systematic record of all revenues and expenditures of the government offices performed through the bank. It is the systematic and scientific system for recording all the revenue and expenditures of government offices. It was implemented since 2019/20 in phase wise basis. In 1993 BS, Biratnagar Jute Mill used the double entry system for the first time in private sector. This system emphasizes on banking transactions and is based on double entry system, which keeps the record, according to budget heads in prescribed forms.
-
-The objectives of new accounting system, as recommended by the Account Committee, 2017 are:
-
-\begin{itemize}
-\item Maintenance of systematic accounting of financial transactions
-\item To provide information about funds and their utilization
-\item Safeguarding physical properties
-\item To make auditing simple and economical
-\end{itemize}
-
-Double Entry System Concept
-
-If each and every financial activity is recorded by using the rule of debit and credit then such modern, systematic, scientific and fundamental concept of accounting is called double entry system. It has a two-fold effect on the accounting process. The double entry system is a modern system of bookkeeping based on duality principle propounded by Luca De Pacioli on 1494 A.D. from his book "Summa de Arithmetica" on "Accounting of Venice" chapter. Double entry system prevents accounting frauds errors.
-
-Accounting principle in double entry system of bookkeeping is based on Equation \ref{eq:double-entry-equation} :
-
-\begin{equation}
-Assets = Equity + Liabilities
-(\#eq:double-entry-equation)
-\end{equation}
-
-Features of double entry system of bookkeeping are:
-
-\begin{enumerate}
-\item It has a double effect of every financial transaction
-\item Equal effect on both sides
-\item A complete, scientific and reliable method of accounting
-\item Helpful to prevent frauds and errors
-\item Flexible for the correction in the process
-\item Useful for internal control system
-\item Concept of debit the receiver, credit the giver.
-\item It keeps the full recording of economic transactions
-\item Helpful to make final accounts
-\item Easy to analyze and help to make comparable financial statements
-\item Complex to understand, time-consuming, expensive and not suitable for small organizations
-\item A universally accepted rule of accounting
-\end{enumerate}
-\end{solution}
 
 \question Write about the Inland Revenue Department of Nepal.
 
@@ -629,6 +568,12 @@ K. Each taxpayer is to get Tax Clearance Certificate generally within TWENTY FOU
 
 \end{solution}
 
+\end{questions}
+
+### Public expenditure and financial accountability
+
+\begin{questions}
+
 \question What is meant by public expenditure and financial accountability ?
 
 \begin{solution}
@@ -656,11 +601,305 @@ To date there have been four phases of the PEFA program. The current phase began
 \item Phase IV (2012-2017): Global Public Good
 \end{itemize}
 
+source: \url{https://kathmandupost.com/money/2017/06/07/integrated-financial-info-system-mulled}
+
 \end{solution}
 
 \end{questions}
 
+## Accounting system
+
+\begin{questions}
+
+\question What is the accounting system in practice in Nepal ? What are the features of double entry system of bookkeeping ?
+
+\begin{solution}
+
+An accounting system allows a business to keep track of all types of financial transactions, including purchases (expenses), sales (invoices and income), liabilities (funding, accounts payable), etc. and is capable of generating comprehensive statistical reports that provide management or interested parties with clear set of data to aid in the decision-making process.
+
+The \textbf{new accounting system} is the present accounting system of government of Nepal which keeps the systematic record of all revenues and expenditures of the government offices performed through the bank. It is the systematic and scientific system for recording all the revenue and expenditures of government offices. It was implemented since 2019/20 in phase wise basis. In 1993 BS, Biratnagar Jute Mill used the double entry system for the first time in private sector. This system emphasizes on banking transactions and is based on double entry system, which keeps the record, according to budget heads in prescribed forms.
+
+The objectives of new accounting system, as recommended by the Account Committee, 2017 are:
+
+\begin{itemize}
+\item Maintenance of systematic accounting of financial transactions
+\item To provide information about funds and their utilization
+\item Safeguarding physical properties
+\item To make auditing simple and economical
+\end{itemize}
+
+Double Entry System Concept
+
+If each and every financial activity is recorded by using the rule of debit and credit then such modern, systematic, scientific and fundamental concept of accounting is called double entry system. It has a two-fold effect on the accounting process. The double entry system is a modern system of bookkeeping based on duality principle propounded by Luca De Pacioli on 1494 A.D. from his book "Summa de Arithmetica" on "Accounting of Venice" chapter. Double entry system prevents accounting frauds errors.
+
+Accounting principle in double entry system of bookkeeping is based on Equation \ref{eq:double-entry-equation} :
+
+\begin{equation}
+Assets = Equity + Liabilities
+(\#eq:double-entry-equation)
+\end{equation}
+
+Features of double entry system of bookkeeping are:
+
+\begin{enumerate}
+\item It has a double effect of every financial transaction
+\item Equal effect on both sides
+\item A complete, scientific and reliable method of accounting
+\item Helpful to prevent frauds and errors
+\item Flexible for the correction in the process
+\item Useful for internal control system
+\item Concept of debit the receiver, credit the giver.
+\item It keeps the full recording of economic transactions
+\item Helpful to make final accounts
+\item Easy to analyze and help to make comparable financial statements
+\item Complex to understand, time-consuming, expensive and not suitable for small organizations
+\item A universally accepted rule of accounting
+\end{enumerate}
+\end{solution}
+
+\end{questions}
+
+### Nepal public sector accounting standards
+
+NPSAS provides standards for meaningful summarization of financial information. NPSAS has concept to prepare the financial statement of the Government like a private sector entity. NPSAS are in compliance with the Cash Basis International Public Sector Accounting Standards (IPSAS) 2003, updated in 2006 and 2007 developed by Public Sector Committee of International Federation of Accountants (IFAC). Previous reporting was based on different OAG Forms like form no. 9, 193, 194, 17, 208, 210 etc. and therein no information on total fund position and no records for third party transactions were reported. NPSAS, hence gives priority to recording of transactions which are not yet being accounted and reported. (like third party transactions, goods and services received free of cost, etc. NPSAS accrual basis covers total assets and liabilities but several other stages should be followed before accrual implementation, so current NPSAS guidelines resorts to stepwise implementation.
+
+The standard comprises of two parts -- Part 1 and Part 2. Part 1 is mandatory. It sets out the requirements which are applicable to all entities preparing general purpose financial statements under the cash basis of accounting. It defines the cash basis of accounting, establishes requirements for the disclosure of information in the financial statements and supporting notes, and deals with a number of specific reporting issues. The requirements in this part of the Standard must be complied with by entities which claim to be reporting in accordance with the Nepal Public Sector Accounting Standards *Financial Reporting Under The Cash Basis of Accounting*.
+
+Par 2 is not mandatory It identifies additional accounting policies and disclosures that an entity is encouraged to adopt to enhance its financial accountability and transparency of its financial statements. It includes explanations of alternative methods for presenting certain information.
+
+#### Requirements for reporting under the cash basis of accounting
+
+Information about the cash receipts, cash payments and cash balances of an entity is necessary for accountability purposes and provides input useful for assessments of the ability of the entity to generate adequate cash in the future and the likely sources and uses of cash. Reporting cash enhances comparability across and within the entities adopting the cash basis of accounting.
+
+**General purpose financial statements** are those intended to meet the needs of users who are not in a position to demand reports tailored to meed their specific information needs. Users of general purpose financial statements include taxpayers and ratepayers, members of the legislature, creditors, suppliers, the media and employees.
+
+The Preface to Nepal Accounting Standards issued by the Accounting Standards Board (ASB), Nepal explains that Nepal Accounting Standards (NASs) are designed to apply to the general purpose financial statements of all profit-oriented entities. Government Business Enterprises (GBEs) (as defined in paragraph 1.2.1 of NPSAS) are also the profit-oriented entities.
+
+While preparing general purpose financial statements, NPSAS requires the preparation of statement of cash receipts and payments which recognizes the cash controlled by the reporting entity, and the disclosure of accounting policies and explanatory notes. It also requires that amounts settled on behalf of the reporting entity by third parties be disclosed on the face of the statement of cash receipts and payments.
+
+General purpose financial statements should present information that is:
+
+\begin{enumerate}
+\item Understandable;
+\item Relevant to the decision-making and accountability needs and of users;
+\item Reliable in that:
+\begin{enumerate}
+\item Represents faithfully the cash receipts, cash payments and cash balances of the entity and the other information disclosed;
+\item Is neutral, that is, free from bias; and
+\item is complete in all material aspects
+\end{enumerate}
+\end{enumerate}
+
+**Cash basis** means a basis of accounting that recognizes transaction and other events only when cash is received or paid by the entity.
+
+Financial statements prepared under the cash basis provide readers with information about the sources of cash raised during the period, the purposes for which cash was used and the cash balances at the reporting date. Although the mesurement focus is balances of cash and changes therein, notes to financial statemets may provide additional information about liabilities, such as payables and borrowings, and some non-cash assets, such as receivables, investments and property, plant and equipment.
+
+**Cash equivalents** are short-term, highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+
+**Cash flows** are inflows and outflows of cash.
+
+**Cash payments** are cash outflows. **Cash receipts** are cash inflows.
+
+Cash is controlled by an entity (a group of entities comprising a controlling entity and one or more controlled entities) when the entity can use the cash for the achievement of its own objectives or otherise benefit from the cash and exclude or regulate the access of others to the benefit. Cash collected by, or appropriated or granted to, an entity which the entity can use to fund its operating objectives, acquire capital assets or repay its debt is controlled by the entity. Amounts deposited in the bank account of an entity are controlled by that entity.
+
+Government may manage the expenditure of its individual departments and other entities through a centralized treasury function, often referred to as a "single account" basis. Under these arrangements, individual departments and entities do not control their own bank accounts. Rather, government monies are managed by a central entity through a "single" government account or series of accounts. The central entity will make payments on behalf of individual departments and entities after appropriate authorization and documentation. Consequently, individual departments and entities do not control the cash that they have been appropriated or otherwise authorized to expend. In these cases, the expenditures made by individual departments and entities will be reported in a separate column headed "treasury account" (or a similarly described column) in the statement of cash receipts and payments in accordance with the requirements of paragraph 1.3.24(a).
+
+In some cases, the centralized treasury function will be undertaken by an entity which controls the bank account(s) from which payments on behalf of the individual operating departments and other entities are made. In these cases, transfers to and payments from those bank accounts reflect cash receipts and payments which the central entity administers on behalf of the individual operating departments and other entities. Paragraph 1.3.13 specifies that cash receipts and payments which arise from transactions the entity administers on behalf of other entities and which are recognized in the primary financial statements may be reported on a net basis. Paragraph 1.4.9 requires the disclosure of cash balances held by an entity at reporting date that are not available for use by the entity or are subject to external restrictions.
+
+#### Financial statements
+
+An entity should prepare and present general purpose financial statements which include the following components:
+
+1. Statement of cash receipts and payments which:
+
+\begin{enumerate}
+\item recognizes all cash receipts, cash payments and cash balances controlled by the entity; and
+\item separately identifies payments made by third parties on behalf of the entity in accordance with paragraph 1.3.24 of NPSAS.
+\end{enumerate}
+
+2. Accounting policies and explanatory notes; and
+3. When the eneity makes publicly avaialble its approved budget, a comparison of budget and actual amounts either as a separate additional financial statement or as a budget column in the statement of cash receipts and payments in accordance with paragraph 1.9.8 of NPSAS.
+
+When an entity elects to disclose information prepared on a different basis from the cash basis of accounting, such information should be disclosed in the notes to the financial statements.
+
+**Information to be presented in the Statement of Cash Receipts and Payments**
+
+The statement of cash receipts and payments should present the following amounts for the reporting period:
+\begin{enumerate}
+\item total cash receipts of the entity showing separately a sub-classification of total cash receipts using a classification basis appropriate to the entity's operations; 
+\item total cash payments of the entity showing separately a sub- classification of total cash payments using a classification appropriate to the entity's operations; and basis
+\item beginning and closing cash balances of the entity.
+\end{enumerate}
+
+Total cash receipts and total cash payments, and cash receipts and cash payments for each sub-classification of cash receipt and payment, should be reported on a gross basis, except that cash receipts and payments may be reported on a net basis when:
+
+\begin{enumerate}
+\item they arise from transactions which the entity administers on behalf of other parties and which are recognized in the statement of cash receipts and payments; or
+\item they are for items in which the turnover is quick, the amounts are large, and the maturities are short.
+\end{enumerate}
+
+Line items, headings and sub-totals should be presented in the statement of cash receipts and payments when such presentation is necessary to present fairly the entity's cash receipts, cash payment and cash balances. Total cash receipts may be classified to, for example, separately identify cash receipts from taxation or appropriation; grants and donations; borrowings; proceeds from the disposal of property, plant and equipment; and other ongoing service delivery and trading activities. Total cash payment may be classified to, for example, separately identify cash payments in respect of: ongoing service delivery activities including transfers to constituents or other government entities; debt reduction programs; acquisitions of property, plant and equipment; and any trading activities.
+
+#### General considerations
+
+1. *Reporting period* The general purpose financial statements should be presented at least annually. When, in exceptional circumstances, an entity's reporting date changes and the annual financial statements are presented for a period longer or shorter than one year, an entity should disclose in addition to the period covered by the financial statements:
+
+\begin{enumerate}
+\item the reason(s) for a period other than one year being used; and
+\item the fact that comparative amounts may not be comparable.
+\end{enumerate}
+
+2. *Timeliness*
+3. *Authorization date*
+4. *Information about the Entity*
+5. *Restrictions on cash balances and access to borrowings*
+6. *Consistency of presentation*
+7. *Comparative information*
+8. *Identification of financial statements*
+
+(For a brief presentation summary of NPSAS refer to the linked url^[https://dms.nasc.org.np/sites/default/files/documents/NPSAS-2076.pdf])
+
+## Money Laundering
+
+Money laundering is the process of concealing the source of illicit property. It is also be referred to as:
+
+1. the act of decorating the illegal property with the veil and legitimate sources
+2. the act of converting or changing the source and nature of the black (illegally earned proceeds) into the clean or white property
+
+Money laundering is a serious financial crime, otherwise also known as white-collar crime. The form of crime is prevalent among financially motivated individuals or groups including businesses entities and government professionals and is manifested non-violently.
+
+Features of money laundering act
+
+1. Organized crime: There are multiple parties involved in many laundering. A single person can not commit money laundering
+2. Cross border crime: It may involve to or more countries
+3. Essence/presence of illicit property: There must be black money
+4. White collar crime: It generally does not involve violence
+5. Cyclic process: Conducted in a coordinated way involving three steps.
+  - Placement: It comprises the process of scattering illicit money in different places as much as possible. This is usually done in those areas where there is no need for revealing income source.
+  - Layering: Layering is the process of creating multiple transactions so as to cover up the illicit property
+  - Integration: Integration is the process of mixing up of illicit money with a legal/white/clean property.
+
+Placement, layering and integration are also called money laundering cycle.
+
+6. Predicated offense: This crime is committed only after other crime.
+
+What are the money laundering and terrorist financing offence ?
+
+Money laundering offence
+
+1. Acts of converting, transferring property by any means knowning that it is proceeds of crime.
+2. Acts of concealing or changing the nature, source, position, ownership of property knowing that it is proceeds of crime.
+3. Acts of acquiring, using, or processing illicit property knowing that is proceeds of crime.
+4. Conspire, abet, assist, facilitate and associate to money laundering
+
+Terrorist financing offence
+
+1. Acts of providing or collecting funds by knowing, willful, illegally, directly or indirectly with the intention of use in terrorist financing.
+2. Acts of support or attempt to support terrorist activity.
+3. Conspire, abet, assist, facilitate to support any resources or participate as an accomplice to committ terrorist activity of financing.
+
+Punishment provisions of money laundering and terrorist financing
+
+For natural person
+
+1. For money laundering offence -- fine 2 times the amount of crime and 2-10 years of imprisonment.
+2. For terrorist financing offence -- fine 3 times and 3-20 years of imprisonment.
+3. If the claim amount is not clear -- fine upto 1 crore and 3-20 years of imprisonment.
+4. For accomplice -- half the punishment of main convicted.
+5. For higher authority or reporting unit, a civil servant -- 10 percent more punishment.
+6. Confiscation of all the crime amount of money laundering and terrorist financing.
+
+For organization (business entity)
+
+1. Fine 5 times the amount fine for a natural person and restriction of public procurement for a specific period of time
+2. Restriction to produce and purchase for a specific period of time
+3. Recovery of all the losses
+4. Cancellation of license
+5. De-registration of entity (company)
+
+### Provisions of Money Laundering Prevention act, 2064
+
+1. Reporting unit and reporting procedure -- Reporting units are those institutions which are assigned to report their financial transactions. It includes -- all the financial and non-financial firms, professional and businesses (e.g. B and FI, Casinos, Real estate).
+2. It defines money laundering terrorist financing offeses.
+3. Restriction to open account of a fictious person (imaginary person)
+4. Restriction to make anonymous transactions
+5. Restriction to operate shell banking (Shell banking -- carrying out banking operation by registering in registrar office but without physical existance)
+6. Provision of customer due diligence (CDD) -- All the B and FIs and other firms who carry otu the financial transaction must use Know Your Customer (KYC) to maintain customer due deligence (CDD).
+7. Monitoring and record keeping of cross broder corresponding banking. (Correspondence banking -- Performance of transaction by a bank of foreign country on behalf of home country based on correspondence)
+8. Institutional provision for the prevention of money laundering and terrorist financing (DLMI, FIU).
+9. Provision of seizure and confiscation of suspicious property and visa/travel documents of a suspicious person while investigating.
+10. Provision of punishment of ML and TF offenses as per natural person and legal person.
+11. Free/open time limitation for ML and TF case to case the file
+12. Provision of rewarding information providers upto 10 lakhs or 10% of the crime amount whichever is less.
+13. Provision relating punishment to false FIR providers as up to NRs 10000 in fines.
+14. Provision to prepare "National Risk Assessment Report" periodically.
+15. Provision of reporting of suspicious transaction to FIU promptly by reporting unit.
+
+### Achivements after formation of MLP act, 2064
+
+1. Establishment of reporting unit
+2. Increased use of KYC for CDD
+3. Need to disclose the source of income properly
+4. Restriction to operate shell banking
+5. Establishment and operation of FIU (Financial Information Unit)
+6. Establishment of DMLI (Department of Money Laundering Investigation)
+7. Support to control capital flight
+8. Compliance with other laws
+9. Suport promotion of financial good governance
+10. Control of ML and TF
+
+### Weaknesses of MLP act, 2064
+
+1. Lack of specialization in investigation
+2. The dilemma in functional jurisdiction
+3. Complex provision
+4. Open border
+5. Maximum use of Indian currency
+6. Problem in compliance with other legal provisions
+7. Political and crime nexus
+
 ## Inventory management
+
+Inventory is a quantity or store of goods that is held for some purpose or use (the term may also be used as a verb, meaning to take inventory or to count all goods held in inventory). Inventory may be kept "in-house," meaning on the premises or nearby for immediate use; or it may be held in a distant warehouse or distribution center for future use. With the exception of firms utilizing just-in- time methods, the term "inventory" typically implies a stored quantity of goods that exceeds what is needed for the firm to function at the current time (e.g., within the next few hours). Inventory may includes raw materials, finished goods, work in progress and daily consuming goods.
+
+Inventory is physical goods in store bought for the purpose of the major business activities which hasn't been sent to the workplace. In the case of bank, draft, cheque, ledger, voucher templates and stationary equipments can be taken as inventory.
+
+Inventory is held in organization for three motives. They are:
+
+- Transaction motive -- to facilitate smooth operation. This also means retail/business must have products stocked in order to meet the demands of customer.
+- Precautionary motive -- to guard against unpredictable changes. Usually, in manufacturing, runing out of only one item can prevent a manufacturer from completing the production of its finished goods.
+- Speculative motive -- to take advantage of price fluctuations
+
+Why inventory leves should not be kept high ?
+
+- Requires large capital investment
+- Space usage
+- Obsolescence
+- Complicates inventory contol system
+
+Why inventory levels should not be kept low ?
+
+- Inventory deficit
+- Inefficient usage of human and capital resources
+
+### Inventory management
+
+Inventory management is the management to keep the optimum (not less, not more) level of inventory for the smooth operation of an organization. Broadly, inventory management, or inventory control, is an attempt to balance inventory needs and requirements with the need to minimize costs resulting from obtaining and holding inventory. There are several schools of thought that view inventory and its function differently.
+
+Effective inventory management is all about knowing what is on hand, where it is in use, and how much finished product results. As well as scheduling the inflow and outflow of stocks in the inventory efficiently, assessing cost effectiveness of managing an inventory should factor in three types of costs that constitute total inventory costs: Holding costs (also called carrying costs, that result form maintaining the inventory), set-up costs and purchasing costs.
+
+### Importance of inventory management
+
+- To achieve the organization goal by reducing investment
+- To protect make productive use of assets
+- To reflect all the records of inventory
+- To establish inventory discipline by minimizing the risk of theft, misuse or inventory
+- To formulate inventory related policies
+- To purchase, use and manage the assets at low cost
+- To prepare a base for inventory inspection
+- To stop purchasing unwanted goods
+- To minimize the risk of stock out and over stock
+- To keep the inventory level at a reasonable level
 
 \begin{questions}
 
@@ -668,7 +907,7 @@ To date there have been four phases of the PEFA program. The current phase began
 
 \end{questions}
 
-## Auditing and taxation
+## Miscellaneous topics on budgeting, public accounting and finance
 
 \begin{questions}
 
@@ -678,9 +917,35 @@ To date there have been four phases of the PEFA program. The current phase began
 \item Internal auditing
 \end{enumerate}
 
-source: \url{https://kathmandupost.com/money/2017/06/07/integrated-financial-info-system-mulled}
-
 \end{questions}
+
+### Addressing the income gap
+
+As a multi-dimensional concept equality means fair treatment of citizens of diverse distinctions. It reduces the gap between the haves and have-nots that scar the Nepali nation. The rationality of equality springs from the equal values attached to each citizen. Democratic virtues foster nationality and humanity of person which is a good worth of citizenship equality and entitled with same welfare provisions. They are the preconditions for freedom. Equality enhances the scale of economic security, wellbeing and dignity, reconciles with social justice and finds its resonance in the constitution. It sets the rules of the game. The unified application of the Constitution in Nepali society coordinates the conflicting conceptions of good life arising out of geographical, genetic, social, economic and cultural diversity, hierarchy and patriarchy. Equality can be measured by the same set of rules of governance for all Nepalis, equal rights, equal opportunity to improve their life-chances and equal welfare to find a life of liberty and progress.
+
+One key challenge Nepali leaders constantly face is the right to equality of citizens enshrined in the Constitution and the actual condition of inequality. This gap between the rich and the poor in Nepal is widening serving as a cause for aspirational politics open to alienation and instability. As a result, Nepali state is unable to muster authority, execute the constitution and stabilise the polity. The tension between Constitutional aspect of welfare state which aims to alleviate the misery of 30 per cent of population below poverty line earning $ 1.90 per day and poor state of redistributive politics owing to inability of Nepali state to finance all rights of citizens remain. In a hierarchy of social, economic and political advantage for certain groups, only equality of opportunity can glue multitude of Nepali citizens and share in a common life.
+
+The welfare state justifies the redistribution of income from capital to workers on moral ground on the basis of capital's income where the contribution of labour is no less significant. The improvement in the living standards of Nepalis can come only through broad-based growth of real economy and investment of surplus on the productive sectors. Economic growth alone does not lubricate the gear of human welfare if its fruits are unfairly distributed, powerful gaining the most and the poor receiving only trickle-down. In the context of growth of democratic awareness, deprivation may feed envy prompting them to engage in radical politics. Well-being across Nepali society can be an effective leveller which can contribute to asset creation and muster ability and capacity to participate in multilevel governance. The meaning of equal rights for Nepalis in the Constitution demands knowledge about it and institutional means to realise them. It provides a sense of security, well-being and dignity and a sense of belonging as a member of the national community, the Nepali state. Economy can grow if natural resource, skilled labour, machineries and infrastructures are optimally utilized and society fully supports its entrepreneurship.
+
+Social justice becomes sustainable with economic efficiency. It can reduce the level of inequality and cope with the negative effects of globalisation. Globalisation frees up the market and intensifies competition among its units but creates disadvantages for those people who cannot compete. This cuts the efficacy of citizenship. In Nepal, the contribution of tax to GDP is little over 15 per cent which is deficient to finance self-sufficient state, fulfil citizens' all rights and raise the living standards of Nepalis. The share of capital to GDP is less than the flow of remittance from the migrant Nepali workers. The annual per capita income of Nepalis stands \$1,000. The minimum wage for worker per month is about \$ 134 but this is inadequate to sustain even a nuclear family. Therefore, the trend of out-bound migration is increasing at a time when post-earthquake resilient rebuilding of this nation needs their active engagement for many years. Annually about 450,000 youth migrate abroad for job and they are source of remittance, entrepreneurship and local economic activities. They contribute 25 per cent to GDP and its benefits are decentralised in all 77 districts. So does its social costs.
+
+Three kinds of inequality pervade Nepali polity - situational inequality, positional inequality and deprivational inequality owing to lack of social, political and economic links. The unjust inequality is awful for economic progress. Democratic politics is designed to reduce the gap in inequality between the empirical facts such as unequal ownership of land and capital and other factors of production that cause misery in Nepali society and adoption of democratic values that is supposed to circulate power, position and wealth across the social classes, gender and generations through a policy embedded in social inclusion, social protection, social security and positive discriminations.
+
+All these concepts embedded in Nepal's constitution call for redistribution from the rich to the poor to meet basic needs, create appropriate jobs, avert social fractures and allow creative pursuit of life. The Constitution demands citizens' part of the sacrifice of their liberty for public security and public order. It is crucial to end the transitional politics and create an egalitarian and just society. This means attainment of public good is necessary. It is a good which does not exclude any Nepalis and can be considered a precondition for social peace. Availability of public good demands both formulation and enforcement of sound public policies based on the spirit of constitution and give a fillip to vital sense of common life. Otherwise, the nation will continue to be trapped in a sort of Greek tragedy where decision-makers do not know the iniquitous consequence of their actions.
+
+One critical aspect of public good in Nepal is public education. It fosters upward mobility by enabling citizens to reclaim control of their destiny and shape the future. Education provides vigilance which is about conscious awareness of one's own living condition and engagement in production and political struggle to improve this. Distribution of intelligence in Nepali society is a must to make its economy competitive and democracy functional. It fosters citizens' desire to innovate and engage in productive life. For example, skilled workers in agriculture increase productivity, reduce any need to migrate abroad for earning and invest more in children's education, health and basic amenities.
+
+Nepal now has a huge pool of skilled workers who have working experience from abroad. Many of them have become entrepreneurs and run their own business and industries. Others have gained skill in the use of modern technology and meet the requirement of Nepalis for human capital equality. Investment in human capital maximises equality, improves the quality of living and meets the need of intergenerational reproduction of human resources. But when financial position is a passport to entry in private education, health, safety, communication and law which poor Nepalis can ill-afford it is hard to gain legal and political equality. Equality before law can only open possibility, not actuality. This is why Nepal's remote and geographically isolated areas face the scarcity of public good such as food, educational and constructional materials, medicine, fertilizers, etc. at a time of amazing growth of private wealth, transport and communication.
+
+Nepal's constitution makes social inequality and discrimination on the basis of caste, gender, region and religion illegitimate. But the unwritten transcript of society continues which needs social reforms and institutional effectiveness to implement laws and set up the supremacy of law over social, economic and political leaders. The social discrimination owing to caste, gender or class inequality has perverse impact on equality. Nepal's social inclusion policy has widened the participation of women, Dalits, and other groups of society in labour market, politics, administration and improved their situation. Only effective institutions can sincerely implement social policies and forestall exclusion. They outlast individual members. But their renewal is important as per the tasks assigned to them by law.
+
+This, however, demands Nepali leaders' political will and commitment. The influence of money on politics has fostered political inequality. Economic equality is a precondition for political equality and civic competence. In Nepal, the proportional representation is dominated by moneyed class, cronyism and interest groups. This bars the inclusion of a large number of micro-minorities and formulate polices to compatible with constitutional spirit. When money becomes a means to peddle influence on politics, authority, law and development policies, low income groups will be trapped in hierarchy and structural injustice and turning their past as a future. They cannot overcome this situation and attain equality in the absence of political solidarity and struggle for equal status.
+
+Building trust among citizens is important to control free-riders, spoilers and predators, who appropriate the resource flow and block the material basis of the egalitarian transformation of Nepali society, economy and polity. For example, gender equality requires transforming the nature of political economy enabling women to gain access to representation, communication, and participation in public sphere, culture, everyday life and recognition of their identity. The debate about democratic equality of Nepali citizens can be initiated and its solution found in the public spheres and public interest, not in selfish promotion of private interests. It can be furnished where government is the solution of the problem of inequality as it has broad-based mandate to take decisions and formulate and implement egalitarian public policies underlined by the spirit of constitution.
+
+One strategy is the use of public funds for reducing inequalities, the other is increasing corporate social responsibilities, still the other is mobilisation of resources, knowledge, skill and technologies of intermediary associations, cooperatives, local government, CBOs, civil society, NGOs and charity-based organizations in alleviating human suffering such as poverty, inequality, joblessness, etc. The golden rule is: elected political leaders who have mandate for change must think outside their partisan interests and work for the general welfare of all citizens.
+
+Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/25216}
 
 ### Current status of national debt of Nepal
 

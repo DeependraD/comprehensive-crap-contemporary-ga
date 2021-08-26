@@ -8,7 +8,40 @@
 
 \question Explain briefly on the prospect of hydroelectricity development in Nepal.
 
+\begin{solution}
+
+(For a discussion on status of hydroelectricity development, refer to the Objective Guide)
+
+\end{solution}
+
 \end{questions}
+
+### Hydroelectricity generation and trade
+
+Nepal has a long way to investment to harness its hydropower potential. While there is ample scope to sell electricity to India and generate revenue as much as 1.07 Trillion by 2045, Nepal needs to commit large investment amounts of Rs 2596 and Rs 2216 by time period between 2030 and 2045 to make the breakthrough. The earning is thanks to around 26 GW capacity of the hydroelectricity power projects to be accomplished by 2045.
+
+As India has embraced renewable energy use policy, it seeks to replace huge number of coal fired power plants scattered across the country. On one hand, coal plants are adding to the environmental costs of the country while also pushing the resource towards exhaustion. It initiative from India should only benefit the country in the long run, though, since the coal based electricity comes at a much cheaper cost (Rs 4.6 as compared to Rs 9 for a single unit generated from coal verus hyrdoelectricity, respectively).
+
+Around 95% of households in Nepal have access to electricity, out of which around 60% are connected to the grid.
+  - 10% demand is met by rural electrification schemes
+  - 18% demand is met by off grid electrification
+  - 7% demand is met by solar system
+
+Prospects of hydropower generation for trade
+
+1. Acute energy shortages not only in Nepal but also in entire South Asian region.
+2. Renewable energy is a hot topic of discussion at regional forums including SAARC; Bangladesh, Bhutan, India and Nepal Initiative (BBIN).
+3. Current peak load electricity demand (April 2019) is around 1500 MW (NEA) and this is expected to increase to 2379 MW by 2022 and to 4280 MW by 2030.
+4. Several investment/infrastructure summits (including Investment Summit, 2017 that garnered pledged of a jaw dropping FDI commitment of US \$13.51 billion from investors) have been organized in the recent past with the objective to attract foreign investment in the country. Major focus has been laid on large scale hydropower projects in these sort of cross national collaboration.
+
+Challenges of hydroelectricity generation for trade
+
+- Costs of renewable energy sources, mainly solar, are falling.
+- South Asian region has been seeing agressive dam building over the last few years. This is true not only for Nepal but for almost all of those countries having a potential for hydroelectricity generation. This leaves Nepal in a situation of dilemma as to whether invest its precious finance in building infrastructures that feed surplus of energy or not.
+- Environmental costs and risks of hydropower are high and are only now being fully understood in terms of upstream and downstream ecosystem health.
+- Nepal lacks cross border transmission lines and trustworthy agreements of understandings (MoU) for transmission to a country via a third country. For example, although Nepal signed MoU for energy trade with Bangladesh early on, it has made no concrete efforts to negotiate with India to allow for transmission using the country's territory.
+- Government commissions set for appraisal of energy demand in Nepal have suggested that there is no need for more energy during wet season to meet domestic demand.
+- In recent years, several hydroelectricity projects are being led by local investors with domestic resources and infrastructure. Projects up to 100 MW are being invested in by the private sector and the government is constructing 450+ MW projects. While this offers a chance to competitively implement the project and encourage national ownership, it also reflects a receding scenario of foreign investment. The attitude of deflection of such investments leaves a bad impression for Nepal's market tendencies and efficiency.
 
 ## Health
 
