@@ -10,10 +10,8 @@ classoption: openany # this will force for 2 side layout of book to open chapter
 bibliography: [bibliography/bib.bib]
 biblio-style: apalike
 link-citations: yes
-# github-repo: deependrad/comprehensive_crap_contemporary_ga
-description: "This is a guide book for contemporary issues and general administration topics"
-header-includes: 
-  - \usepackage{fancyhdr}
+# github-repo: deependrad/comprehensive-crap-contemporary-ga
+description: "A guide book for contemporary issues and general administration topics"
 ---
 
 ```{r setup, include=FALSE, message=FALSE}
