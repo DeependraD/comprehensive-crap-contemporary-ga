@@ -27,8 +27,6 @@ jobs:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-renv@v1
-      - name: Install Danteev Maximal Texlive distribution
-        uses: dante-ev/latex-action@latest
 
       - name: Cache bookdown results
         uses: actions/cache@v2
