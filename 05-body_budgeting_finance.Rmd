@@ -140,6 +140,12 @@ Need and importance of a government budget
 
 ## Taxation
 
+In 2010, Nepal had 30 customs offices, 143 sub-customs units, 23 Inland Revenue offices and 13 service centers.64 The customs administration collects customs duty, Value Added Tax (VAT),65 and excise and others taxes at border points, accounting for about 40 percent of total revenues in 2010. Customs duty contributed about 22 percent of total tax receipts. The revenue collected is enough to pay for more than 50 per cent of the total outlay of each periodic plan.
+
+The government introduced the VAT in 1997 to replace the sales tax, hotel tax, contract tax and entertainment tax, and VAT is today the main source of revenue. The threshold for registering for VAT is Rs 2 million. In fiscal year 2009/10, the government began encouraging taxpayers to obtain Permanent Account Numbers (PAN). By December 2009, 50,763 individuals had obtained PANs. Efforts have continued to broaden the tax net, which now includes real estate transactions. Similar efforts have been undertaken to make customs administration more efficient. The government has recommended setting up a central revenue board as part of ongoing efforts to reform revenue administration.
+
+The major challenges in revenue collection include low collection of taxes, the inability of government to increase the effectiveness of health and education taxes, unscientific customs valuation, non-issuance of bills and receipts, undervaluation of goods and services, evasion of excise duties, and lack of coordination between revenue collection entities. As indicated in the section on the judiciary, case disposition at revenue tribunals is also an area that needs improvement.
+
 ### Income tax
 
 Income tax is a tax imposed on individuals or entities (taxpayers) that varies with respective income or profits (taxable income). Income tax is generally computed as the product of a tax rate times taxable income. Taxation rates may vary y type or characteristics of the taxpayer.
@@ -463,12 +469,6 @@ The DTCOs monitor the expenditures of the line offices. There are about 4,000 fu
 
 Established in 1956, the NRB is the country's central bank and is responsible for ensuring monetary and financial stability in coordination with the MoF. A committee chaired by the Minister of Finance recommends the appointment of the governor of the central bank. NRB's main functions include issuing currency, formulating and implementing appropriate monetary policy, formulating and implementing a foreign exchange policy and determining a foreign exchange system, managing a foreign exchange reserve, issuing banking licenses, regulating commercial banks and financial institutions and serving as their banker, functioning as a banker, advisor and financial agent of the government, and establishing, promoting and regulating the system of payment, clearing and settlement.
 
-In 2010, Nepal had 30 customs offices, 143 sub-customs units, 23 Inland Revenue offices and 13 service centers.64 The customs administration collects customs duty, Value Added Tax (VAT),65 and excise and others taxes at border points, accounting for about 40 percent of total revenues in 2010. Customs duty contributed about 22 percent of total tax receipts. The revenue collected is enough to pay for more than 50 per cent of the total outlay of each periodic plan.
-
-The government introduced the VAT in 1997 to replace the sales tax, hotel tax, contract tax and entertainment tax, and VAT is today the main source of revenue. The threshold for registering for VAT is Rs 2 million. In fiscal year 2009/10, the government began encouraging taxpayers to obtain Permanent Account Numbers (PAN). By December 2009, 50,763 individuals had obtained PANs. Efforts have continued to broaden the tax net, which now includes real estate transactions. Similar efforts have been undertaken to make customs administration more efficient. The government has recommended setting up a central revenue board as part of ongoing efforts to reform revenue administration.
-
-The major challenges in revenue collection include low collection of taxes, the inability of government to increase the effectiveness of health and education taxes, unscientific customs valuation, non-issuance of bills and receipts, undervaluation of goods and services, evasion of excise duties, and lack of coordination between revenue collection entities. As indicated in the section on the judiciary, case disposition at revenue tribunals is also an area that needs improvement.
-
 ### Revenue administration
 
 The establishment of permanent revenue collection offices in districts in the south was the most important Rana contribution to revenue administration. These offices were the hubs of fiscal administration in the districts. They later emerged as one of the three main pillars of district administration, along with the District Administration Office and the District Court.
@@ -486,29 +486,35 @@ The Constitution of Nepal 1962 created the Financial Work Procedure Rules, preve
 The Interim Constitution (2007) makes all taxes and loans subject to law, and also provides for a Consolidated Fund, and "except for the revenues of religious endowments," all revenues received by the government, all loans obtained and all money received in repayment of any loan made under the authority of any act is credited to this fund. Nepal has 14 laws on revenue and expenditure administration.
 
 Customs Acts and regulations
+
 1. Customs Act, 2064
 2. Customs Regulation, 2064
 3. Baggage Act, 2001
 4. Finance Act, 2009
 
 Income Tax Acts and Regulations
+
 1. Income Tax Act, 2000
 2. Income Tax Rules, 2002
 
 Value Added Tax Acts and rules
+
 1. Value Added Tax Act, 2005
 2. Value Added Rules, 2005
 
 Excise Act and Rules
+
 1. Excise Act, 2004
 2. Excise Rules, 2004
 
 Revenue Investigation Act and regulation
+
 1. Revenue Tribunal Act
 2. Special Courts Act, 2003
 3. Foreign Exchange Regulation Act
 
 Financial (expenditure) Administration
+
 1. Financial Procedure Act, 1998
 2. Financial Administration Rules, 2007
 3. Public Procurement Act, 2006
@@ -521,13 +527,12 @@ Financial (expenditure) Administration
 
 \begin{solution}
 
-Background
-
 Organizational Information
 
 The Inland Revenue Department (IRD) is currently responsible for the enforcement of Tax Laws and administration of the following taxes: Income Tax, Value Added Tax, Excise Duty and duties like Entertainment fee (Film Development Fee). Value Added Tax Department was merged with Department of Taxation on April 15, 2001. Later it was renamed as Inland Revenue Department since July 16, 2001.
  
 IRD is centrally located in Kathmandu. There are 59 field offices throughout Nepal including 1 Large Taxpayers Office, 1 Medium Level Taxpayer Office, 38 Inland Revenue Offices and 19 Taxpayer Service Offices. IRD carries out the following functions:
+
 1. Tax Administration
 2. Tax Policy
 3. Tax Payer Services
@@ -540,31 +545,31 @@ IRD is centrally located in Kathmandu. There are 59 field offices throughout Nep
 10. Tax Treaty and International Taxation
 11. Excises and Liquor Administration
 
-TAXPAYERS RIGHTS AND ASSURANCES
+**Taxpayers rights and assurances**
 
 In addition to the specific rights and assurances provided in the concerned Acts, taxpayers in general are assured of the following rights. These assurances will be strictly adhered to. The Taxpayers rights, among others, include:
 
 A. Each taxpayer is treated with due respect and honor.
 
-B. Each taxpayer will get an immediate receipt of return submission whilst a receipt of other correspondences is to be provided in ONE hour.
+B. Each taxpayer will get an immediate receipt of return submission whilst a receipt of other correspondences is to be provided in 1 hour.
 
 C. Each taxpayer willing to seek an advance ruling may apply either in the Department or through concerned Inland Revenue Office. There is a legal provision that a decision should be made within 45 days after the request is made.
 
 D. Each taxpayer can represent or make any correspondence through an authorized person including legal assistants and the accounts specialist or auditors just in case if he/she is unable to represent or make any correspondence.
 
-E. Each taxpayer is to get copies of the documents related with him/her or submitted to the IRO or documents or decisions affecting her/him generally within TWENTY FOUR hours of his/her request in the concerned IRO.
+E. Each taxpayer is to get copies of the documents related with him/her or submitted to the IRO or documents or decisions affecting her/him generally within 24 hours of his/her request in the concerned IRO.
 
 F. Each taxpayer is to get refund of his excess input tax (VAT) and other taxes. The exporter will get refund generally within 15 days in IROs and 30 days in IRD upon receiving application for refund along with required documents.
 
-G. Each taxpayer is to get certificate/renewal of Excise/Liquor business generally within TWENTY FOUR hour after the request is made.
+G. Each taxpayer is to get certificate/renewal of Excise/Liquor business generally within 24 hour after the request is made.
 
-H. Each taxpayer is to get sales and purchase books certified by the Tax Officer generally within TWENTY FOUR hours after the request is made.
+H. Each taxpayer is to get sales and purchase books certified by the Tax Officer generally within 24 hours after the request is made.
 
-I. Each taxpayer is to get initials of the Tax Officer on stock transfer or sales to the non-registrants generally within TWENTY FOUR hours after the request is made.
+I. Each taxpayer is to get initials of the Tax Officer on stock transfer or sales to the non-registrants generally within 24 hours after the request is made.
 
 J. Each taxpayer is to get Permanent Accounts Number (PAN) or the Certificate generally within 3 days after the request is made, and
 
-K. Each taxpayer is to get Tax Clearance Certificate generally within TWENTY FOUR hours after the request is made.
+K. Each taxpayer is to get Tax Clearance Certificate generally within 24 hours after the request is made.
 
 \end{solution}
 
@@ -759,105 +764,6 @@ Line items, headings and sub-totals should be presented in the statement of cash
 
 (For a brief presentation summary of NPSAS refer to the linked url^[https://dms.nasc.org.np/sites/default/files/documents/NPSAS-2076.pdf])
 
-## Money Laundering
-
-Money laundering is the process of concealing the source of illicit property. It is also be referred to as:
-
-1. the act of decorating the illegal property with the veil and legitimate sources
-2. the act of converting or changing the source and nature of the black (illegally earned proceeds) into the clean or white property
-
-Money laundering is a serious financial crime, otherwise also known as white-collar crime. The form of crime is prevalent among financially motivated individuals or groups including businesses entities and government professionals and is manifested non-violently.
-
-Features of money laundering act
-
-1. Organized crime: There are multiple parties involved in many laundering. A single person can not commit money laundering
-2. Cross border crime: It may involve to or more countries
-3. Essence/presence of illicit property: There must be black money
-4. White collar crime: It generally does not involve violence
-5. Cyclic process: Conducted in a coordinated way involving three steps.
-  - Placement: It comprises the process of scattering illicit money in different places as much as possible. This is usually done in those areas where there is no need for revealing income source.
-  - Layering: Layering is the process of creating multiple transactions so as to cover up the illicit property
-  - Integration: Integration is the process of mixing up of illicit money with a legal/white/clean property.
-
-Placement, layering and integration are also called money laundering cycle.
-
-6. Predicated offense: This crime is committed only after other crime.
-
-What are the money laundering and terrorist financing offence ?
-
-Money laundering offence
-
-1. Acts of converting, transferring property by any means knowning that it is proceeds of crime.
-2. Acts of concealing or changing the nature, source, position, ownership of property knowing that it is proceeds of crime.
-3. Acts of acquiring, using, or processing illicit property knowing that is proceeds of crime.
-4. Conspire, abet, assist, facilitate and associate to money laundering
-
-Terrorist financing offence
-
-1. Acts of providing or collecting funds by knowing, willful, illegally, directly or indirectly with the intention of use in terrorist financing.
-2. Acts of support or attempt to support terrorist activity.
-3. Conspire, abet, assist, facilitate to support any resources or participate as an accomplice to committ terrorist activity of financing.
-
-Punishment provisions of money laundering and terrorist financing
-
-For natural person
-
-1. For money laundering offence -- fine 2 times the amount of crime and 2-10 years of imprisonment.
-2. For terrorist financing offence -- fine 3 times and 3-20 years of imprisonment.
-3. If the claim amount is not clear -- fine upto 1 crore and 3-20 years of imprisonment.
-4. For accomplice -- half the punishment of main convicted.
-5. For higher authority or reporting unit, a civil servant -- 10 percent more punishment.
-6. Confiscation of all the crime amount of money laundering and terrorist financing.
-
-For organization (business entity)
-
-1. Fine 5 times the amount fine for a natural person and restriction of public procurement for a specific period of time
-2. Restriction to produce and purchase for a specific period of time
-3. Recovery of all the losses
-4. Cancellation of license
-5. De-registration of entity (company)
-
-### Provisions of Money Laundering Prevention act, 2064
-
-1. Reporting unit and reporting procedure -- Reporting units are those institutions which are assigned to report their financial transactions. It includes -- all the financial and non-financial firms, professional and businesses (e.g. B and FI, Casinos, Real estate).
-2. It defines money laundering terrorist financing offeses.
-3. Restriction to open account of a fictious person (imaginary person)
-4. Restriction to make anonymous transactions
-5. Restriction to operate shell banking (Shell banking -- carrying out banking operation by registering in registrar office but without physical existance)
-6. Provision of customer due diligence (CDD) -- All the B and FIs and other firms who carry otu the financial transaction must use Know Your Customer (KYC) to maintain customer due deligence (CDD).
-7. Monitoring and record keeping of cross broder corresponding banking. (Correspondence banking -- Performance of transaction by a bank of foreign country on behalf of home country based on correspondence)
-8. Institutional provision for the prevention of money laundering and terrorist financing (DLMI, FIU).
-9. Provision of seizure and confiscation of suspicious property and visa/travel documents of a suspicious person while investigating.
-10. Provision of punishment of ML and TF offenses as per natural person and legal person.
-11. Free/open time limitation for ML and TF case to case the file
-12. Provision of rewarding information providers upto 10 lakhs or 10% of the crime amount whichever is less.
-13. Provision relating punishment to false FIR providers as up to NRs 10000 in fines.
-14. Provision to prepare "National Risk Assessment Report" periodically.
-15. Provision of reporting of suspicious transaction to FIU promptly by reporting unit.
-
-### Achivements after formation of MLP act, 2064
-
-1. Establishment of reporting unit
-2. Increased use of KYC for CDD
-3. Need to disclose the source of income properly
-4. Restriction to operate shell banking
-5. Establishment and operation of FIU (Financial Information Unit)
-6. Establishment of DMLI (Department of Money Laundering Investigation)
-7. Support to control capital flight
-8. Compliance with other laws
-9. Suport promotion of financial good governance
-10. Control of ML and TF
-
-### Weaknesses of MLP act, 2064
-
-1. Lack of specialization in investigation
-2. The dilemma in functional jurisdiction
-3. Complex provision
-4. Open border
-5. Maximum use of Indian currency
-6. Problem in compliance with other legal provisions
-7. Political and crime nexus
-
 ## Inventory management
 
 Inventory is a quantity or store of goods that is held for some purpose or use (the term may also be used as a verb, meaning to take inventory or to count all goods held in inventory). Inventory may be kept "in-house," meaning on the premises or nearby for immediate use; or it may be held in a distant warehouse or distribution center for future use. With the exception of firms utilizing just-in- time methods, the term "inventory" typically implies a stored quantity of goods that exceeds what is needed for the firm to function at the current time (e.g., within the next few hours). Inventory may includes raw materials, finished goods, work in progress and daily consuming goods.
@@ -946,6 +852,64 @@ Building trust among citizens is important to control free-riders, spoilers and 
 One strategy is the use of public funds for reducing inequalities, the other is increasing corporate social responsibilities, still the other is mobilisation of resources, knowledge, skill and technologies of intermediary associations, cooperatives, local government, CBOs, civil society, NGOs and charity-based organizations in alleviating human suffering such as poverty, inequality, joblessness, etc. The golden rule is: elected political leaders who have mandate for change must think outside their partisan interests and work for the general welfare of all citizens.
 
 Source: Dev Raj Dahal, \url{http://therisingnepal.org.np/news/25216}
+
+### Money Laundering
+
+Money laundering is the process of concealing the source of illicit property. It is also be referred to as:
+
+1. the act of decorating the illegal property with the veil and legitimate sources
+2. the act of converting or changing the source and nature of the black (illegally earned proceeds) into the clean or white property
+
+Money laundering is a serious financial crime, otherwise also known as white-collar crime. The form of crime is prevalent among financially motivated individuals or groups including businesses entities and government professionals and is manifested non-violently.
+
+Features of money laundering act
+
+1. Organized crime: There are multiple parties involved in many laundering. A single person can not commit money laundering
+2. Cross border crime: It may involve to or more countries
+3. Essence/presence of illicit property: There must be black money
+4. White collar crime: It generally does not involve violence
+5. Cyclic process: Conducted in a coordinated way involving three steps.
+  - Placement: It comprises the process of scattering illicit money in different places as much as possible. This is usually done in those areas where there is no need for revealing income source.
+  - Layering: Layering is the process of creating multiple transactions so as to cover up the illicit property
+  - Integration: Integration is the process of mixing up of illicit money with a legal/white/clean property.
+
+Placement, layering and integration are also called money laundering cycle.
+
+6. Predicated offense: This crime is committed only after other crime.
+
+What are the money laundering and terrorist financing offence ?
+
+Money laundering offence
+
+1. Acts of converting, transferring property by any means knowning that it is proceeds of crime.
+2. Acts of concealing or changing the nature, source, position, ownership of property knowing that it is proceeds of crime.
+3. Acts of acquiring, using, or processing illicit property knowing that is proceeds of crime.
+4. Conspire, abet, assist, facilitate and associate to money laundering
+
+Terrorist financing offence
+
+1. Acts of providing or collecting funds by knowing, willful, illegally, directly or indirectly with the intention of use in terrorist financing.
+2. Acts of support or attempt to support terrorist activity.
+3. Conspire, abet, assist, facilitate to support any resources or participate as an accomplice to committ terrorist activity of financing.
+
+Punishment provisions of money laundering and terrorist financing
+
+For natural person
+
+1. For money laundering offence -- fine 2 times the amount of crime and 2-10 years of imprisonment.
+2. For terrorist financing offence -- fine 3 times and 3-20 years of imprisonment.
+3. If the claim amount is not clear -- fine upto 1 crore and 3-20 years of imprisonment.
+4. For accomplice -- half the punishment of main convicted.
+5. For higher authority or reporting unit, a civil servant -- 10 percent more punishment.
+6. Confiscation of all the crime amount of money laundering and terrorist financing.
+
+For organization (business entity)
+
+1. Fine 5 times the amount fine for a natural person and restriction of public procurement for a specific period of time
+2. Restriction to produce and purchase for a specific period of time
+3. Recovery of all the losses
+4. Cancellation of license
+5. De-registration of entity (company)
 
 ### Current status of national debt of Nepal
 
